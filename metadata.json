@@ -1,0 +1,16 @@
+{
+  "title": "Wuthering Heights",
+  "shortTitle": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "year": 1850,
+  "source": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+  "words": 116440,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/WutheringHeights",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/32929156-wuthering-heights",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  },
+  "blurb": "foo",
+  "blurb2": "bar"
+}
