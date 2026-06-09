@@ -7,10 +7,9 @@
   "words": 116440,
   "pulpDate": null,
   "repo": "https://github.com/JohnQPulp/WutheringHeights",
-  "links": {
-    "Goodreads": "https://www.goodreads.com/book/show/32929156-wuthering-heights",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights"
-  },
+  "wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights",
   "blurb": "foo",
-  "blurb2": "bar"
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
 }
