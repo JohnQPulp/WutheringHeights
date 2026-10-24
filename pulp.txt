@@ -2606,7 +2606,7 @@ I was rocking Hareton on my knee, and humming a song that began﻿—
 
 
 It was far in the night, and the bairnies grat,<br>The mither beneath the mools heard that,
-
+m=margin,1
 
 when Miss Cathy, who had listened to the hubbub from her room, put her head in, and whispered﻿—
 m=nospace,1;m=break,1
@@ -5128,7 +5128,7 @@ I sometimes wonder at him with an intensity that deadens my fear: yet, I assure 
 promising that I should be Edgar’s proxy in suffering, till he could get hold of him.
 
 
-I do hate him﻿—I am wretched﻿—I have been a fool! Beware of uttering one breath of this to anyone at the Grange. I shall expect you every day﻿—don’t disappoint me!﻿—Isabella.
+I do hate him﻿—I am wretched﻿—I have been a fool! Beware of uttering one breath of this to anyone at the Grange. I shall expect you every day﻿—don’t disappoint me!﻿—<span class='upper'>Isabella</span>.
 
 
 ## XIV
