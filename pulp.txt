@@ -2011,59 +2011,92 @@ s=
 “The cowardly children crept nearer also, Isabella lisping﻿—”
 s=;m=nospace,1;m=break,1
 
-“‘Frightful thing! Put him in the cellar, papa. He’s exactly like the son of the fortune-teller that stole my tame pheasant. Isn’t he, Edgar?’”
+“‘Frightful thing! Put him in the cellar, papa.’”
 n:isabella=Isabella Linton;a:isabella=child;s=isabella;e:isabella=fearful
 
-“While they examined me, Cathy came round; she heard the last speech, and laughed. Edgar Linton, after an inquisitive stare, collected sufficient wit to recognise her. They see us at church, you know, though we seldom meet them elsewhere.”
+“‘He’s exactly like the son of the fortune-teller that stole my tame pheasant. Isn’t he, Edgar?’”
+e:isabella=wary
+
+“While they examined me, Cathy came round; she heard the last speech, and laughed.”
 s=
 
-“‘That’s Miss Earnshaw?’ he whispered to his mother, ‘and look how Skulker has bitten her﻿—how her foot bleeds!’”
-n:edgar=Edgar Linton;a:edgar=child;s=edgar;e:edgar=surprised
-
-“‘Miss Earnshaw? Nonsense!’ cried the dame; ‘Miss Earnshaw scouring the country with a gipsy! And yet, my dear, the child is in mourning﻿—surely it is﻿—and she may be lamed for life!’”
-n:mrslinton=Mary Linton (Mrs. Linton);s=mrslinton;e:mrslinton=surprised
-
-“‘What culpable carelessness in her brother!’ exclaimed Mr. Linton, turning from me to Catherine. ‘I’ve understood from Shielders’” (that was the curate, sir)
-s=mrlinton;e:mrlinton=angry;m=break,1
-
-“‘that he lets her grow up in absolute heathenism. But who is this? Where did she pick up this companion? Oho! I declare he is that strange acquisition my late neighbour made, in his journey to Liverpool﻿—a little Lascar, or an American or Spanish castaway.’”
+“Edgar Linton, after an inquisitive stare, collected sufficient wit to recognise her. They see us at church, you know, though we seldom meet them elsewhere.”
 
 
-“‘A wicked boy, at all events,’ remarked the old lady, ‘and quite unfit for a decent house! Did you notice his language, Linton? I’m shocked that my children should have heard it.’”
-s=mrslinton;e:mrslinton=scowling
+“‘That’s Miss Earnshaw?’ he whispered to his mother,”
+n:edgar=Edgar Linton;a:edgar=child;s=edgar;e:edgar=confused;m=break,1
 
-“I recommenced cursing﻿—don’t be angry, Nelly﻿—and so Robert was ordered to take me off. I refused to go without Cathy;”
-b=grange-park-night;s=
+“‘and look how Skulker has bitten her﻿—how her foot bleeds!’”
+e:edgar=upset
+
+“‘Miss Earnshaw? Nonsense!’ cried the dame; ‘Miss Earnshaw scouring the country with a gipsy!’”
+n:mrslinton=Mary Linton;s=mrslinton;e:mrslinton=scowling
+
+“‘And yet, my dear, the child is in mourning﻿—surely it is﻿—and she may be lamed for life!’”
+e:mrslinton=unhappy
+
+“‘What culpable carelessness in her brother!’ exclaimed Mr. Linton, turning from me to Catherine.”
+s=mrlinton;e:mrlinton=scowling;m=break,1
+
+“‘I’ve understood from Shielders’” (that was the curate, sir) “‘that he lets her grow up in absolute heathenism.’”
+
+
+“‘But who is this? Where did she pick up this companion? Oho! I declare he is that strange acquisition my late neighbour made, in his journey to Liverpool﻿—a little Lascar, or an American or Spanish castaway.’”
+e:mrlinton=serious
+
+“‘A wicked boy, at all events,’ remarked the old lady, ‘and quite unfit for a decent house!’”
+s=mrslinton;e:mrslinton=scowling;i=2
+
+“‘Did you notice his language, Linton? I’m shocked that my children should have heard it.’”
+e:mrslinton=unhappylook
+
+“I recommenced cursing﻿—don’t be angry, Nelly﻿—and so Robert was ordered to take me off.”
+s=
+
+“I refused to go without Cathy;”
+;s=
 
 “he dragged me into the garden, pushed the lantern into my hand, assured me that Mr. Earnshaw should be informed of my behaviour, and, bidding me march directly, secured the door again.”
-
+b=grange-parlour-window-wide-night
 
 “The curtains were still looped up at one corner, and I resumed my station as spy; because, if Catherine had wished to return, I intended shattering their great glass panes to a million of fragments, unless they let her out.”
 
 
-“She sat on the sofa quietly. Mrs. Linton took off the grey cloak of the dairymaid which we had borrowed for our excursion, shaking her head and expostulating with her, I suppose:”
+“She sat on the sofa quietly.”
 
 
-“she was a young lady, and they made a distinction between her treatment and mine. Then the woman-servant brought a basin of warm water, and washed her feet;”
+“Mrs. Linton took off the grey cloak of the dairymaid which we had borrowed for our excursion, shaking her head and expostulating with her, I suppose: she was a young lady, and they made a distinction between her treatment and mine.”
 
 
-“and Mr. Linton mixed a tumbler of negus, and Isabella emptied a plateful of cakes into her lap, and Edgar stood gaping at a distance. Afterwards, they dried and combed her beautiful hair, and gave her a pair of enormous slippers, and wheeled her to the fire;”
+“Then the woman-servant brought a basin of warm water, and washed her feet; and Mr. Linton mixed a tumbler of negus, and Isabella emptied a plateful of cakes into her lap, and Edgar stood gaping at a distance.”
+
+
+“Afterwards, they dried and combed her beautiful hair, and gave her a pair of enormous slippers, and wheeled her to the fire;”
 
 
 “and I left her, as merry as she could be, dividing her food between the little dog and Skulker, whose nose she pinched as he ate; and kindling a spark of spirit in the vacant blue eyes of the Lintons﻿—a dim reflection from her own enchanting face.”
-
+f:b:grange-parlour-window-wide-night=blur(3px)
 
 “I saw they were full of stupid admiration; she is so immeasurably superior to them﻿—to everybody on earth, is she not, Nelly?”
+g=;e:heathcliff=contemplative
 
+“There will more come of this business than you reckon on,” I answered,
+s=nelly;e:nelly=serious;m=break,1
 
-“There will more come of this business than you reckon on,” I answered, covering him up and extinguishing the light.
-g=;s=nelly;e:nelly=serious
+covering him up and extinguishing the light.
+s=
 
 “You are incurable, Heathcliff; and Mr. Hindley will have to proceed to extremities, see if he won’t.”
+s=nelly;i=2
 
+My words came truer than I desired.
+s=;f:b:heights-bedroom-night-rain=blur(3px)
 
-My words came truer than I desired. The luckless adventure made Earnshaw furious. And then Mr. Linton, to mend matters, paid us a visit himself on the morrow, and read the young master such a lecture on the road he guided his family, that he was stirred to look about him, in earnest.
-s=
+The luckless adventure made Earnshaw furious.
+s=;b=heights-wide;f:b:heights-wide=blur(3px)
+
+And then Mr. Linton, to mend matters, paid us a visit himself on the morrow, and read the young master such a lecture on the road he guided his family, that he was stirred to look about him, in earnest.
+
 
 Heathcliff received no flogging, but he was told that the first word he spoke to Miss Catherine should ensure a dismissal; and Mrs. Earnshaw undertook to keep her sister-in-law in due restraint when she returned home; employing art, not force: with force she would have found it impossible.
 
