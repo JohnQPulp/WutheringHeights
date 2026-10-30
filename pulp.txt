@@ -8657,7 +8657,7 @@ I perceived he was bent on refusing my mediation, so very reluctantly I went up 
 f:b:grange-hall-night=blur(3px);s=
 
 Mr. Linton had no time to empower me to do so, for Joseph mounted close at my heels, and, pushing into the apartment, planted himself at the far side of the table, with his two fists clapped on the head of his stick, and began in an elevated tone, as if anticipating opposition﻿—
-b=grange-hall-library
+b=grange-library-night
 
 “Hathecliff has sent me for his lad, and I munn’t goa back ’bout him.”
 s=joseph;e:joseph=serious
@@ -8708,97 +8708,109 @@ s=joseph;m=nospeaker,2
 r=title
 
 To obviate the danger of this threat being fulfilled, Mr. Linton commissioned me to take the boy home early, on Catherine’s pony; and, said he﻿—
-b=grange-library;m=nospace,1;m=break,1
+b=grange-library-night;m=nospace,1;m=break,1
 
-“As we shall now have no influence over his destiny, good or bad, you must say nothing of where he is gone to my daughter: she cannot associate with him hereafter, and it is better for her to remain in ignorance of his proximity;”
+“As we shall now have no influence over his destiny, good or bad, you must say nothing of where he is gone to my daughter: she cannot associate with him hereafter, and it is better for her to remain in ignorance of his proximity; lest she should be restless, and anxious to visit the Heights.”
 s=edgar;e:edgar=serious
 
-“lest she should be restless, and anxious to visit the Heights. Merely tell her his father sent for him suddenly, and he has been obliged to leave us.”
-
+“Merely tell her his father sent for him suddenly, and he has been obliged to leave us.”
+e:edgar=unhappy
 
 Linton was very reluctant to be roused from his bed at five o’clock, and astonished to be informed that he must prepare for further travelling;
-b=grange-bedroom;f=fade;s=
+b=grange-linton-bedroom;f=fade;s=
 
 but I softened off the matter by stating that he was going to spend some time with his father, Mr. Heathcliff, who wished to see him so much, he did not like to defer the pleasure till he should recover from his late journey.
 
 
-“My father!” he cried, in strange perplexity. “Mamma never told me I had a father. Where does he live? I’d rather stay with uncle.”
-s=linton;e:linton=confused
+“My father!” he cried, in strange perplexity.
+s=linton;x:linton=night;e:linton=confused
 
-“He lives a little distance from the Grange,” I replied;
+“Mamma never told me I had a father. Where does he live? I’d rather stay with uncle.”
+e:linton=unhappy
+
+“He lives a little distance from the Grange,” I replied; “just beyond those hills: not so far, but you may walk over here when you get hearty.”
 s=nelly;e:nelly=serious
 
-“just beyond those hills: not so far, but you may walk over here when you get hearty. And you should be glad to go home, and to see him. You must try to love him, as you did your mother, and then he will love you.”
+“And you should be glad to go home, and to see him. You must try to love him, as you did your mother, and then he will love you.”
 
 
 “But why have I not heard of him before?” asked Linton. “Why didn’t mamma and he live together, as other people do?”
-s=linton;e:linton=curious
+s=linton;e:linton=confused;i=2
 
 “He had business to keep him in the north,” I answered, “and your mother’s health required her to reside in the south.”
-s=nelly
+s=nelly;e:nelly=thinking
 
 “And why didn’t mamma speak to me about him?” persevered the child. “She often talked of uncle, and I learnt to love him long ago. How am I to love papa? I don’t know him.”
 s=linton;e:linton=unhappy
 
-“Oh, all children love their parents,” I said. “Your mother, perhaps, thought you would want to be with him if she mentioned him often to you. Let us make haste. An early ride on such a beautiful morning is much preferable to an hour’s more sleep.”
-s=nelly
+“Oh, all children love their parents,” I said. “Your mother, perhaps, thought you would want to be with him if she mentioned him often to you.”
+s=nelly;e:nelly=serious
+
+“Let us make haste. An early ride on such a beautiful morning is much preferable to an hour’s more sleep.”
+
 
 “Is *she* to go with us,” he demanded, “the little girl I saw yesterday?”
-s=linton;e:linton=curious
+s=linton;e:linton=suspicious
 
 “Not now,” replied I.
-s=nelly
+s=nelly;e:nelly=contemplative
 
 “Is uncle?” he continued.
-s=linton
+s=linton;e:linton=unhappy
 
 “No, I shall be your companion there,” I said.
-s=nelly
+s=nelly;e:nelly=serious
 
 Linton sank back on his pillow and fell into a brown study.
 s=
 
-“I won’t go without uncle,” he cried at length: “I can’t tell where you mean to take me.”
+“I won’t go without uncle,” he cried at length:
 s=linton;e:linton=upset
+
+“I can’t tell where you mean to take me.”
+
 
 I attempted to persuade him of the naughtiness of showing reluctance to meet his father; still he obstinately resisted any progress towards dressing, and I had to call for my master’s assistance in coaxing him out of bed.
 s=
 
 The poor thing was finally got off, with several delusive assurances that his absence should be short: that Mr. Edgar and Cathy would visit him, and other promises, equally ill-founded, which I invented and reiterated at intervals throughout the way.
+f:b:grange-linton-bedroom=blur(3px)
+
+The pure heather-scented air, the bright sunshine, and the gentle canter of Minny, relieved his despondency after a while.
+b=moor
+
+He began to put questions concerning his new home, and its inhabitants, with greater interest and liveliness.
 
 
-The pure heather-scented air, the bright sunshine, and the gentle canter of Minny, relieved his despondency after a while. He began to put questions concerning his new home, and its inhabitants, with greater interest and liveliness.
+“Is Wuthering Heights as pleasant a place as Thrushcross Grange?” he inquired,
+x:linton=hat;s=linton;e:linton=curiouslook;m=break,1
+
+turning to take a last glance into the valley, whence a light mist mounted and formed a fleecy cloud on the skirts of the blue.
+s=
+
+“It is not so buried in trees,” I replied, “and it is not quite so large, but you can see the country beautifully all round; and the air is healthier for you﻿—fresher and drier.”
+x:nelly=hat;s=nelly;e:nelly=contemplative
+
+“You will, perhaps, think the building old and dark at first; though it is a respectable house: the next best in the neighbourhood. And you will have such nice rambles on the moors.”
 
 
-“Is Wuthering Heights as pleasant a place as Thrushcross Grange?” he inquired, turning to take a last glance into the valley, whence a light mist mounted and formed a fleecy cloud on the skirts of the blue.
-b=moor;f:b:moor=blur(3px);x:linton=hat;s=linton;e:linton=curious
-
-“It is not so buried in trees,” I replied,
-x:nelly=hat;s=nelly
-
-“and it is not quite so large, but you can see the country beautifully all round; and the air is healthier for you﻿—fresher and drier. You will, perhaps, think the building old and dark at first; though it is a respectable house:”
-
-
-“the next best in the neighbourhood. And you will have such nice rambles on the moors. Hareton Earnshaw﻿—that is, Miss Cathy’s other cousin, and so yours in a manner﻿—will show you all the sweetest spots;”
-
-
-“and you can bring a book in fine weather, and make a green hollow your study; and, now and then, your uncle may join you in a walk: he does, frequently, walk out on the hills.”
-
+“Hareton Earnshaw﻿—that is, Miss Cathy’s other cousin, and so yours in a manner﻿—will show you all the sweetest spots; and you can bring a book in fine weather, and make a green hollow your study; and, now and then, your uncle may join you in a walk: he does, frequently, walk out on the hills.”
+e:nelly=thinking
 
 “And what is my father like?” he asked. “Is he as young and handsome as uncle?”
-s=linton
+s=linton;e:linton=confused
 
-“He’s as young,” said I; “but he has black hair and eyes, and looks sterner; and he is taller and bigger altogether. He’ll not seem to you so gentle and kind at first, perhaps, because it is not his way: still, mind you, be frank and cordial with him;”
-s=nelly
+“He’s as young,” said I; “but he has black hair and eyes, and looks sterner; and he is taller and bigger altogether.”
+s=nelly;e:nelly=thinking;i=2
 
-“and naturally he’ll be fonder of you than any uncle, for you are his own.”
-
+“He’ll not seem to you so gentle and kind at first, perhaps, because it is not his way: still, mind you, be frank and cordial with him; and naturally he’ll be fonder of you than any uncle, for you are his own.”
+e:nelly=serious
 
 “Black hair and eyes!” mused Linton. “I can’t fancy him. Then I am not like him, am I?”
-s=linton;e:linton=thinking
+s=linton;e:linton=confused;i=2
 
 “Not much,” I answered:
-s=nelly
+s=nelly;e:nelly=contemplative;i=2
 
 not a morsel, I thought, surveying with regret the white complexion and slim frame of my companion, and his large languid eyes﻿—his mother’s eyes, save that, unless a morbid touchiness kindled them a moment, they had not a vestige of her sparkling spirit.
 s=
@@ -8806,107 +8818,131 @@ s=
 “How strange that he should never come to see mamma and me!” he murmured. “Has he ever seen me? If he has, I must have been a baby. I remember not a single thing about him!”
 s=linton;e:linton=unhappy
 
-“Why, Master Linton,” said I,
-s=nelly
+“Why, Master Linton,” said I, “three hundred miles is a great distance; and ten years seem very different in length to a grownup person compared with what they do to you.”
+s=nelly;e:nelly=unhappy
 
-“three hundred miles is a great distance; and ten years seem very different in length to a grownup person compared with what they do to you. It is probable Mr. Heathcliff proposed going from summer to summer, but never found a convenient opportunity;”
-
-
-“and now it is too late. Don’t trouble him with questions on the subject: it will disturb him, for no good.”
+“It is probable Mr. Heathcliff proposed going from summer to summer, but never found a convenient opportunity; and now it is too late. Don’t trouble him with questions on the subject: it will disturb him, for no good.”
 
 
-The boy was fully occupied with his own cogitations for the remainder of the ride, till we halted before the farmhouse garden-gate. I watched to catch his impressions in his countenance.
-b=heights-wide;s=
+The boy was fully occupied with his own cogitations for the remainder of the ride, till we halted before the farmhouse garden-gate.
+b=heights-wide;s=;f=fade
+
+I watched to catch his impressions in his countenance.
+
 
 He surveyed the carved front and low-browed lattices, the straggling gooseberry-bushes and crooked firs, with solemn intentness, and then shook his head: his private feelings entirely disapproved of the exterior of his new abode.
 
 
-But he had sense to postpone complaining: there might be compensation within. Before he dismounted, I went and opened the door. It was half-past six; the family had just finished breakfast:
+But he had sense to postpone complaining: there might be compensation within.
 
 
-the servant was clearing and wiping down the table. Joseph stood by his master’s chair telling some tale concerning a lame horse; and Hareton was preparing for the hayfield.
+Before he dismounted, I went and opened the door.
+f:b:heights-wide=blur(3px)
+
+It was half-past six; the family had just finished breakfast: the servant was clearing and wiping down the table.
+b=heights-house
+
+Joseph stood by his master’s chair telling some tale concerning a lame horse; and Hareton was preparing for the hayfield.
 
 
-“Hallo, Nelly!” said Mr. Heathcliff, when he saw me. “I feared I should have to come down and fetch my property myself. You’ve brought it, have you? Let us see what we can make of it.”
+“Hallo, Nelly!” said Mr. Heathcliff, when he saw me.
 b=heights-house;a:heathcliff=mature;s=heathcliff;e:heathcliff=smirking
+
+“I feared I should have to come down and fetch my property myself. You’ve brought it, have you? Let us see what we can make of it.”
+
 
 He got up and strode to the door: Hareton and Joseph followed in gaping curiosity. Poor Linton ran a frightened eye over the faces of the three.
 s=
 
-“Surely,” said Joseph after a grave inspection, “he’s swapped wi’ ye, Maister, an’ yon’s his lass!”
-s=joseph;e:joseph=smirking
+“Surely,” said Joseph after a grave inspection,
+s=joseph;e:joseph=serious
+
+“he’s swapped wi’ ye, Maister, an’ yon’s his lass!”
+e:joseph=smirking
 
 Heathcliff, having stared his son into an ague of confusion, uttered a scornful laugh.
 s=
 
 “God! what a beauty! what a lovely, charming thing!” he exclaimed. “Haven’t they reared it on snails and sour milk, Nelly? Oh, damn my soul! but that’s worse than I expected﻿—and the devil knows I was not sanguine!”
-s=heathcliff
+s=heathcliff;e:heathcliff=smirkinglookdown
 
-I bid the trembling and bewildered child get down, and enter. He did not thoroughly comprehend the meaning of his father’s speech, or whether it were intended for him: indeed, he was not yet certain that the grim, sneering stranger was his father.
+I bid the trembling and bewildered child get down, and enter.
 s=
 
-But he clung to me with growing trepidation; and on Mr. Heathcliff’s taking a seat and bidding him
-m=break,1
+He did not thoroughly comprehend the meaning of his father’s speech, or whether it were intended for him: indeed, he was not yet certain that the grim, sneering stranger was his father.
 
-“come hither” he hid his face on my shoulder and wept.
-s=heathcliff;e:heathcliff=serious
 
-“Tut, tut!” said Heathcliff, stretching out a hand and dragging him roughly between his knees, and then holding up his head by the chin.
-e:heathcliff=annoyed
+But he clung to me with growing trepidation; and on Mr. Heathcliff’s taking a seat and bidding him “come hither” he hid his face on my shoulder and wept.
+m=dialogue,1
+
+“Tut, tut!” said Heathcliff,
+e:heathcliff=annoyed;m=break,1;s=heathcliff
+
+stretching out a hand and dragging him roughly between his knees, and then holding up his head by the chin.
+s=
 
 “None of that nonsense! We’re not going to hurt thee, Linton﻿—isn’t that thy name? Thou art thy mother’s child, entirely! Where is my share in thee, puling chicken?”
-
+s=heathcliff;i=2
 
 He took off the boy’s cap and pushed back his thick flaxen curls, felt his slender arms and his small fingers; during which examination Linton ceased crying, and lifted his great blue eyes to inspect the inspector.
 s=
 
-“Do you know me?” asked Heathcliff, having satisfied himself that the limbs were all equally frail and feeble.
-s=heathcliff;e:heathcliff=curious
+“Do you know me?” asked Heathcliff,
+s=heathcliff;e:heathcliff=suspicious;m=break,1
+
+having satisfied himself that the limbs were all equally frail and feeble.
+s=
 
 “No,” said Linton, with a gaze of vacant fear.
 x:linton=;s=linton;e:linton=fearful
 
 “You’ve heard of me, I daresay?”
-s=heathcliff
+s=heathcliff;i=2
 
 “No,” he replied again.
-s=linton
+s=linton;i=2
 
 “No! What a shame of your mother, never to waken your filial regard for me! You are my son, then, I’ll tell you; and your mother was a wicked slut to leave you in ignorance of the sort of father you possessed.”
-s=heathcliff;e:heathcliff=serious
+s=heathcliff;e:heathcliff=scowling
 
-“Now, don’t wince, and colour up! Though it is something to see you have not white blood. Be a good lad; and I’ll do for you. Nelly, if you be tired you may sit down; if not, get home again.”
+“Now, don’t wince, and colour up! Though it is something to see you have not white blood. Be a good lad; and I’ll do for you.”
+e:heathcliff=serious
 
-
-“I guess you’ll report what you hear and see to the cipher at the Grange; and this thing won’t be settled while you linger about it.”
-
+“Nelly, if you be tired you may sit down; if not, get home again. I guess you’ll report what you hear and see to the cipher at the Grange; and this thing won’t be settled while you linger about it.”
+e:heathcliff=annoyedlook
 
 “Well,” replied I, “I hope you’ll be kind to the boy, Mr. Heathcliff, or you’ll not keep him long; and he’s all you have akin in the wide world, that you will ever know﻿—remember.”
-x:nelly=;s=nelly
+s=nelly;e:nelly=serious
 
 “I’ll be very kind to him, you needn’t fear,” he said, laughing.
 s=heathcliff;e:heathcliff=smirking
 
-“Only nobody else must be kind to him: I’m jealous of monopolising his affection. And, to begin my kindness, Joseph, bring the lad some breakfast. Hareton, you infernal calf, begone to your work. Yes, Nell,” he added, when they had departed,
+“Only nobody else must be kind to him: I’m jealous of monopolising his affection.”
+e:heathcliff=serious
+
+“And, to begin my kindness, Joseph, bring the lad some breakfast. Hareton, you infernal calf, begone to your work.”
 
 
-“my son is prospective owner of your place, and I should not wish him to die till I was certain of being his successor. Besides, he’s *mine*, and I want the triumph of seeing *my* descendant fairly lord of their estates;”
+“Yes, Nell,” he added, when they had departed,
+e:heathcliff=suspicious
+
+“my son is prospective owner of your place, and I should not wish him to die till I was certain of being his successor.”
 
 
-“my child hiring their children to till their fathers’ lands for wages. That is the sole consideration which can make me endure the whelp: I despise him for himself, and hate him for the memories he revives!”
+“Besides, he’s *mine*, and I want the triumph of seeing *my* descendant fairly lord of their estates; my child hiring their children to till their fathers’ lands for wages.”
+e:heathcliff=smirking
+
+“That is the sole consideration which can make me endure the whelp: I despise him for himself, and hate him for the memories he revives! But that consideration is sufficient: he’s as safe with me, and shall be tended as carefully as your master tends his own.”
+e:heathcliff=scowling
+
+“I have a room upstairs, furnished for him in handsome style; I’ve engaged a tutor, also, to come three times a week, from twenty miles’ distance, to teach him what he pleases to learn.”
+e:heathcliff=thinking
+
+“I’ve ordered Hareton to obey him: and in fact I’ve arranged everything with a view to preserve the superior and the gentleman in him, above his associates.”
 
 
-“But that consideration is sufficient: he’s as safe with me, and shall be tended as carefully as your master tends his own. I have a room upstairs, furnished for him in handsome style;”
-
-
-“I’ve engaged a tutor, also, to come three times a week, from twenty miles’ distance, to teach him what he pleases to learn. I’ve ordered Hareton to obey him:”
-
-
-“and in fact I’ve arranged everything with a view to preserve the superior and the gentleman in him, above his associates. I do regret, however, that he so little deserves the trouble:”
-
-
-“if I wished any blessing in the world, it was to find him a worthy object of pride; and I’m bitterly disappointed with the whey-faced, whining wretch!”
-
+“I do regret, however, that he so little deserves the trouble: if I wished any blessing in the world, it was to find him a worthy object of pride; and I’m bitterly disappointed with the whey-faced, whining wretch!”
+e:heathcliff=annoyed
 
 While he was speaking, Joseph returned bearing a basin of milk-porridge, and placed it before Linton: who stirred round the homely mess with a look of aversion, and affirmed he could not eat it.
 s=
@@ -8914,44 +8950,68 @@ s=
 I saw the old manservant shared largely in his master’s scorn of the child; though he was compelled to retain the sentiment in his heart, because Heathcliff plainly meant his underlings to hold him in honour.
 
 
-“Cannot ate it?” repeated he, peering in Linton’s face, and subduing his voice to a whisper, for fear of being overheard.
-s=joseph;e:joseph=annoyed
+“Cannot ate it?” repeated he,
+s=joseph;e:joseph=annoyedlookdown;m=break,1
+
+peering in Linton’s face, and subduing his voice to a whisper, for fear of being overheard.
+s=
 
 “But Maister Hareton nivir ate naught else, when he wer a little ’un; and what wer gooid enough for him’s gooid enough for ye, I’s rayther think!”
+s=joseph;e:joseph=scowling
 
+“I *shan’t* eat it!” answered Linton, snappishly.
+s=linton;e:linton=upset
 
-“I *shan’t* eat it!” answered Linton, snappishly. “Take it away.”
-s=linton;e:linton=annoyed
+“Take it away.”
+e:linton=unhappy
 
 Joseph snatched up the food indignantly, and brought it to us.
 s=
 
-“Is there aught ails th’ victuals?” he asked, thrusting the tray under Heathcliff’s nose.
-s=joseph
+“Is there aught ails th’ victuals?” he asked,
+s=joseph;e:joseph=serious;m=break,1
+
+thrusting the tray under Heathcliff’s nose.
+s=
 
 “What should ail them?” he said.
 s=heathcliff;e:heathcliff=annoyed
 
 “Wah!” answered Joseph, “yon dainty chap says he cannut ate ’em. But I guess it’s raight! His mother wer just soa﻿—we wer a’most too mucky to sow t’ corn for makking her breead.”
-s=joseph;e:joseph=scowling
+s=joseph;e:joseph=scowling;i=2
 
-“Don’t mention his mother to me,” said the master, angrily. “Get him something that he can eat, that’s all. What is his usual food, Nelly?”
+“Don’t mention his mother to me,” said the master, angrily.
 s=heathcliff;e:heathcliff=angry
 
-I suggested boiled milk or tea; and the housekeeper received instructions to prepare some. Come, I reflected, his father’s selfishness may contribute to his comfort. He perceives his delicate constitution, and the necessity of treating him tolerably.
+“Get him something that he can eat, that’s all.”
+
+
+“What is his usual food, Nelly?”
+e:heathcliff=serious
+
+I suggested boiled milk or tea; and the housekeeper received instructions to prepare some.
 s=
 
-I’ll console Mr. Edgar by acquainting him with the turn Heathcliff’s humour has taken. Having no excuse for lingering longer, I slipped out, while Linton was engaged in timidly rebuffing the advances of a friendly sheepdog.
+Come, I reflected, his father’s selfishness may contribute to his comfort. He perceives his delicate constitution, and the necessity of treating him tolerably.
+f:b:heights-house=blur(3px)
 
+I’ll console Mr. Edgar by acquainting him with the turn Heathcliff’s humour has taken.
+
+
+Having no excuse for lingering longer, I slipped out, while Linton was engaged in timidly rebuffing the advances of a friendly sheepdog.
+b=heights-wide;f:b:heights-wide=blur(3px)
 
 But he was too much on the alert to be cheated: as I closed the door, I heard a cry, and a frantic repetition of the words﻿—
 
 
 “Don’t leave me! I’ll not stay here! I’ll not stay here!”
-s=linton;e:linton=fearful;m=nospeaker,1
+m=dialogue,1
 
-Then the latch was raised and fell: they did not suffer him to come forth. I mounted Minny, and urged her to a trot; and so my brief guardianship ended.
-b=moor;f:b:moor=;s=
+Then the latch was raised and fell: they did not suffer him to come forth.
+
+
+I mounted Minny, and urged her to a trot; and so my brief guardianship ended.
+
 
 ## XXI
 r=title
