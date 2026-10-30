@@ -994,7 +994,7 @@ Terror made me cruel; and, finding it useless to attempt shaking the creature of
 still it wailed, “Let me in!” and maintained its tenacious grip, almost maddening me with fear.
 m=dialogue,1
 
-“How can I!” I said at length. “Let *me* go, if you want me to let you in!”
+“How can I?” I said at length. “Let *me* go, if you want me to let you in!”
 m=dialogue,1
 
 The fingers relaxed, I snatched mine through the hole, hurriedly piled the books up in a pyramid against it, and stopped my ears to exclude the lamentable prayer.
@@ -1216,10 +1216,10 @@ I was surprised to see Heathcliff there also.
 He stood by the fire, his back towards me, just finishing a stormy scene with poor Zillah; who ever and anon interrupted her labour to pluck up the corner of her apron, and heave an indignant groan.
 
 
-“And you, you worthless﻿—” he broke out as I entered,
+“And you, you worthless —﻿—﻿—” he broke out as I entered,
 x:heathcliff=;s=heathcliff;e:heathcliff=angry;m=break,1
 
-turning to his daughter-in-law, and employing an epithet as harmless as duck, or sheep, but generally represented by a dash﻿—.
+turning to his daughter-in-law, and employing an epithet as harmless as duck, or sheep, but generally represented by a dash —﻿—﻿—.
 s=
 
 “There you are, at your idle tricks again! The rest of them do earn their bread﻿—you live on my charity!”
@@ -1849,7 +1849,7 @@ b=heights-wide
 We searched the house, above and below, and the yard and stables; they were invisible: and, at last, Hindley in a passion told us to bolt the doors, and swore nobody should let them in that night.
 
 
-The household went to bed; and I, too, anxious to lie down, opened my lattice and put my head out to hearken, though it rained: determined to admit them in spite of the prohibition, should they return.
+The household went to bed; and I, too anxious to lie down, opened my lattice and put my head out to hearken, though it rained: determined to admit them in spite of the prohibition, should they return.
 b=heights-wide-night-rain;f=fade
 
 In a while, I distinguished steps coming up the road, and the light of a lantern glimmered through the gate.
@@ -1984,7 +1984,7 @@ n:mrlinton=Mr. Linton;s=mrlinton;e:mrlinton=suspicious
 “‘Skulker has caught a little girl, sir,’ he replied;”
 n:robert=Robert;x:robert=;s=robert;m=break,1;e:robert=serious
 
-“‘and there’s a lad here,’ he added, making a clutch at me, ‘who looks an out-and-outer! Very like the robbers were for putting them through the window to open the doors to the gang after all were asleep, that they might murder us at their ease.’”
+“‘and there’s a lad here,’ he added, making a clutch at me, ‘who looks an out-and-outer! Very like, the robbers were for putting them through the window to open the doors to the gang after all were asleep, that they might murder us at their ease.’”
 e:robert=scowling
 
 “‘Hold your tongue, you foul-mouthed thief, you! you shall go to the gallows for this.’”
@@ -2650,7 +2650,7 @@ b=heights-house
 “how was the baby?”
 s=nelly;e:nelly=serious
 
-“Nearly ready to run about, Nell!” he replied, putting on a cheerful smile.
+“Nearly ready to run about, Nell!” he replied, putting on a cheerful smile.<e>TODO: versions disagree on exclam here</e>
 x:hindley=;s=hindley;e:hindley=sadsmile
 
 “And the mistress?” I ventured to inquire; “the doctor says she’s﻿—”
@@ -2827,7 +2827,7 @@ s=catherine;e:catherine=contemplative
 “Joseph is loading lime on the further side of Penistone Crags; it will take him till dark, and he’ll never know.”
 s=heathcliff;e:heathcliff=smirking
 
-So, saying, he lounged to the fire, and sat down.
+So saying, he lounged to the fire, and sat down.
 s=
 
 Catherine reflected an instant, with knitted brows﻿—she found it needful to smooth the way for an intrusion.
@@ -3145,7 +3145,7 @@ f:b:heights-stairs-night=
 A miser who has parted with a lucky lottery ticket for five shillings, and finds next day he has lost in the bargain five thousand pounds, could not show a blanker countenance than he did on beholding the figure of Mr. Earnshaw above.
 
 
-It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.
+It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.<e>TODO: "intensest"</e>
 
 
 Had it been dark, I daresay he would have tried to remedy the mistake by smashing Hareton’s skull on the steps; but, we witnessed his salvation; and I was presently below with my precious charge pressed to my heart.
@@ -3547,8 +3547,8 @@ s=catherine;e:catherine=serious
 “My great miseries in this world have been Heathcliff’s miseries, and I watched and felt each from the beginning: my great thought in living is himself.”
 e:catherine=unhappy
 
-“If all else perished, and *he* remained, *I* should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger: I should not seem a part of it.﻿—”
-m=break,1;m=nospace,1
+“If all else perished, and *he* remained, *I* should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger: I should not seem a part of it.”
+
 
 “My love for Linton is like the foliage in the woods: time will change it, I’m well aware, as winter changes the trees. My love for Heathcliff resembles the eternal rocks beneath: a source of little visible delight, but necessary.”
 e:catherine=serious
@@ -4165,7 +4165,7 @@ Now, fully revealed by the fire and candlelight, I was amazed, more than ever, t
 His upright carriage suggested the idea of his having been in the army. His countenance was much older in expression and decision of feature than Mr. Linton’s; it looked intelligent, and retained no marks of former degradation.
 
 
-A half-civilised ferocity lurked yet in the depressed brows and eyes full of black fire, but it was subdued; and his manner was even dignified: quite divested of roughness, though stern for grace.
+A half-civilised ferocity lurked yet in the depressed brows and eyes full of black fire, but it was subdued; and his manner was even dignified: quite divested of roughness, though too stern for grace.
 
 
 My master’s surprise equalled or exceeded mine: he remained for a minute at a loss how to address the ploughboy, as he had called him.
@@ -4306,7 +4306,7 @@ s=
 “I do,” she answered, “but he needn’t resort to whining for trifles.”
 s=catherine;e:catherine=annoyed;m=break,1
 
-“It is childish and, instead of melting into tears because I said that Heathcliff was now worthy of anyone’s regard, and it would honour the first gentleman in the country to be his friend, he ought to have said it for me, and been delighted from sympathy.”
+“It is childish; and, instead of melting into tears because I said that Heathcliff was now worthy of anyone’s regard, and it would honour the first gentleman in the country to be his friend, he ought to have said it for me, and been delighted from sympathy.”
 e:catherine=unhappy
 
 “He must get accustomed to him, and he may as well like him: considering how Heathcliff has reason to object to him, I’m sure he behaved excellently!”
@@ -4435,7 +4435,7 @@ s=isabella;e:isabella=unhappy
 “And that’s your notion of harshness?” said Catherine, laughing.
 s=catherine;e:catherine=smirking
 
-“It was no hint that your company was superfluous? We didn’t care whether you kept with us or not; I merely thought Heathcliff’s talk would have nothing entertaining for your ears.”
+“It was no hint that your company was superfluous: we didn’t care whether you kept with us or not; I merely thought Heathcliff’s talk would have nothing entertaining for your ears.”
 e:catherine=serious;i=2
 
 “Oh, no,” wept the young lady; “you wished me away, because you knew I liked to be there!”
@@ -5140,7 +5140,7 @@ e:nelly=serious
 The gardeners and coachman were there: but Linton was with them. They had already entered the court.
 s=
 
-Heathcliff, on the second thoughts, resolved to avoid a struggle against three underlings:
+Heathcliff, on second thoughts, resolved to avoid a struggle against three underlings:
 
 
 he seized the poker, smashed the lock from the inner door, and made his escape as they tramped in.
@@ -6658,7 +6658,7 @@ e:heathcliff=serious
 “I guess by her silence, as much as anything, what she feels. You say she is often restless, and anxious-looking: is that a proof of tranquillity? You talk of her mind being unsettled. How the devil could it be otherwise in her frightful isolation?”
 
 
-“And that insipid, paltry creature attending her from *duty* and *humanity*! From *pity* and *charity*! He might as well plant an oak in a flowerpot, and expect it to thrive, as imagine he can restore her to vigour in the soil of his shallow cares?”
+“And that insipid, paltry creature attending her from *duty* and *humanity*! From *pity* and *charity*! He might as well plant an oak in a flowerpot, and expect it to thrive, as imagine he can restore her to vigour in the soil of his shallow cares!”
 e:heathcliff=angry
 
 “Let us settle it at once: will you stay here, and am I to fight my way to Catherine over Linton and his footman? Or will you be my friend, as you have been hitherto, and do what I request?”
@@ -7690,7 +7690,7 @@ s=
 “‘I beg your pardon,’ I replied.”
 s=isabella
 
-“‘But I loved Catherine too; and her brother requires attendance, which, for her sake, I shall supply. Now, that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if you had not tried to gouge them out, and made them black and red; and her﻿—’”
+“‘But I loved Catherine too; and her brother requires attendance, which, for her sake, I shall supply. Now that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if you had not tried to gouge them out, and made them black and red; and her﻿—’”
 
 
 “‘Get up, wretched idiot, before I stamp you to death!’ he cried, making a movement that caused me to make one also.”
@@ -8953,7 +8953,7 @@ s=
 “Oh, I’ll ask *you*, uncle,” cried Miss Cathy, recollecting the housekeeper’s assertion. “That is not my cousin, is he?”
 s=cathy
 
-“Yes,” he replied, “your mother’s nephew. Don’t you like him!”
+“Yes,” he replied, “your mother’s nephew. Don’t you like him?”
 s=heathcliff;e:heathcliff=smirking
 
 Catherine looked queer.
@@ -9850,7 +9850,7 @@ x:cathy=hat;s=cathy;e:cathy=happy
 “The Grange is not a prison, Ellen, and you are not my gaoler. And besides, I’m almost seventeen: I’m a woman. And I’m certain Linton would recover quickly if he had me to look after him. I’m older than he is, you know, and wiser:”
 
 
-“less childish, am I not? And he’ll soon do as I direct him, with some slight coaxing. He’s a pretty little darling when he’s good. I’d make such a pet of him, if he were mine. We should never quarrel, should we after we were used to each other? Don’t you like him, Ellen?”
+“less childish, am I not? And he’ll soon do as I direct him, with some slight coaxing. He’s a pretty little darling when he’s good. I’d make such a pet of him, if he were mine. We should never quarrel, should we, after we were used to each other? Don’t you like him, Ellen?”
 
 
 “Like him!” I exclaimed. “The worst-tempered bit of a sickly slip that ever struggled into its teens. Happily, as Mr. Heathcliff conjectured, he’ll not win twenty. I doubt whether he’ll see spring, indeed. And small loss to his family whenever he drops off.”
@@ -13045,7 +13045,7 @@ s=nelly;e:nelly=nervous
 “It is not my fault that I cannot eat or rest,” he replied.
 s=heathcliff;e:heathcliff=excited
 
-“I assure you it is through no settled designs. I’ll do both, as soon as I possibly can. But you might as well bid a man struggling in the water rest within arms’ length of the shore! I must reach it first, and then I’ll rest.”
+“I assure you it is through no settled designs. I’ll do both, as soon as I possibly can. But you might as well bid a man struggling in the water rest within arm’s length of the shore! I must reach it first, and then I’ll rest.”
 
 
 “Well, never mind Mr. Green: as to repenting of my injustices, I’ve done no injustice, and I repent of nothing. I’m too happy; and yet I’m not happy enough. My soul’s bliss kills my body, but does not satisfy itself.”
