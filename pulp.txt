@@ -6568,7 +6568,7 @@ e:heathcliff=scowling
 “But no brutality disgusted her: I suppose she has an innate admiration of it, if only her precious person were secure from injury!”
 e:heathcliff=serious
 
-“Now, was it not the depth of absurdity﻿—of genuine idiotcy, for that pitiful, slavish, mean-minded brach to dream that I could love her? Tell your master, Nelly, that I never, in all my life, met with such an abject thing as she is.”
+“Now, was it not the depth of absurdity﻿—of genuine idiocy, for that pitiful, slavish, mean-minded brach to dream that I could love her? Tell your master, Nelly, that I never, in all my life, met with such an abject thing as she is.”
 
 
 “She even disgraces the name of Linton; and I’ve sometimes relented, from pure lack of invention, in my experiments on what she could endure, and still creep shamefully cringing back!”
@@ -9478,7 +9478,7 @@ s=linton;e:linton=happy;i=2
 “If thou weren’t more a lass than a lad, I’d fell thee this minute, I would; pitiful lath of a crater!” retorted the angry boor,
 s=hareton;e:hareton=angry;m=break,1
 
-retreating, while his face burnt with mingled rage and mortification! for he was conscious of being insulted, and embarrassed how to resent it.
+retreating, while his face burnt with mingled rage and mortification; for he was conscious of being insulted, and embarrassed how to resent it.
 s=
 
 Mr. Heathcliff having overheard the conversation, as well as I, smiled when he saw him go; but immediately afterwards cast a look of singular aversion on the flippant pair, who remained chattering in the doorway:
@@ -9961,7 +9961,7 @@ e:heathcliff=scowling
 “I presume you grew weary of the amusement and dropped it, didn’t you? Well, you dropped Linton with it into a Slough of Despond. He was in earnest: in love, really. As true as I live, he’s dying for you; breaking his heart at your fickleness: not figuratively, but actually.”
 
 
-“Though Hareton has made him a standing jest for six weeks, and I have used more serious measures, and attempted to frighten him out of his idiotcy, he gets worse daily; and he’ll be under the sod before summer, unless you restore him!”
+“Though Hareton has made him a standing jest for six weeks, and I have used more serious measures, and attempted to frighten him out of his idiocy, he gets worse daily; and he’ll be under the sod before summer, unless you restore him!”
 e:heathcliff=serious
 
 “How can you lie so glaringly to the poor child?” I called from the inside.
@@ -11491,7 +11491,7 @@ He approached once more, and made as if he would seize the fragile being; but, s
 However I disapproved, I couldn’t hinder her: indeed, how could she have refused him herself?
 
 
-What was filling him with dread we had no means of discerning; but there he was, powerless under its grip, and any addition seemed capable of shocking him into idiotcy.
+What was filling him with dread we had no means of discerning; but there he was, powerless under its grip, and any addition seemed capable of shocking him into idiocy.
 f:b:heights-wide-wide=blur(3px)
 
 We reached the threshold; Catherine walked in, and I stood waiting till she had conducted the invalid to a chair, expecting her out immediately;
@@ -12259,7 +12259,7 @@ e:heathcliff=smirking;i=3
 “I know he has a bad nature,” said Catherine: “he’s your son. But I’m glad I’ve a better, to forgive it; and I know he loves me, and for that reason I love him.”
 s=cathy;e:cathy=unhappy;i=2
 
-“Mr. Heathcliff *you* have *nobody* to love you; and, however miserable you make us, we shall still have the revenge of thinking that your cruelty arises from your greater misery.”
+“Mr. Heathcliff, *you* have *nobody* to love you; and, however miserable you make us, we shall still have the revenge of thinking that your cruelty arises from your greater misery.”
 e:cathy=scowling
 
 “You *are* miserable, are you not? Lonely, like the devil, and envious like him? *Nobody* loves you﻿—*nobody* will cry for you when you die! I wouldn’t be you!”
@@ -12994,7 +12994,7 @@ e:heathcliff=scowlinglook
 Catherine reappeared, bearing a tray of knives and forks.
 s=
 
-“You may get your dinner with Joseph,” muttered Heathcliff, aside, “and remain in the kitchen till he is gone.”
+“You may get your dinner with Joseph,” muttered Heathcliff aside, “and remain in the kitchen till he is gone.”
 s=heathcliff;e:heathcliff=annoyedlook
 
 She obeyed his directions very punctually: perhaps she had no temptation to transgress. Living among clowns and misanthropists, she probably cannot appreciate a better class of people when she meets them.
