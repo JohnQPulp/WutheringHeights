@@ -1,4 +1,4 @@
-Wuthering Heights<br>Emily Jane Brontë<e>TODO</e>
+Wuthering Heights<br>Emily Jane Brontë<e>Put the visual nightmare that was the 2026 movie adaptation out of your mind. (Rather, <i>textual</i> nightmares are to follow, but of the good kind.)</e>
 b=title;t=author
 
 ## I
@@ -454,7 +454,7 @@ s=heathcliff;e:heathcliff=suspicious
 Perceiving myself in a blunder, I attempted to correct it. I might have seen there was too great a disparity between the ages of the parties to make it likely that they were man and wife.
 s=
 
-One was about forty: a period of mental vigour at which men seldom cherish the delusion of being married for love by girls: that dream is reserved for the solace of our declining years.<e>TODO: horny Turgenev</e>
+One was about forty: a period of mental vigour at which men seldom cherish the delusion of being married for love by girls: that dream is reserved for the solace of our declining years.<e>Counterexample: <book>Fathers and Sons|horny Turgenev</book>.</e>
 
 
 The other did not look seventeen.
@@ -1459,7 +1459,7 @@ s=
 He did not forget me; for he had a kind heart, though he was rather severe sometimes. He promised to bring me a pocketful of apples and pears, and then he kissed his children, said goodbye, and set off.
 
 
-It seemed a long while to us all﻿—the three days of his absence﻿—and often did little Cathy ask when he would be home.
+It seemed a long while to us all﻿—the three days of his absence﻿—and often did little Cathy ask when he would be home.<e>"Back in my day we walked 120 miles in three days — and spawned countless literary arguments while doing so — and we liked it!"</e>
 f:b:heights-house=blur(3px)
 
 Mrs. Earnshaw expected him by suppertime on the third evening, and she put the meal off hour after hour; there were no signs of his coming, however, and at last the children got tired of running down to the gate to look.
@@ -2650,7 +2650,7 @@ b=heights-house
 “how was the baby?”
 s=nelly;e:nelly=serious
 
-“Nearly ready to run about, Nell!” he replied, putting on a cheerful smile.<e>TODO: versions disagree on exclam here</e>
+“Nearly ready to run about, Nell!” he replied, putting on a cheerful smile.<e>Sources disagree on whether there should be an exclamation mark here. (Reluctantly keeping it.)</e>
 x:hindley=;s=hindley;e:hindley=sadsmile
 
 “And the mistress?” I ventured to inquire; “the doctor says she’s﻿—”
@@ -2824,7 +2824,7 @@ s=heathcliff;e:heathcliff=serious;i=2
 “Oh, but Joseph will tell,” she suggested; “you’d better go!”
 s=catherine;e:catherine=contemplative
 
-“Joseph is loading lime on the further side of Penistone Crags; it will take him till dark, and he’ll never know.”
+“Joseph is loading lime on the further side of Penistone Crags; it will take him till dark, and he’ll never know.”<e>I'm still shocked we never saw Heathcliff's Penistone in the 2026 movie.</e>
 s=heathcliff;e:heathcliff=smirking
 
 So saying, he lounged to the fire, and sat down.
@@ -3145,7 +3145,7 @@ f:b:heights-stairs-night=
 A miser who has parted with a lucky lottery ticket for five shillings, and finds next day he has lost in the bargain five thousand pounds, could not show a blanker countenance than he did on beholding the figure of Mr. Earnshaw above.
 
 
-It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.<e>TODO: "intensest"</e>
+It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.<e>Sources disagree on "intense" vs "intensest" here. (Reluctantly keeping the latter.)</e>
 
 
 Had it been dark, I daresay he would have tried to remedy the mistake by smashing Hareton’s skull on the steps; but, we witnessed his salvation; and I was presently below with my precious charge pressed to my heart.
@@ -4462,7 +4462,7 @@ s=isabella;e:isabella=scowling
 “You are a dog in the manger, Cathy, and desire no one to be loved but yourself!”
 e:isabella=unhappy;i=2
 
-“You are an impertinent little monkey!” exclaimed Mrs. Linton, in surprise.<e>TODO</e>
+“You are an impertinent little monkey!” exclaimed Mrs. Linton, in surprise.
 s=catherine;e:catherine=confused
 
 “But I’ll not believe this idiocy! It is impossible that you can covet the admiration of Heathcliff﻿—that you consider him an agreeable person! I hope I have misunderstood you, Isabella?”
@@ -4879,7 +4879,7 @@ He then stepped across the pavement to her, and said something: she seemed embar
 She averted her face: he apparently put some question which she had no mind to answer. There was another rapid glance at the house, and supposing himself unseen, the scoundrel had the impudence to embrace her.
 
 
-“Judas! Traitor!” I ejaculated.
+“Judas! Traitor!” I ejaculated.<e>This book by far out-"ejaculates" even <book>A Study in Scarlet|Conan Doyle</book>. (Props to the 2026 movie for its accuracy.)</e>
 x:nelly=;s=nelly;e:nelly=angry
 
 “You are a hypocrite, too, are you? A deliberate deceiver.”
@@ -6211,7 +6211,7 @@ s=
 “I shall have my supper in another room,” I said. “Have you no place you call a parlour?”
 s=isabella;e:isabella=unhappy
 
-“*Parlour!*” he echoed, sneeringly, “*parlour!* Nay, we’ve noa *parlours*.”<e>TODO: garage</e>
+“*Parlour!*” he echoed, sneeringly, “*parlour!* Nay, we’ve noa *parlours*.”<e><a href='https://www.youtube.com/watch?v=JhbJnlIvfyc'>"Well ooh la-de-da, Mr. Frenchman!"</a></e>
 s=joseph;e:joseph=smirking
 
 “If yah dunnut loike wer company, there’s maister’s; un’ if yah dunnut loike maister, there’s us.”
@@ -6706,7 +6706,7 @@ r=title
 Another week over﻿—and I am so many days nearer health, and spring! I have now heard all my neighbour’s history, at different sittings, as the housekeeper could spare time from more important occupations.
 b=grange-guest
 
-I’ll continue it in her own words, only a little condensed. She is, on the whole, a very fair narrator, and I don’t think I could improve her style.
+I’ll continue it in her own words, only a little condensed. She is, on the whole, a very fair narrator, and I don’t think I could improve her style.<e>Least self-indulgent frame narrative.</e>
 f:b:grange-guest=blur(3px)
 
 In the evening, she said, the evening of my visit to the Heights, I knew, as well as if I saw him, that Mr. Heathcliff was about the place; and I shunned going out, because I still carried his letter in my pocket, and didn’t want to be threatened or teased any more.
@@ -9127,7 +9127,7 @@ s=
 “I didn’t mean to take them; but papa told me there were quantities up here, and I wished to see the eggs.”
 s=cathy;e:cathy=unhappy
 
-Heathcliff glanced at me with an ill-meaning smile, expressing his acquaintance with the party, and, consequently, his malevolence towards it, and demanded who “papa” was?
+Heathcliff glanced at me with an ill-meaning smile, expressing his acquaintance with the party, and, consequently, his malevolence towards it, and demanded who “papa” was?<e>Sources disagree on whether there should be a question mark here? (Reluctantly keeping it?)</e>
 s=
 
 “Mr. Linton of Thrushcross Grange,” she replied. “I thought you did not know me, or you wouldn’t have spoken in that way.”
@@ -10381,7 +10381,7 @@ e:cathy=unhappylookdown
 “You must come, to cure me,” he answered. “You ought to come, because you have hurt me: you know you have extremely! I was not as ill when you entered as I am at present﻿—was I?”
 s=linton;e:linton=upset
 
-“But you’ve made yourself ill by crying and being in a passion.”<e>TODO: unclear</e>
+“But you’ve made yourself ill by crying and being in a passion.”
 s=nelly;e:nelly=serious;i=2
 
 “I didn’t do it all,” said his cousin. “However, we’ll be friends now. And you want me: you would wish to see me sometimes, really?”
@@ -10933,7 +10933,7 @@ e:cathy=nervous
 “I’ll make up my mind on that point by tomorrow, Miss Catherine,” I replied. “It requires some study; and so I’ll leave you to your rest, and go think it over.”
 s=nelly;e:nelly=suspicious
 
-I thought it over aloud, in my master’s presence; walking straight from her room to his, and relating the whole story: with the exception of her conversations with her cousin, and any mention of Hareton.<e>TODO: lmao</e>
+I thought it over aloud, in my master’s presence; walking straight from her room to his, and relating the whole story: with the exception of her conversations with her cousin, and any mention of Hareton.<e>lmao gottem</e>
 b=grange-library-night;f=fade;s=
 
 Mr. Linton was alarmed and distressed, more than he would acknowledge to me.
@@ -11314,7 +11314,7 @@ Her countenance grew wan with watching and sorrow, and my master gladly dismisse
 He had a fixed idea, I guessed by several observations he let fall, that, as his nephew resembled him in person, he would resemble him in mind; for Linton’s letters bore few or no indications of his defective character.
 
 
-And I, through pardonable weakness, refrained from correcting the error; asking myself what good there would be in disturbing his last moments with information that he had neither power nor opportunity to turn to account.<e>TODO: pardonable</e>
+And I, through pardonable weakness, refrained from correcting the error; asking myself what good there would be in disturbing his last moments with information that he had neither power nor opportunity to turn to account.<e>Cheeky "pardonable" editorializing. How could you not like Nelly?</e>
 
 
 We deferred our excursion till the afternoon; a golden afternoon of August: every breath from the hills so full of life, that it seemed whoever respired it, though dying, might revive.
@@ -12742,7 +12742,7 @@ b=heights-house
 She hardly raised her eyes to notice me, and continued her employment with the same disregard to common forms of politeness as before; never returning my bow and good morning by the slightest acknowledgment.
 
 
-“She does not seem so amiable,” I thought, “as Mrs. Dean would persuade me to believe. She’s a beauty, it is true; but not an angel.”
+“She does not seem so amiable,” I thought, “as Mrs. Dean would persuade me to believe. She’s a beauty, it is true; but not an angel.”<e>Contrary to popular speculation, Lockwood is not an unreliable narrator. He is, however, retarded.</e>
 t=lockwood;e:lockwood=contemplative
 
 Earnshaw surlily bid her remove her things to the kitchen.
@@ -12847,7 +12847,7 @@ s=cathy;e:cathy=annoyed
 “Yes, I hear him trying to spell and read to himself, and pretty blunders he makes!”
 e:cathy=smirking
 
-“I wish you would repeat Chevy Chase as you did yesterday: it was extremely funny.”<e>TODO</e>
+“I wish you would repeat Chevy Chase as you did yesterday: it was extremely funny.”<e>The indisputably greatest line in all of literature.</e>
 
 
 “I heard you; and I heard you turning over the dictionary to seek out the hard words, and then cursing because you couldn’t read their explanations!”
@@ -13138,7 +13138,7 @@ But the house of Wuthering Heights is so large that the inmates have plenty of s
 I could both see them and hear them talk before I entered, and looked and listened in consequence; being moved thereto by a mingled sense of curiosity and envy, that grew as I lingered.
 
 
-“Con-*trary*!” said a voice as sweet as a silver bell. “That for the third time, you dunce! I’m not going to tell you again. Recollect, or I’ll pull your hair!”
+“Con-*trary*!” said a voice as sweet as a silver bell. “That for the third time, you dunce! I’m not going to tell you again. Recollect, or I’ll pull your hair!”<e>Literally "Mistress Mary, quite contrary … With silver bells". <book>Secret Garden</book> plagiarism!</e>
 m=dialogue,1
 
 “Contrary, then,” answered another, in deep but softened tones. “And now, kiss me, for minding so well.”
