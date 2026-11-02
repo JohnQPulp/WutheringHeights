@@ -293,7 +293,7 @@ I stared﻿—she stared also: at any rate, she kept her eyes on me in a cool, r
 
 
 “Sit down,” said the young man, gruffly.
-n:hareton=?;a:hareton=adult2;x:hareton=shirtsleeves;s=hareton;e:hareton=serious
+n:hareton=?;a:hareton=adult2;x:hareton=;s=hareton;e:hareton=serious
 
 “He’ll be in soon.”
 
@@ -350,7 +350,7 @@ s=
 s=lockwood;e:lockwood=serious
 
 “Were you asked?” she repeated.
-s=cathy;e:cathy=annoyed
+s=cathy;e:cathy=annoyed;x:cathy=mourning,apron
 
 “No,” I said, half smiling. “You are the proper person to ask me.”
 s=lockwood;e:lockwood=warysmile
@@ -419,7 +419,7 @@ When the preparations were finished, he invited me with﻿—
 s=;m=nospace,1;m=break,1;f:b:heights-house=
 
 “Now, sir, bring forward your chair.”
-s=heathcliff
+s=heathcliff;x:cathy=mourning
 
 And we all, including the rustic youth, drew round the table: an austere silence prevailing while we discussed our meal.
 s=
@@ -1964,7 +1964,7 @@ s=
 m=nospace,1;m=break,1
 
 “‘Keep fast, Skulker, keep fast!’”
-n:robert=?;x:robert=hat;s=robert;e:robert=angry
+n:robert=?;x:robert=;s=robert;e:robert=angry
 
 “He changed his note, however, when he saw Skulker’s game.”
 s=
@@ -4802,7 +4802,7 @@ I showed another, keeping it out of his reach.
 s=nelly;e:nelly=unhappy
 
 “Damn the curate, and thee! Gie me that,” he replied.
-a:hareton=young;x:hareton=hat;s=hareton;e:hareton=angry
+a:hareton=young;x:hareton=;s=hareton;e:hareton=angry
 
 “Tell us where you got your lessons, and you shall have it,” said I. “Who’s your master?”
 s=nelly;e:nelly=serious
@@ -5870,7 +5870,7 @@ Mr. Linton had put on her pillow, in the morning, a handful of golden crocuses;
 
 
 “These are the earliest flowers at the Heights,” she exclaimed.
-x:catherine=sickish;s=catherine;e:catherine=confused
+x:catherine=fever;s=catherine;e:catherine=confused
 
 “They remind me of soft thaw winds, and warm sunshine, and nearly melted snow. Edgar, is there not a south wind, and is not the snow almost gone?”
 e:catherine=contemplative
@@ -6776,7 +6776,7 @@ s=
 s=nelly;e:nelly=serious
 
 “Yes,” she answered,
-x:catherine=sickish;s=catherine;e:catherine=contemplativelook;m=break,1
+x:catherine=fever;s=catherine;e:catherine=contemplativelook;m=break,1
 
 without altering the direction of her eyes.
 s=
@@ -7301,7 +7301,7 @@ m=nospace,1;m=break,1
 s=nelly;e:nelly=angrylook
 
 “Excuse me!” answered a familiar voice; “but I know Edgar is in bed, and I cannot stop myself.”
-x:isabella=bandage,snow;m=dialogue,1
+x:isabella=cut,snow;m=dialogue,1
 
 With that the speaker came forward to the fire, panting and holding her hand to her side.
 s=
@@ -7706,7 +7706,7 @@ e:isabella=serious
 g=heights-house-dirty
 
 “‘Not as ill as I wish,’ he replied. ‘But leaving out my arm, every inch of me is as sore as if I had been fighting with a legion of imps!’”
-x:hindley=bandage;s=hindley;e:hindley=weary
+x:hindley=sick;s=hindley;e:hindley=weary
 
 “‘Yes, no wonder,’ was my next remark.”
 x:isabella=;s=isabella;e:isabella=contemplative
