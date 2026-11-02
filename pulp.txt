@@ -293,7 +293,7 @@ I stared﻿—she stared also: at any rate, she kept her eyes on me in a cool, r
 
 
 “Sit down,” said the young man, gruffly.
-n:hareton=?;a:hareton=young;x:hareton=shirtsleeves;s=hareton;e:hareton=serious
+n:hareton=?;a:hareton=adult2;x:hareton=shirtsleeves;s=hareton;e:hareton=serious
 
 “He’ll be in soon.”
 
@@ -791,7 +791,7 @@ g=heights-garret,1;f:b:heights-garret=blur(5px)
 
 
 “and yet my brother had the face to exclaim, when he saw us descending, ‘What, done already?’”
-n:hindley=Hindley;a:hindley=young;e:hindley=serious;m=dialogue,1;b=heights-house;f:b:heights-house=blur(5px)
+n:hindley=Hindley;a:hindley=adult;e:hindley=serious;m=dialogue,1;b=heights-house;f:b:heights-house=blur(5px)
 
 “On Sunday evenings we used to be permitted to play, if we did not make much noise; now a mere titter is sufficient to send us into corners.”
 s=;
@@ -1574,7 +1574,7 @@ and when he discovered it, he said to Hindley﻿—
 f:b:heights-stable=
 
 “You must exchange horses with me: I don’t like mine; and if you won’t I shall tell your father of the three thrashings you’ve given me this week, and show him my arm, which is black to the shoulder.”
-n:heathcliff=Heathcliff;a:heathcliff=child;s=heathcliff;e:heathcliff=serious
+n:heathcliff=Heathcliff;a:heathcliff=young;s=heathcliff;e:heathcliff=serious
 
 Hindley put out his tongue, and cuffed him over the ears.
 s=
@@ -1589,7 +1589,7 @@ s=
 s=heathcliff;i=3
 
 “Off, dog!” cried Hindley,
-s=hindley;e:hindley=angry;m=break,1
+a:hindley=teen;s=hindley;e:hindley=angry;m=break,1
 
 threatening him with an iron weight used for weighing potatoes and hay.
 s=
@@ -1862,10 +1862,10 @@ There was Heathcliff, by himself: it gave me a start to see him alone.
 
 
 “Where is Miss Catherine?” I cried hurriedly. “No accident, I hope?”
-a:nelly=teen;x:nelly=shawl;s=nelly;e:nelly=nervous;n:nelly=<s>Mrs.</s> Dean(?)
+a:nelly=adult;x:nelly=shawl;s=nelly;e:nelly=nervous;n:nelly=<s>Mrs.</s> Dean(?)
 
 “At Thrushcross Grange,” he answered; “and I would have been there too, but they had not the manners to ask me to stay.”
-s=heathcliff;e:heathcliff=serious;x:heathcliff=wet
+s=heathcliff;e:heathcliff=serious;x:heathcliff=wet;a:heathcliff=child
 
 “Well, you will catch it!” I said: “you’ll never be content till you’re sent about your business.”
 s=nelly;e:nelly=upset
@@ -2024,7 +2024,7 @@ s=
 
 
 “‘That’s Miss Earnshaw?’ he whispered to his mother,”
-n:edgar=Edgar Linton;a:edgar=child;s=edgar;e:edgar=confused;m=break,1
+n:edgar=Edgar Linton;a:edgar=teen;s=edgar;e:edgar=confused;m=break,1
 
 “‘and look how Skulker has bitten her﻿—how her foot bleeds!’”
 e:edgar=upset
@@ -2120,7 +2120,7 @@ Hindley lifted her from her horse, exclaiming delightedly,
 m=break,1
 
 “Why, Cathy, you are quite a beauty! I should scarcely have known you: you look like a lady now.”
-x:hindley=hat;s=hindley;e:hindley=happy
+x:hindley=hat;s=hindley;e:hindley=happy;a:hindley=adult
 
 “Isabella Linton is not to be compared with her, is she, Frances?”
 e:hindley=smirking
@@ -2612,7 +2612,7 @@ e:maid=serious
 e:maid=happy
 
 “But is she very ill?” I asked,
-a:nelly=teen;n:nelly=“Nelly” (Ellen) Dean(?);x:nelly=hat;s=nelly;e:nelly=warybonnet;m=break,1
+a:nelly=adult;n:nelly=“Nelly” (Ellen) Dean(?);x:nelly=hat;s=nelly;e:nelly=warybonnet;m=break,1
 
 flinging down my rake and tying my bonnet.
 s=
@@ -2906,7 +2906,7 @@ He had a sweet, low manner of speaking, and pronounced his words as you do: that
 
 
 “I’m not come too soon, am I?” he said, casting a look at me:
-a:edgar=teen;s=edgar;e:edgar=wary
+a:edgar=adult;s=edgar;e:edgar=wary
 
 I had begun to wipe the plate, and tidy some drawers at the far end in the dresser.
 s=
@@ -2918,7 +2918,7 @@ s=catherine;e:catherine=
 e:catherine=suspicious
 
 “My work, Miss,” I replied.
-a:nelly=teen;n:nelly=“Nelly” (Ellen) Dean(?);s=nelly;e:nelly=contemplative
+a:nelly=adult;n:nelly=“Nelly” (Ellen) Dean(?);s=nelly;e:nelly=contemplative
 
 (Mr. Hindley had given me directions to make a third party in any private visits Linton chose to pay.)
 s=
@@ -3080,7 +3080,7 @@ He entered, vociferating oaths dreadful to hear; and caught me in the act of sto
 b=heights-kitchen-night;
 
 Hareton was impressed with a wholesome terror of encountering either his wild beast’s fondness or his madman’s rage; for in one he ran a chance of being squeezed and kissed to death, and in the other of being flung into the fire, or dashed against the wall; and the poor thing remained perfectly quiet wherever I chose to put him.
-a:hindley=man
+a:hindley=adult
 
 “There, I’ve found it out at last!” cried Hindley,
 s=hindley;e:hindley=angry;m=break,1
@@ -3974,7 +3974,7 @@ On a mellow evening in September, I was coming from the garden with a heavy bask
 b=grange-garden-dusk
 
 It had got dusk, and the moon looked over the high wall of the court, causing undefined shadows to lurk in the corners of the numerous projecting portions of the building.
-a:heathcliff=adult;a:catherine=adult;a:hindley=adult;a:edgar=adult
+a:heathcliff=adult;a:catherine=adult;a:hindley=adult2;a:edgar=adult2
 
 I set my burden on the house-steps by the kitchen-door, and lingered to rest, and drew in a few more breaths of the soft, sweet air; my eyes were on the moon, and my back to the entrance, when I heard a voice behind me say﻿—
 m=nospace,1;m=break,1
@@ -3992,7 +3992,7 @@ Something stirred in the porch; and, moving nearer, I distinguished a tall man d
 
 
 “Who can it be?” I thought. “Mr. Earnshaw? Oh, no! The voice has no resemblance to his.”
-a:nelly=adult;;n:nelly=“Nelly” (Ellen) Dean(?);x:nelly=hat;t=nelly;e:nelly=wary
+a:nelly=adult2;;n:nelly=“Nelly” (Ellen) Dean(?);x:nelly=hat;t=nelly;e:nelly=wary
 
 “I have waited here an hour,” he resumed, while I continued staring;
 s=heathcliff;t=;m=nospeaker,1;n:heathcliff=?;e:heathcliff=serious
@@ -4802,7 +4802,7 @@ I showed another, keeping it out of his reach.
 s=nelly;e:nelly=unhappy
 
 “Damn the curate, and thee! Gie me that,” he replied.
-a:hareton=child;x:hareton=hat;s=hareton;e:hareton=angry
+a:hareton=young;x:hareton=hat;s=hareton;e:hareton=angry
 
 “Tell us where you got your lessons, and you shall have it,” said I. “Who’s your master?”
 s=nelly;e:nelly=serious
@@ -8297,7 +8297,7 @@ s=nelly;e:nelly=scowling
 s=cathy;e:cathy=curious
 
 “Nay,” he replied,
-a:hareton=young;s=hareton;e:hareton=nervouslookdown;m=break,1
+a:hareton=adult;s=hareton;e:hareton=nervouslookdown;m=break,1
 
 looking down, and blushing bashfully.
 s=
@@ -9440,7 +9440,7 @@ Hareton stared up, and scratched his head like a true clown.
 
 
 “It’s some damnable writing,” he answered. “I cannot read it.”
-a:hareton=young;x:hareton=hat;s=hareton;e:hareton=serious
+a:hareton=adult2;x:hareton=hat;s=hareton;e:hareton=serious
 
 “Can’t read it?” cried Catherine; “I can read it: it’s English. But I want to know why it is there.”
 x:cathy=hat;s=cathy;e:cathy=confused
