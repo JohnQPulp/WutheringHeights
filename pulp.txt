@@ -1,4 +1,4 @@
-Wuthering Heights<br>Emily Jane Brontë<e>Put the visual nightmare that was the 2026 movie adaptation out of your mind. (Rather, <i>textual</i> nightmares are to follow, but of the good kind.)</e>
+Wuthering Heights<br><s>Ellis Bell</s> Emily Jane Brontë<e>Put the visual nightmare that was the 2026 movie adaptation out of your mind. (Rather, <i>textual</i> nightmares are to follow, but of the good kind.)</e>
 b=title;t=author;z:author=85,,10
 
 ## I
