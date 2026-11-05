@@ -2906,7 +2906,7 @@ He had a sweet, low manner of speaking, and pronounced his words as you do: that
 
 
 “I’m not come too soon, am I?” he said, casting a look at me:
-a:edgar=adult;s=edgar;e:edgar=wary
+;s=edgar;e:edgar=wary
 
 I had begun to wipe the plate, and tidy some drawers at the far end in the dresser.
 s=
