@@ -4310,7 +4310,7 @@ s=catherine;e:catherine=annoyed;m=break,1
 e:catherine=unhappy
 
 “He must get accustomed to him, and he may as well like him: considering how Heathcliff has reason to object to him, I’m sure he behaved excellently!”
-e:catherine=seirous
+e:catherine=serious
 
 “What do you think of his going to Wuthering Heights?” I inquired. “He is reformed in every respect, apparently: quite a Christian: offering the right hand of fellowship to his enemies all around!”
 s=nelly;e:nelly=suspicious
