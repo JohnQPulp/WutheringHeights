@@ -1055,7 +1055,7 @@ setting the candle on a chair, because he found it impossible to hold it steady.
 s=
 
 “And who showed you up into this room?” he continued,
-s=heathcliff;m=break,1;e:heathcliff=angryteeth
+s=heathcliff;m=break,1;e:heathcliff=serious
 
 crushing his nails into his palms, and grinding his teeth to subdue the maxillary convulsions.
 s=
