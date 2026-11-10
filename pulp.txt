@@ -12035,10 +12035,10 @@ I considered it best to depart without seeing Mr. Heathcliff, and bring a rescu
 f:b:heights-house=blur(3px)
 
 On reaching it, the astonishment of my fellow-servants to see me, and their joy also, was intense; and when they heard that their little mistress was safe, two or three were about to hurry up and shout the news at Mr. Edgar’s door: but I bespoke the announcement of it myself.
-b=heights-edgar-bedroom;f:b:heights-edgar-bedroom=blur(3px)
+b=grange-edgar-bedroom;f:b:grange-edgar-bedroom=blur(3px)
 
 How changed I found him, even in those few days! He lay an image of sadness and resignation awaiting his death.
-f:b:heights-edgar-bedroom=
+f:b:grange-edgar-bedroom=
 
 Very young he looked: though his actual age was thirty-nine, one would have called him ten years younger, at least.
 
@@ -12056,7 +12056,7 @@ I trembled at the first effects of this intelligence: he half rose up, looked ea
 s=
 
 As soon as he recovered, I related our compulsory visit, and detention at the Heights.
-f:b:heights-edgar-bedroom=blur(3px)
+f:b:grange-edgar-bedroom=blur(3px)
 
 I said Heathcliff forced me to go in: which was not quite true. I uttered as little as possible against Linton; nor did I describe all his father’s brutal conduct﻿—my intentions being to add no bitterness, if I could help it, to his already overflowing cup.
 
