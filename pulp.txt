@@ -2452,11 +2452,8 @@ They go the rounds of all the respectable houses, and receive contributions ever
 After the usual carols had been sung, we set them to songs and glees. Mrs. Earnshaw loved the music, and so they gave us plenty.
 
 
-Catherine loved it too: but she said it sounded sweetest at the top of the steps, and she went up in the dark:
-
-
-I followed.
-b=heights-garret-ladder-night
+Catherine loved it too: but she said it sounded sweetest at the top of the steps, and she went up in the dark: I followed.
+b=heights-stairs-night;f:b:heights-stairs-night=blur(3px)
 
 They shut the house door below, never noting our absence, it was so full of people.
 
@@ -4757,7 +4754,7 @@ The nearer I got to the house the more agitated I grew;
 ;f:b:moor-intersection=blur(3px)
 
 and on catching sight of it I trembled in every limb.
-b=heights-gate
+b=heights-wide
 
 The apparition had outstripped me: it stood looking through the gate. That was my first idea on observing an elf-locked, brown-eyed boy setting his ruddy countenance against the bars.
 
@@ -4784,13 +4781,13 @@ He raised his missile to hurl it; I commenced a soothing speech, but could not s
 s=
 
 the stone struck my bonnet; and then ensued, from the stammering lips of the little fellow, a string of curses, which, whether he comprehended them or not, were delivered with practised emphasis, and distorted his baby features into a shocking expression of malignity.
-f:b:heights-gate=blur(3px)
+f:b:heights-wide=blur(3px)
 
 You may be certain this grieved more than angered me.
 
 
 Fit to cry, I took an orange from my pocket, and offered it to propitiate him.
-f:b:heights-gate=
+f:b:heights-wide=
 
 He hesitated, and then snatched it from my hold; as if he fancied I only intended to tempt and disappoint him.
 
@@ -4859,7 +4856,7 @@ He went up the walk, and entered the house; but, instead of Hindley, Heathcliff 
 
 
 and I turned directly and ran down the road as hard as ever I could race, making no halt till I gained the guidepost, and feeling as scared as if I had raised a goblin.
-f:b:heights-gate=blur(3px)
+f:b:heights-wide=blur(3px)
 
 This is not much connected with Miss Isabella’s affair: except that it urged me to resolve further on mounting vigilant guard, and doing my utmost to check the spread of such bad influence at the Grange: even though I should wake a domestic storm, by thwarting Mrs. Linton’s pleasure.
 b=grange-wide;f:b:grange-wide=blur(3px)
