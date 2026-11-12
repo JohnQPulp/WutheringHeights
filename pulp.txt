@@ -2213,7 +2213,7 @@ With that he dashed headforemost out of the room, amid the merriment of the mast
 s=;f:b:heights-house=blur(3px)
 
 After playing lady’s-maid to the newcomer, and putting my cakes in the oven, and making the house and kitchen cheerful with great fires, befitting Christmas-eve, I prepared to sit down and amuse myself by singing carols, all alone; regardless of Joseph’s affirmations that he considered the merry tunes I chose as next door to songs.
-b=heights-kitchen-christmas-night;f=fade
+b=heights-kitchen-night;f=fade
 
 He had retired to private prayer in his chamber, and Mr. and Mrs. Earnshaw were engaging Missy’s attention by sundry gay trifles bought for her to present to the little Lintons, as an acknowledgment of their kindness.
 
@@ -2222,7 +2222,7 @@ They had invited them to spend the morrow at Wuthering Heights, and the invitati
 
 
 Under these circumstances I remained solitary.
-f:b:heights-kitchen-christmas-night=blur(3px)
+f:b:heights-kitchen-night=blur(3px)
 
 I smelt the rich scent of the heating spices; and admired the shining kitchen utensils, the polished clock, decked in holly, the silver mugs ranged on a tray ready to be filled with mulled ale for supper; and above all, the speckless purity of my particular care﻿—the scoured and well-swept floor.
 
@@ -2243,7 +2243,7 @@ He was not far; I found him smoothing the glossy coat of the new pony in the sta
 f:b:heights-stable=
 
 “Make haste, Heathcliff!” I said, “the kitchen is so comfortable; and Joseph is upstairs: make haste, and let me dress you smart before Miss Cathy comes out, and then you can sit together, with the whole hearth to yourselves, and have a long chatter till bedtime.”
-f:b:heights-kitchen-christmas-night=;s=nelly;e:nelly=happy
+f:b:heights-kitchen-night=;s=nelly;e:nelly=happy
 
 He proceeded with his task, and never turned his head towards me.
 s=
@@ -2255,7 +2255,7 @@ I waited five minutes, but getting no answer left him.
 f:b:heights-stable=blur(3px);s=
 
 Catherine supped with her brother and sister-in-law: Joseph and I joined at an unsociable meal, seasoned with reproofs on one side and sauciness on the other.
-b=heights-kitchen-christmas-night
+b=heights-kitchen-night
 
 His cake and cheese remained on the table all night for the fairies. He managed to continue work till nine o’clock, and then marched dumb and dour to his chamber.
 
@@ -2270,7 +2270,7 @@ Fasting and reflection seemed to have brought him to a better spirit.
 
 
 He hung about me for a while, and having screwed up his courage, exclaimed abruptly﻿—
-m=nospace,1;m=break,1;b=heights-kitchen-christmas
+m=nospace,1;m=break,1;b=heights-kitchen
 
 “Nelly, make me decent, I’m going to be good.”
 s=heathcliff;e:heathcliff=unhappy
@@ -2348,7 +2348,7 @@ e:nelly=happy
 e:nelly=smirking;i=2
 
 So I chattered on; and Heathcliff gradually lost his frown and began to look quite pleasant, when all at once our conversation was interrupted by a rumbling sound moving up the road and entering the court.
-s=;f:b:heights-kitchen-christmas=blur(3px)
+s=;f:b:heights-kitchen=blur(3px)
 
 He ran to the window and I to the door, just in time to behold the two Lintons descend from the family carriage, smothered in cloaks and furs, and the Earnshaws dismount from their horses: they often rode to church in winter.
 b=heights-wide-winter
@@ -2357,7 +2357,7 @@ Catherine took a hand of each of the children, and brought them into the house a
 f:b:heights-wide-winter=blur(3px)
 
 I urged my companion to hasten now and show his amiable humour, and he willingly obeyed; but ill luck would have it that, as he opened the door leading from the kitchen on one side, Hindley opened it on the other.
-b=heights-kitchen-christmas;f:b:heights-kitchen-christmas=
+b=heights-kitchen;f:b:heights-kitchen=
 
 They met, and the master, irritated at seeing him clean and cheerful, or, perhaps, eager to keep his promise to Mrs. Linton, shoved him back with a sudden thrust, and angrily bade Joseph
 m=break,1
@@ -2384,13 +2384,13 @@ He ventured this remark without any intention to insult; but Heathcliff’s viol
 s=
 
 He seized a tureen of hot apple sauce (the first thing that came under his grip) and dashed it full against the speaker’s face and neck; who instantly commenced a lament that brought Isabella and Catherine hurrying to the place.
-f:b:heights-kitchen-christmas=blur(3px)
+f:b:heights-kitchen=blur(3px)
 
 Mr. Earnshaw snatched up the culprit directly and conveyed him to his chamber; where, doubtless, he administered a rough remedy to cool the fit of passion, for he appeared red and breathless.
 
 
 I got the dishcloth, and rather spitefully scrubbed Edgar’s nose and mouth, affirming it served him right for meddling.
-f:b:heights-kitchen-christmas=
+f:b:heights-kitchen=
 
 His sister began weeping to go home, and Cathy stood by confounded, blushing for all.
 
@@ -2423,7 +2423,7 @@ s=hindley;e:hindley=serious
 e:hindley=smirking
 
 The little party recovered its equanimity at sight of the fragrant feast. They were hungry after their ride, and easily consoled, since no real harm had befallen them.
-s=;f:b:heights-kitchen-christmas=blur(3px)
+s=;f:b:heights-kitchen=blur(3px)
 
 Mr. Earnshaw carved bountiful platefuls, and the mistress made them merry with lively talk.
 b=heights-house-christmas
@@ -2453,7 +2453,7 @@ After the usual carols had been sung, we set them to songs and glees. Mrs. Earn
 
 
 Catherine loved it too: but she said it sounded sweetest at the top of the steps, and she went up in the dark: I followed.
-b=heights-stairs-night;f:b:heights-stairs-night=blur(3px)
+b=heights-stairs;f:b:heights-stairs=blur(3px)
 
 They shut the house door below, never noting our absence, it was so full of people.
 
@@ -2483,13 +2483,13 @@ I told them I intended by no means to encourage their tricks: but as the prisone
 
 
 He went down: I set him a stool by the fire, and offered him a quantity of good things: but he was sick and could eat little, and my attempts to entertain him were thrown away.
-b=heights-kitchen-christmas-night;f:b:heights-kitchen-christmas-night=blur(3px)
+b=heights-kitchen-night;f:b:heights-kitchen-night=blur(3px)
 
 He leant his two elbows on his knees, and his chin on his hands and remained rapt in dumb meditation.
 
 
 On my inquiring the subject of his thoughts, he answered gravely﻿—
-m=nospace,1;m=break,1;f:b:heights-kitchen-christmas-night=
+m=nospace,1;m=break,1;f:b:heights-kitchen-night=
 
 “I’m trying to settle how I shall pay Hindley back. I don’t care how long I wait, if I can only do it at last.”
 x:heathcliff=;s=heathcliff;e:heathcliff=serious
@@ -2507,7 +2507,7 @@ s=heathcliff;e:heathcliff=scowling;i=2
 e:heathcliff=serious;i=2
 
 But, Mr. Lockwood, I forget these tales cannot divert you.
-;f:b:heights-kitchen-christmas-night=blur(3px);s=
+;f:b:heights-kitchen-night=blur(3px);s=
 
 I’m annoyed how I should dream of chattering on at such a rate; and your gruel cold, and you nodding for bed! I could have told Heathcliff’s history, all that you need hear, in half a dozen words.
 
@@ -3119,7 +3119,7 @@ Poor Hareton was squalling and kicking in his father’s arms with all his might
 s=;f:b:heights-kitchen-night=blur(3px)
 
 I cried out that he would frighten the child into fits, and ran to rescue him.
-b=heights-stairs-night
+b=heights-stairs
 
 As I reached them, Hindley leant forward on the rails to listen to a noise below; almost forgetting what he had in his hands.
 
@@ -3131,13 +3131,13 @@ I leant forward also, for the purpose of signing to Heathcliff, whose step I rec
 s=
 
 and, at the instant when my eye quitted Hareton, he gave a sudden spring, delivered himself from the careless grasp that held him, and fell.
-f:b:heights-stairs-night=blur(3px)
+f:b:heights-stairs=blur(3px)
 
 There was scarcely time to experience a thrill of horror before we saw that the little wretch was safe.
 
 
 Heathcliff arrived underneath just at the critical moment; by a natural impulse he arrested his descent, and setting him on his feet, looked up to discover the author of the accident.
-f:b:heights-stairs-night=
+f:b:heights-stairs=
 
 A miser who has parted with a lucky lottery ticket for five shillings, and finds next day he has lost in the bargain five thousand pounds, could not show a blanker countenance than he did on beholding the figure of Mr. Earnshaw above.
 
@@ -6272,7 +6272,7 @@ He made no reply to this adjuration; only plodding doggedly down the wooden step
 m=break,1;f:b:heights-garret-night=blur(3px);s=
 
 and halting, before an apartment which, from that halt and the superior quality of its furniture, I conjectured to be the best one.
-b=heights-stairs-night;s=
+b=heights-stairs;s=
 
 There was a carpet﻿—a good one, but the pattern was obliterated by dust; a fireplace hung with cut-paper, dropping to pieces; a handsome oak-bedstead with ample crimson curtains of rather expensive material and modern make;
 
@@ -6314,7 +6314,7 @@ e:joseph=scowling
 
 
 And so he went on scolding to his den beneath, taking the candle with him; and I remained in the dark.
-s=;f:b:heights-stairs-night=blur(3px) brightness(85%)
+s=;f:b:heights-stairs=blur(3px) brightness(85%)
 
 The period of reflection succeeding this silly action compelled me to admit the necessity of smothering my pride and choking my wrath, and bestirring myself to remove its effects.
 
@@ -10796,7 +10796,7 @@ b=heights-kitchen-night
 
 
 “Zillah and I ascended after him; but he stopped me at the top of the steps, and said I shouldn’t go in: I must go home.”
-b=heights-stairs-night;f:b:heights-stairs-night=blur(3px)
+b=heights-stairs;f:b:heights-stairs=blur(3px)
 
 “I exclaimed that he had killed Linton, and I *would* enter.”
 
@@ -10808,7 +10808,7 @@ m=dialogue,1
 s=
 
 “and she took me, and nearly carried me into the house.”
-b=heights-house-night;f:b:heights-house-night=blur(3px)
+b=heights-house;f:b:heights-house=blur(3px)
 
 “Ellen, I was ready to tear my hair off my head!”
 
@@ -10877,7 +10877,7 @@ s=;b=heights-wide-night;f:b:heights-wide-night=blur(3px)
 m=dialogue,1
 
 “I went in; Earnshaw was there also, but he quitted the room directly.”
-b=heights-parlour-night
+b=heights-house
 
 “Linton sat in the great armchair half asleep; walking up to the fire, I began in a serious tone, partly meaning it to be true﻿—”
 s=
@@ -10901,7 +10901,7 @@ e:linton=upset;i=2
 s=
 
 “We were reconciled; but we cried, both of us, the whole time I stayed: not entirely for sorrow; yet I *was* sorry Linton had that distorted nature. He’ll never let his friends be at ease, and he’ll never be at ease himself!”
-f:b:heights-parlour-night=blur(3px)
+f:b:heights-house=blur(3px)
 
 “I have always gone to his little parlour, since that night; because his father returned the day after.”
 
@@ -12068,7 +12068,7 @@ Having received his orders, I despatched a man to fetch the attorney, and four m
 
 
 Both parties were delayed very late. The single servant returned first.
-b=heights-parlour-night;f:b:heights-parlour-night=blur(3px)
+b=heights-house;f:b:heights-house=blur(3px)
 
 He said Mr. Green, the lawyer, was out when he arrived at his house, and he had to wait two hours for his re-entrance; and then Mr. Green told him he had a little business in the village that must be done; but he would be at Thrushcross Grange before morning.
 
@@ -12476,7 +12476,7 @@ b=heights-kitchen;f:b:heights-kitchen=blur(3px)
 
 
 “Once or twice, after we had gone to bed, I’ve happened to open my door again and seen her sitting crying on the stairs’-top; and then I’ve shut myself in quick, for fear of being moved to interfere.”
-b=heights-stairs-night;f:b:heights-stairs-night=blur(3px)
+b=heights-stairs;f:b:heights-stairs=blur(3px)
 
 “I did pity her then, I’m sure: still I didn’t wish to lose my place, you know.”
 
@@ -13199,7 +13199,7 @@ s=nelly;e:nelly=serious
 s=lockwood;e:lockwood=thinking
 
 “What business, sir?” said Nelly, conducting me into the house.
-b=heights-house-night;s=nelly;e:nelly=confused;f=fade
+b=heights-house;s=nelly;e:nelly=confused;f=fade
 
 “He’s gone out at present, and won’t return soon.”
 e:nelly=smirking
@@ -13256,7 +13256,7 @@ Mr. Heathcliff did not explain his reasons for taking a new mind about my comin
 
 
 She seemed pleased at this arrangement; and, by degrees, I smuggled over a great number of books, and other articles, that had formed her amusement at the Grange; and flattered myself we should get on in tolerable comfort.
-b=heights-parlour;f:b:heights-parlour=blur(3px)
+b=heights-house;f:b:heights-house=blur(3px)
 
 The delusion did not last long. Catherine, contented at first, in a brief space grew irritable and restless.
 
@@ -14309,7 +14309,7 @@ He solicited the society of no one more.
 s=;f:b:heights-kitchen=blur(3px)
 
 At dusk he went into his chamber. Through the whole night, and far into the morning, we heard him groaning and murmuring to himself.
-b=heights-stairs-night;f:b:heights-stairs-night=blur(3px)
+b=heights-stairs;f:b:heights-stairs=blur(3px)
 
 Hareton was anxious to enter; but I bid him fetch Mr. Kenneth, and he should go in and see him.
 
@@ -14399,7 +14399,7 @@ Yet that old man by the kitchen fire affirms he has seen two on ’em looking ou
 
 
 I was going to the Grange one evening﻿—a dark evening, threatening thunder﻿—and, just at the turn of the Heights, I encountered a little boy with a sheep and two lambs before him; he was crying terribly; and I supposed the lambs were skittish, and would not be guided.
-b=moor-intersection-evening
+b=moor-intersection
 
 “What is the matter, my little man?” I asked.
 s=nelly;e:nelly=happy;x:nelly=hat
