@@ -14414,7 +14414,7 @@ He probably raised the phantoms from thinking, as he traversed the moors alone, 
 
 
 Yet, still, I don’t like being out in the dark now; and I don’t like being left by myself in this grim house: I cannot help it; I shall be glad when they leave it, and shift to the Grange.
-f:b:moor-intersection-evening=blur(3px)
+f:b:moor-intersection=blur(3px)
 
 “They are going to the Grange, then?” I said.
 b=heights-house;f=fade;s=lockwood;e:lockwood=contemplative
