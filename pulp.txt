@@ -2720,7 +2720,7 @@ She had a wondrous constancy to old attachments: even Heathcliff kept his hold o
 
 
 He was my late master: that is his portrait over the fireplace.
-b=grange-edgar-portrait;f=fade
+b=grange-parlour-night;f=fade
 
 It used to hang on one side, and his wife’s on the other; but hers has been removed, or else you might see something of what she was. Can you make that out?
 
