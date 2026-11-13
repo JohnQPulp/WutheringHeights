@@ -227,7 +227,7 @@ f:b:heights-house=blur(3px)
 r=title
 
 Yesterday afternoon set in misty and cold. I had half a mind to spend it by my study fire, instead of wading through heath and mud to Wuthering Heights.
-b=grange-library;
+b=grange-library-winter
 
 On coming up from dinner, however, (N.B.﻿—I dine between twelve and one o’clock; the housekeeper, a matronly lady, taken as a fixture along with the house, could not, or would not, comprehend my request that I might be served at five)﻿—
 m=break,1;m=nospace,1
@@ -236,7 +236,7 @@ on mounting the stairs with this lazy intention, and stepping into the room, I s
 
 
 This spectacle drove me back immediately;
-f:b:grange-library=blur(3px)
+f:b:grange-library-winter=blur(3px)
 
 I took my hat, and, after a four-miles’ walk, arrived at Heathcliff’s garden-gate just in time to escape the first feathery flakes of a snow-shower.
 b=heights-wide-wide
@@ -5762,7 +5762,7 @@ I spared a minute to open the gate for it, but instead of going to the house doo
 
 
 On ascending to Isabella’s room, my suspicions were confirmed: it was empty.
-b=grange-isabella-night
+b=grange-hall-night
 
 Had I been a few hours sooner Mrs. Linton’s illness might have arrested her rash step. But what could be done now?
 
@@ -5771,7 +5771,7 @@ There was a bare possibility of overtaking them if pursued instantly. *I* could 
 
 
 I saw nothing for it but to hold my tongue, and suffer matters to take their course; and Kenneth being arrived, I went with a badly composed countenance to announce him.
-f:b:grange-isabella-night=blur(3px)
+f:b:grange-hall-night=blur(3px)
 
 Catherine lay in a troubled sleep: her husband had succeeded in soothing the excess of frenzy; he now hung over her pillow, watching every shade and every change of her painfully expressive features.
 b=grange-catherine-night;f:b:grange-catherine-night=blur(3px)
