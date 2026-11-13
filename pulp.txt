@@ -728,13 +728,13 @@ f:b:heights-kitchen-night=blur(3px)
 r=title
 
 While leading the way upstairs, she recommended that I should hide the candle, and not make a noise; for her master had an odd notion about the chamber she would put me in, and never let anybody lodge there willingly.
-b=heights-catherine-night;f:b:heights-catherine-night=blur(3px)
+b=heights-catherine;f:b:heights-catherine=blur(3px)
 
 I asked the reason. She did not know, she answered: she had only lived there a year or two; and they had so many queer goings on, she could not begin to be curious.
 
 
 Too stupefied to be curious myself, I fastened my door and glanced round for the bed. The whole furniture consisted of a chair, a clothespress, and a large oak case, with squares cut out near the top resembling coach windows.
-f:b:heights-catherine-night=
+f:b:heights-catherine=
 
 Having approached this structure, I looked inside, and perceived it to be a singular sort of old-fashioned couch, very conveniently designed to obviate the necessity for every member of the family having a room to himself.
 
@@ -779,7 +779,7 @@ An immediate interest kindled within me for the unknown Catherine, and I began f
 
 
 “An awful Sunday,” commenced the paragraph beneath.
-f:b:heights-catherine-night=;n:catherine=Catherine “Cathy” Earnshaw;a:catherine=child;e:catherine=unhappy
+f:b:heights-catherine=;n:catherine=Catherine “Cathy” Earnshaw;a:catherine=child;e:catherine=unhappy
 
 “I wish my father were back again. Hindley is a detestable substitute﻿—his conduct to Heathcliff is atrocious﻿—H. and I are going to rebel﻿—we took our initiatory step this evening.”
 g=heights-garret,1;f:b:heights-garret=blur(5px)
@@ -881,7 +881,7 @@ I began to dream, almost before I ceased to be sensible of my locality.
 
 
 I thought it was morning; and I had set out on my way home, with Joseph for a guide.
-b=moor-snow;f:b:moor-snow=blur(3px)
+b=moor-intersection-snow;f:b:moor-intersection-snow=blur(3px)
 
 The snow lay yards deep in our road; and, as we floundered on, my companion wearied me with constant reproaches that I had not brought a pilgrim’s staff: telling me that I could never get into the house without one, and boastfully flourishing a heavy-headed cudgel, which I understood to be so denominated.
 
@@ -1037,7 +1037,7 @@ With this intention, I turned and opened the panels.
 f:b:heights-catherine-bed-night=blur(3px)
 
 I shall not soon forget the effect my action produced.
-b=heights-catherine-night;f:b:heights-catherine-night=
+b=heights-catherine;f:b:heights-catherine=
 
 Heathcliff stood near the entrance, in his shirt and trousers; with a candle dripping over his fingers, and his face as white as the wall behind him.
 
@@ -1121,7 +1121,7 @@ I did not know whether to resent this language or pursue my explanation;
 
 
 but he seemed so powerfully affected that I took pity and proceeded with my dreams; affirming I had never heard the appellation of “Catherine Linton” before, but reading it often over produced an impression which personified itself when I had no longer my imagination under control.
-f:b:heights-catherine-night=blur(3px)
+f:b:heights-catherine=blur(3px)
 
 Heathcliff gradually fell back into the shelter of the bed, as I spoke; finally sitting down almost concealed behind it.
 
@@ -1130,7 +1130,7 @@ I guessed, however, by his irregular and intercepted breathing, that he struggle
 
 
 Not liking to show him that I had heard the conflict, I continued my toilette rather noisily, looked at my watch, and soliloquised on the length of the night:
-f:b:heights-catherine-night=
+f:b:heights-catherine=
 
 “Not three o’clock yet! I could have taken oath it had been six. Time stagnates here: we must surely have retired to rest at eight!”
 s=lockwood;e:lockwood=serious
@@ -1160,7 +1160,7 @@ e:heathcliff=serious
 
 
 I obeyed, so far as to quit the chamber; when, ignorant where the narrow lobbies led, I stood still, and was witness, involuntarily, to a piece of superstition on the part of my landlord which belied, oddly, his apparent sense.
-s=;f:b:heights-catherine-night=blur(3px)
+s=;f:b:heights-catherine=blur(3px)
 
 He got on to the bed, and wrenched open the lattice, bursting, as he pulled at it, into an uncontrollable passion of tears.
 
@@ -1262,7 +1262,7 @@ My landlord halloed for me to stop ere I reached the bottom of the garden, and o
 
 
 It was well he did, for the whole hill-back was one billowy, white ocean;
-b=moor-snow;f:b:moor-snow=;f:b:moor-snow=blur(3px)
+b=moor-intersection-snow;f:b:moor-intersection-snow=;f:b:moor-intersection-snow=blur(3px)
 
 the swells and falls not indicating corresponding rises and depressions in the ground: many pits, at least, were filled to a level; and entire ranges of mounds, the refuse of the quarries, blotted from the chart which my yesterday’s walk left pictured in my mind.
 
@@ -8777,7 +8777,7 @@ I attempted to persuade him of the naughtiness of showing reluctance to meet his
 s=
 
 The poor thing was finally got off, with several delusive assurances that his absence should be short: that Mr. Edgar and Cathy would visit him, and other promises, equally ill-founded, which I invented and reiterated at intervals throughout the way.
-f:b:grange-linton-bedroom=blur(3px)
+f:b:grange-guest=blur(3px)
 
 The pure heather-scented air, the bright sunshine, and the gentle canter of Minny, relieved his despondency after a while.
 b=moor
@@ -10529,7 +10529,7 @@ I thought her conduct odd; and having remained alone a long while, I resolved on
 
 
 No Catherine could I discover upstairs, and none below.
-b=grange-cathy-bedroom-night;f:b:grange-cathy-night=blur(3px)
+b=grange-cathy-bedroom-night;f:b:grange-cathy-bedroom-night=blur(3px)
 
 The servants affirmed they had not seen her. I listened at Mr. Edgar’s door; all was silence.
 
@@ -12362,7 +12362,7 @@ b=heights-wide-wide-night
 
 
 “I looked round impatiently﻿—I felt her by me﻿—I could *almost* see her, and yet I *could not*!”
-b=heights-catherine-night;f:b:heights-catherine-night=blur(3px)
+b=heights-catherine;f:b:heights-catherine=blur(3px)
 
 “I ought to have sweat blood then, from the anguish of my yearning﻿—from the fervour of my supplications to have but one glimpse!”
 
@@ -14099,7 +14099,7 @@ We heard him mount the stairs directly; he did not proceed to his ordinary chamb
 f:b:heights-kitchen-night=blur(3px);m=break,1
 
 but turned into that with the panelled bed: its window, as I mentioned before, is wide enough for anybody to get through; and it struck me that he plotted another midnight excursion, of which he had rather we had no suspicion.
-b=heights-catherine-night;f:b:heights-catherine-night=blur(3px)
+b=heights-catherine;f:b:heights-catherine=blur(3px)
 
 “Is he a ghoul or a vampire?” I mused. I had read of such hideous incarnate demons.
 m=dialogue,1
@@ -14108,7 +14108,7 @@ And then I set myself to reflect how I had tended him in infancy, and watched hi
 t=
 
 “But where did he come from, the little dark thing, harboured by a good man to his bane?” muttered Superstition, as I dozed into unconsciousness.
-m=dialogue,1;f:b:heights-catherine-night=blur(6px)
+m=dialogue,1;f:b:heights-catherine=blur(6px)
 
 And I began, half dreaming, to weary myself with imagining some fit parentage for him; and, repeating my waking meditations, I tracked his existence over again, with grim variations; at last, picturing his death and funeral:
 t=
@@ -14375,7 +14375,7 @@ But poor Hareton, the most wronged, was the only one who really suffered much.
 f:b:heights-catherine=blur(3px)
 
 He sat by the corpse all night, weeping in bitter earnest.
-b=heights-catherine-night;f:b:heights-catherine-night=blur(3px)
+b=heights-catherine;f:b:heights-catherine=blur(3px)
 
 He pressed its hand, and kissed the sarcastic, savage face that everyone else shrank from contemplating; and bemoaned him with that strong grief which springs naturally from a generous heart, though it be tough as tempered steel.
 
