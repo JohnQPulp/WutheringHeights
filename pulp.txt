@@ -2120,7 +2120,7 @@ The mistress visited her often in the interval, and commenced her plan of reform
 f:b:grange-wide-winter=blur(3px)
 
 so that, instead of a wild, hatless little savage jumping into the house, and rushing to squeeze us all breathless, there lighted from a handsome black pony a very dignified person, with brown ringlets falling from the cover of a feathered beaver, and a long cloth habit, which she was obliged to hold up with both hands that she might sail in.
-;b=heights-wide-winter
+;b=heights-wide
 
 Hindley lifted her from her horse, exclaiming delightedly,
 m=break,1
@@ -2147,7 +2147,7 @@ Mr. and Mrs. Earnshaw watched anxiously their meeting; thinking it would enabl
 
 
 Heathcliff was hard to discover, at first. If he were careless, and uncared for, before Catherine’s absence, he had been ten times more so since.
-f:b:heights-wide-winter=blur(3px)
+f:b:heights-wide=blur(3px)
 
 Nobody but I even did him the kindness to call him a dirty boy, and bid him wash himself, once a week; and children of his age seldom have a natural pleasure in soap and water.
 
@@ -2270,7 +2270,7 @@ Cathy sat up late, having a world of things to order for the reception of her ne
 
 
 In the morning he rose early; and, as it was a holiday, carried his ill-humour on to the moors; not reappearing till the family were departed for church.
-b=heights-wide-wide-winter
+b=heights-wide-wide
 
 Fasting and reflection seemed to have brought him to a better spirit.
 
@@ -2357,10 +2357,10 @@ So I chattered on; and Heathcliff gradually lost his frown and began to look qui
 s=;f:b:heights-kitchen=blur(3px)
 
 He ran to the window and I to the door, just in time to behold the two Lintons descend from the family carriage, smothered in cloaks and furs, and the Earnshaws dismount from their horses: they often rode to church in winter.
-b=heights-wide-winter
+b=heights-wide
 
 Catherine took a hand of each of the children, and brought them into the house and set them before the fire, which quickly put colour into their white faces.
-f:b:heights-wide-winter=blur(3px)
+f:b:heights-wide=blur(3px)
 
 I urged my companion to hasten now and show his amiable humour, and he willingly obeyed; but ill luck would have it that, as he opened the door leading from the kitchen on one side, Hindley opened it on the other.
 b=heights-kitchen;f:b:heights-kitchen=
@@ -5927,7 +5927,7 @@ I’ll read it: for I keep it yet. Any relic of the dead is precious, if they we
 
 
 <span class='upper'>Dear Ellen</span>, it begins﻿—
-b=heights-wide-wide-winter-night;f:b:heights-wide-wide-winter-night=blur(3px);m=allowbreak,1;m=nospace,1
+b=heights-wide-wide-night;f:b:heights-wide-wide-night=blur(3px);m=allowbreak,1;m=nospace,1
 
 I came last night to Wuthering Heights, and heard, for the first time, that Catherine has been, and is yet, very ill.
 
@@ -6026,13 +6026,13 @@ and continued his work; moving his lantern jaws meanwhile, and surveying my dres
 s=
 
 I walked round the yard, and through a wicket, to another door, at which I took the liberty of knocking, in hopes some more civil servant might show himself.
-b=heights-wide-winter;f:b:heights-wide-winter=blur(3px)
+b=heights-wide;f:b:heights-wide=blur(3px)
 
 After a short suspense, it was opened by a tall, gaunt man, without neckerchief, and otherwise extremely slovenly; his features were lost in masses of shaggy hair that hung on his shoulders; and *his* eyes, too, were like a ghostly Catherine’s with all their beauty annihilated.
 
 
 “What’s your business here?” he demanded, grimly.
-s=hindley;e:hindley=scowling;f:b:heights-wide-winter=;a:hindley=shaggy
+s=hindley;e:hindley=scowling;f:b:heights-wide=;a:hindley=shaggy
 
 “Who are you?”
 
@@ -6053,7 +6053,7 @@ searching the darkness beyond me in expectation of discovering Heathcliff; and t
 s=
 
 I repented having tried this second entrance, and was almost inclined to slip away before he finished cursing, but ere I could execute that intention, he ordered me in, and shut and re-fastened the door.
-;f:b:heights-wide-winter=blur(3px)
+;f:b:heights-wide=blur(3px)
 
 There was a great fire, and that was all the light in the huge apartment, whose floor had grown a uniform grey; and the once brilliant pewter-dishes, which used to attract my gaze when I was a girl, partook of a similar obscurity, created by tarnish and dust.
 b=heights-house-dirty
@@ -6404,7 +6404,7 @@ Mr. Edgar’s coldness depressed me exceedingly; and all the way from the Grang
 s=;f:b:grange-library=blur(3px)
 
 I daresay she had been on the watch for me since morning: I saw her looking through the lattice as I came up the garden causeway, and I nodded to her; but she drew back, as if afraid of being observed.
-b=heights-wide-winter;f:b:heights-wide-winter=blur(3px)
+b=heights-wide;f:b:heights-wide=blur(3px)
 
 I entered without knocking. There never was such a dreary, dismal scene as the formerly cheerful house presented!
 b=heights-house-dirty
