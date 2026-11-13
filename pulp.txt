@@ -5306,7 +5306,7 @@ I determined they should come about as they pleased for me; and though it was a 
 f:b:grange-wide=blur(3px)
 
 Mrs. Linton, on the third day, unbarred her door, and having finished the water in her pitcher and decanter, desired a renewed supply, and a basin of gruel, for she believed she was dying.
-b=grange-catherine-night;f:b:grange-catherine-night=blur(3px)
+b=grange-catherine;f:b:grange-catherine=blur(3px)
 
 That I set down as a speech meant for Edgar’s ears; I believed no such thing, so I kept it to myself and brought her some tea and dry toast.
 
@@ -5315,7 +5315,7 @@ She ate and drank eagerly, and sank back on her pillow again, clenching her hand
 
 
 “Oh, I will die,” she exclaimed, “since no one cares anything about me. I wish I had not taken that.”
-x:catherine=fever;s=catherine;e:catherine=upset;f:b:grange-catherine-night=
+x:catherine=fever;s=catherine;e:catherine=upset;f:b:grange-catherine=
 
 Then a good while after I heard her murmur,
 s=
@@ -5390,13 +5390,13 @@ We were in the middle of winter, the wind blew strong from the northeast, and I 
 
 
 Both the expressions flitting over her face, and the changes of her moods, began to alarm me terribly; and brought to my recollection her former illness, and the doctor’s injunction that she should not be crossed.
-f:b:grange-catherine-night=blur(3px)
+f:b:grange-catherine=blur(3px)
 
 A minute previously she was violent; now, supported on one arm, and not noticing my refusal to obey her, she seemed to find childish diversion in pulling the feathers from the rents she had just made, and ranging them on the sheet according to their different species: her mind had strayed to other associations.
 
 
 “That’s a turkey’s,” she murmured to herself; “and this is a wild duck’s; and this is a pigeon’s.”
-s=catherine;e:catherine=confused;f:b:grange-catherine-night=
+s=catherine;e:catherine=confused;f:b:grange-catherine=
 
 “Ah, they put pigeons’ feathers in the pillows﻿—no wonder I couldn’t die! Let me take care to throw it on the floor when I lie down.”
 e:catherine=annoyed
@@ -5555,7 +5555,7 @@ s=catherine;e:catherine=annoyed
 
 
 And sliding from the bed before I could hinder her, she crossed the room, walking very uncertainly,
-f:b:grange-catherine-night=blur(3px);s=;m=break,1
+f:b:grange-catherine=blur(3px);s=;m=break,1
 
 threw it back, and bent out, careless of the frosty air that cut about her shoulders as keen as a knife.
 s=;b=grange-catherine-window-night
@@ -5585,13 +5585,13 @@ Perceiving it vain to argue against her insanity, I was planning how I could rea
 s=;m=break,1;f:b:grange-catherine-window-night=
 
 when, to my consternation, I heard the rattle of the door-handle, and Mr. Linton entered.
-s=;b=grange-catherine-night;f:b:grange-catherine-night=
+s=;b=grange-catherine;f:b:grange-catherine=
 
 He had only then come from the library; and, in passing through the lobby, had noticed our talking and been attracted by curiosity, or fear, to examine what it signified, at that late hour.
 
 
 “Oh, sir!” I cried,
-f:b:grange-catherine-night=;s=nelly;e:nelly=fearful;m=break,1
+f:b:grange-catherine=;s=nelly;e:nelly=fearful;m=break,1
 
 checking the exclamation risen to his lips at the sight which met him, and the bleak atmosphere of the chamber.
 s=
@@ -5681,7 +5681,7 @@ A maniac’s fury kindled under her brows; she struggled desperately to disengag
 s=
 
 I felt no inclination to tarry the event; and, resolving to seek medical aid on my own responsibility, I quitted the chamber.
-f:b:grange-catherine-night=blur(3px)
+f:b:grange-catherine=blur(3px)
 
 In passing the garden to reach the road, at a place where a bridle hook is driven into the wall, I saw something white moved irregularly, evidently by another agent than the wind.
 b=grange-park-night;f:b:grange-park-night=blur(3px)
@@ -5774,7 +5774,7 @@ I saw nothing for it but to hold my tongue, and suffer matters to take their cou
 f:b:grange-hall-night=blur(3px)
 
 Catherine lay in a troubled sleep: her husband had succeeded in soothing the excess of frenzy; he now hung over her pillow, watching every shade and every change of her painfully expressive features.
-b=grange-catherine-night;f:b:grange-catherine-night=blur(3px)
+b=grange-catherine;f:b:grange-catherine=blur(3px)
 
 The doctor, on examining the case for himself, spoke hopefully to him of its having a favourable termination, if we could only preserve around her perfect and constant tranquillity.
 
@@ -6011,7 +6011,7 @@ Love for my life urged a compliance; I stepped over the threshold to wait till t
 s=;;f:b:heights-kitchen-dirty-night=blur(3px)
 
 Mr. Heathcliff was nowhere visible; and Joseph, whom I followed to the stables, and requested to accompany me in, after staring and muttering to himself, screwed up his nose and replied﻿—
-b=heights-stable-winter-night;s=;m=nospace,1;m=break,1
+b=heights-stable-night;s=;m=nospace,1;m=break,1
 
 “Mim! mim! mim! Did iver Christian body hear aught like it? Mincing un’ munching! How can I tell whet ye say?”
 x:joseph=hat;s=joseph;e:joseph=annoyed
@@ -6026,13 +6026,13 @@ and continued his work; moving his lantern jaws meanwhile, and surveying my dres
 s=
 
 I walked round the yard, and through a wicket, to another door, at which I took the liberty of knocking, in hopes some more civil servant might show himself.
-b=heights-wide;f:b:heights-wide=blur(3px)
+b=heights-wide-night;f:b:heights-wide-night=blur(3px)
 
 After a short suspense, it was opened by a tall, gaunt man, without neckerchief, and otherwise extremely slovenly; his features were lost in masses of shaggy hair that hung on his shoulders; and *his* eyes, too, were like a ghostly Catherine’s with all their beauty annihilated.
 
 
 “What’s your business here?” he demanded, grimly.
-s=hindley;e:hindley=scowling;f:b:heights-wide=;a:hindley=shaggy
+s=hindley;e:hindley=scowling;f:b:heights-wide-night=;a:hindley=shaggy
 
 “Who are you?”
 
@@ -6722,7 +6722,7 @@ The consequence was, that it did not reach her before the lapse of three days.
 
 
 The fourth was Sunday, and I brought it into her room after the family were gone to church.
-b=grange-catherine-window-winter;f:b:grange-catherine-window-winter=blur(3px)
+b=grange-catherine-window;f:b:grange-catherine-window=blur(3px)
 
 There was a manservant left to keep the house with me, and we generally made a practice of locking the doors during the hours of service;
 
@@ -6734,7 +6734,7 @@ He departed, and I went upstairs.
 
 
 Mrs. Linton sat in a loose white dress, with a light shawl over her shoulders, in the recess of the open window, as usual.
-b=grange-catherine-window-winter;f:b:grange-catherine-window-winter=
+b=grange-catherine-window;f:b:grange-catherine-window=
 
 Her thick, long hair had been partly removed at the beginning of her illness, and now she wore it simply combed in its natural tresses over her temples and neck.
 
@@ -6758,13 +6758,13 @@ I believe Linton had laid it there: for she never endeavoured to divert herself 
 
 
 She was conscious of his aim, and in her better moods endured his efforts placidly, only showing their uselessness by now and then suppressing a wearied sigh, and checking him at last with the saddest of smiles and kisses.
-f:b:grange-catherine-window-winter=blur(3px)
+f:b:grange-catherine-window=blur(3px)
 
 At other times, she would turn petulantly away, and hide her face in her hands, or even push him off angrily; and then he took care to let her alone, for he was certain of doing no good.
 
 
 Gimmerton chapel bells were still ringing; and the full, mellow flow of the beck in the valley came soothingly on the ear. It was a sweet substitute for the yet absent murmur of the summer foliage, which drowned that music about the Grange when the trees were in leaf.
-f:b:grange-catherine-window-winter=
+f:b:grange-catherine-window=
 
 At Wuthering Heights it always sounded on quiet days following a great thaw or a season of steady rain. And of Wuthering Heights Catherine was thinking as she listened: that is, if she thought or listened at all; but she had the vague, distant look I mentioned before, which expressed no recognition of material things either by ear or eye.
 
@@ -8081,7 +8081,7 @@ Wuthering Heights and Mr. Heathcliff did not exist for her: she was a perfect r
 
 
 Sometimes, indeed, while surveying the country from her nursery window, she would observe﻿—
-b=grange-catherine-window-winter
+b=grange-catherine-window
 
 “Ellen, how long will it be before I can walk to the top of those hills?”
 s=cathy;e:cathy=contemplative
@@ -8126,7 +8126,7 @@ s=cathy;e:cathy=contemplative
 e:cathy=thinking
 
 One of the maids mentioning the Fairy Cave, quite turned her head with a desire to fulfil this project: she teased Mr. Linton about it; and he promised she should have the journey when she got older.
-s=;f:b:grange-catherine-window-winter=blur(3px)
+s=;f:b:grange-catherine-window=blur(3px)
 
 But Miss Catherine measured her age by months, and, “Now, am I old enough to go to Penistone Crags?” was the constant question in her mouth.
 m=dialogue,1
@@ -12122,7 +12122,7 @@ Then I said I must go first, and tell of her arrival; imploring her to say, she 
 f:b:grange-kitchen-night=blur(3px)
 
 I couldn’t abide to be present at their meeting. I stood outside the chamber-door a quarter of an hour, and hardly ventured near the bed, then.
-b=grange-edgar-bedroom-night;f:b:grange-edgar-bedroom-night=blur(3px)
+b=grange-edgar-bedroom;f:b:grange-edgar-bedroom=blur(3px)
 
 All was composed, however: Catherine’s despair was as silent as her father’s joy.
 
@@ -12134,13 +12134,13 @@ He died blissfully, Mr. Lockwood: he died so.
 
 
 Kissing her cheek, he murmured﻿—
-;f:b:grange-edgar-bedroom-night=;m=break,1;m=nospace,1
+;f:b:grange-edgar-bedroom=;m=break,1;m=nospace,1
 
 “I am going to her; and you, darling child, shall come to us!”
 x:edgar=sick;s=edgar;e:edgar=sadsmile
 
 and never stirred or spoke again; but continued that rapt, radiant gaze, till his pulse imperceptibly stopped and his soul departed.
-s=;f:b:grange-edgar-bedroom-night=blur(3px)
+s=;f:b:grange-edgar-bedroom=blur(3px)
 
 None could have noticed the exact minute of his death, it was so entirely without a struggle.
 b=night;f:b:night=blur(3px)
