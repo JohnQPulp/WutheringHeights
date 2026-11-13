@@ -5975,10 +5975,10 @@ Then he took the two horses, and led them into the stables; reappearing for the 
 
 
 Heathcliff stayed to speak to him, and I entered the kitchen﻿—a dingy, untidy hole; I daresay you would not know it, it is so changed since it was in your charge.
-b=heights-kitchen-dirty-winter-night;f:b:heights-kitchen-dirty-winter-night=blur(3px)
+b=heights-kitchen-dirty-night;f:b:heights-kitchen-dirty-night=blur(3px)
 
 By the fire stood a ruffianly child, strong in limb and dirty in garb, with a look of Catherine in his eyes and about his mouth.
-;f:b:heights-kitchen-dirty-winter-night=
+;f:b:heights-kitchen-dirty-night=
 
 “This is Edgar’s legal nephew,” I reflected﻿—“mine in a manner; I must shake hands, and﻿—yes﻿—I must kiss him. It is right to establish a good understanding at the beginning.”
 n:isabella=Isabella Heathcliff;x:isabella=hat;t=isabella;e:isabella=wary
@@ -6008,7 +6008,7 @@ s=
 s=hareton;e:hareton=serious
 
 Love for my life urged a compliance; I stepped over the threshold to wait till the others should enter.
-s=;;f:b:heights-kitchen-dirty-winter-night=blur(3px)
+s=;;f:b:heights-kitchen-dirty-night=blur(3px)
 
 Mr. Heathcliff was nowhere visible; and Joseph, whom I followed to the stables, and requested to accompany me in, after staring and muttering to himself, screwed up his nose and replied﻿—
 b=heights-stable-winter-night;s=;m=nospace,1;m=break,1
@@ -6161,7 +6161,7 @@ I shuddered to be near him, and thought on the servant’s ill-bred moroseness a
 f:b:heights-house-dirty=blur(3px)
 
 Joseph was bending over the fire, peering into a large pan that swung above it; and a wooden bowl of oatmeal stood on the settle close by.
-b=heights-kitchen-dirty-winter-night;f:b:heights-kitchen-dirty-winter-night=
+b=heights-kitchen-dirty-night;f:b:heights-kitchen-dirty-night=
 
 The contents of the pan began to boil, and he turned to plunge his hand into the bowl; I conjectured that this preparation was probably for our supper, and, being hungry, I resolved it should be eatable; so, crying out sharply,
 
@@ -6227,7 +6227,7 @@ I put my basin on a tray, and went myself to fetch some more milk.
 s=
 
 With great grumblings, the fellow rose, and preceded me in my ascent:
-f:b:heights-kitchen-dirty-winter-night=blur(3px)
+f:b:heights-kitchen-dirty-night=blur(3px)
 
 we mounted to the garrets; he opened a door, now and then, to look into the apartments we passed.
 b=heights-garret-night;s=;f:b:heights-garret-night=blur(3px)
@@ -7790,7 +7790,7 @@ f:b:heights-house-dirty=blur(3px);s=
 
 
 “In my flight through the kitchen I bid Joseph speed to his master;”
-b=heights-kitchen-dirty-snow;f:b:heights-kitchen-dirty-snow=blur(3px)
+b=heights-kitchen-dirty;f:b:heights-kitchen-dirty=blur(3px)
 
 “I knocked over Hareton, who was hanging a litter of puppies from a chair-back in the doorway;”
 
@@ -8081,7 +8081,7 @@ Wuthering Heights and Mr. Heathcliff did not exist for her: she was a perfect r
 
 
 Sometimes, indeed, while surveying the country from her nursery window, she would observe﻿—
-b=grange-nursery-window
+b=grange-catherine-window-winter
 
 “Ellen, how long will it be before I can walk to the top of those hills?”
 s=cathy;e:cathy=contemplative
@@ -8126,7 +8126,7 @@ s=cathy;e:cathy=contemplative
 e:cathy=thinking
 
 One of the maids mentioning the Fairy Cave, quite turned her head with a desire to fulfil this project: she teased Mr. Linton about it; and he promised she should have the journey when she got older.
-s=;f:b:grange-nursery-window=blur(3px)
+s=;f:b:grange-catherine-window-winter=blur(3px)
 
 But Miss Catherine measured her age by months, and, “Now, am I old enough to go to Penistone Crags?” was the constant question in her mouth.
 m=dialogue,1
@@ -8720,7 +8720,7 @@ s=edgar;e:edgar=serious
 e:edgar=unhappy
 
 Linton was very reluctant to be roused from his bed at five o’clock, and astonished to be informed that he must prepare for further travelling;
-b=grange-linton-bedroom;f=fade;s=
+b=grange-guest;f=fade;s=
 
 but I softened off the matter by stating that he was going to spend some time with his father, Mr. Heathcliff, who wished to see him so much, he did not like to defer the pleasure till he should recover from his late journey.
 
@@ -10472,7 +10472,7 @@ As soon as I entered I hastened to change my soaked shoes and stockings; but sit
 
 
 On the succeeding morning I was laid up, and during three weeks I remained incapacitated for attending to my duties: a calamity never experienced prior to that period, and never, I am thankful to say, since.
-b=grange-nelly-bedroom;f:b:grange-nelly-bedroom=blur(3px)
+b=grange-nelly-bedroom-night;f:b:grange-nelly-bedroom-night=blur(3px)
 
 My little mistress behaved like an angel in coming to wait on me, and cheer my solitude; the confinement brought me exceedingly low. It is wearisome, to a stirring active body: but few have slighter reasons for complaint than I had.
 
@@ -10529,7 +10529,7 @@ I thought her conduct odd; and having remained alone a long while, I resolved on
 
 
 No Catherine could I discover upstairs, and none below.
-b=grange-cathy-bedroom-window-night-snow;f:b:grange-cathy-bedroom-window-night-snow=blur(3px)
+b=grange-cathy-bedroom-night;f:b:grange-cathy-night=blur(3px)
 
 The servants affirmed they had not seen her. I listened at Mr. Edgar’s door; all was silence.
 
@@ -10538,7 +10538,7 @@ I returned to her apartment, extinguished my candle, and seated myself in the wi
 
 
 The moon shone bright; a sprinkling of snow covered the ground, and I reflected that she might, possibly, have taken it into her head to walk about the garden, for refreshment.
-f:b:grange-cathy-bedroom-window-night-snow=
+f:b:grange-cathy-bedroom-night=
 
 I did detect a figure creeping along the inner fence of the park; but it was not my young mistress: on its emerging into the light, I recognised one of the grooms.
 
@@ -14198,7 +14198,7 @@ The hours crept anxiously by: another evening came.
 
 
 I did not retire to rest till late, and when I did, I could not sleep.
-b=heights-nelly-bedroom-night;f:b:heights-nelly-bedroom-night=blur(3px)
+b=heights-zillah-bedroom-night;f:b:heights-zillah-bedroom-night=blur(3px)
 
 He returned after midnight, and, instead of going to bed, shut himself into the room beneath.
 
