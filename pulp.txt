@@ -1,5 +1,5 @@
-Wuthering Heights<br><s>Ellis Bell</s> Emily Jane Brontë<e>Put the visual nightmare that was the 2026 movie adaptation out of your mind. (Rather, <i>textual</i> nightmares are to follow, but of the good kind.)</e>
-b=title;t=author;z:author=85,,10
+Wuthering Heights<br><s>Ellis Bell</s> Emily Jane Brontë<e>Forget the 2026 movie adaptation nightmare; prepare instead for the real nightmare: <i>frame narratives.</i></e>
+b=title;t=author;z:author=85,57,10
 
 ## I
 r=heights-wide-wide
@@ -7,53 +7,62 @@ r=heights-wide-wide
 1801.﻿—I have just returned from a visit to my landlord﻿—the solitary neighbour that I shall be troubled with.
 
 
-This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist’s heaven: and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow!
+This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.
+
+
+A perfect misanthropist’s heaven: and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow!
 
 
 He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name.
 b=heights-wide
 
 “Mr. Heathcliff?” I said.
-n:lockwood=Mr. Lockwood;x:lockwood=hat;s=lockwood;e:lockwood=curious
+n:lockwood=?;x:lockwood=hat;s=lockwood;e:lockwood=curious;z:lockwood=88,53,18.5
 
 A nod was the answer.
 s=
 
-“Mr. Lockwood, your new tenant, sir. I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts﻿—”
-s=lockwood;e:lockwood=happy
+“Mr. Lockwood, your new tenant, sir.”
+s=lockwood;e:lockwood=happy;n:lockwood=Mr. Lockwood;
+
+“I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts﻿—”
+;e:lockwood=;i=
 
 “Thrushcross Grange is my own, sir,” he interrupted, wincing.
-n:heathcliff=Mr. Heathcliff;a:heathcliff=mature;x:heathcliff=hat;s=heathcliff;e:heathcliff=wary
+n:heathcliff=Mr. Heathcliff;a:heathcliff=mature;x:heathcliff=hat;s=heathcliff;e:heathcliff=wary;z:heathcliff=86,52,16.75;;e:heathcliff=;i=
 
 “I should not allow anyone to inconvenience me, if I could hinder it﻿—walk in!”
-e:heathcliff=annoyed
+e:heathcliff=annoyed;e:heathcliff=serious;i=3;e:heathcliff=scowling;i=2
 
-The “walk in” was uttered with closed teeth, and expressed the sentiment, “Go to the Deuce”: even the gate over which he leant manifested no sympathising movement to the words; and I think that circumstance determined me to accept the invitation: I felt interested in a man who seemed more exaggeratedly reserved than myself.
+The “walk in” was uttered with closed teeth, and expressed the sentiment, “Go to the Deuce”: even the gate over which he leant manifested no sympathising movement to the words; and I think that circumstance determined me to accept the invitation:
+s=
+
+I felt interested in a man who seemed more exaggeratedly reserved than myself.
 s=
 
 When he saw my horse’s breast fairly pushing the barrier, he did put out his hand to unchain it, and then sullenly preceded me up the causeway, calling, as we entered the court﻿—
-m=nospace,1;m=break,1
+m=nospace,1;m=break,1;f:b:heights-wide=blur(3px)
 
 “Joseph, take Mr. Lockwood’s horse; and bring up some wine.”
-s=heathcliff;e:heathcliff=serious
+s=heathcliff;e:heathcliff=serious;f:b:heights-wide=;e:heathcliff=serious;i=2
 
 “Here we have the whole establishment of domestics, I suppose,” was the reflection suggested by this compound order.
-s=;t=lockwood;e:lockwood=contemplative
+s=;t=lockwood;e:lockwood=curious
 
 “No wonder the grass grows up between the flags, and cattle are the only hedge-cutters.”
-e:lockwood=thinking
+e:lockwood=thinking;e:lockwood=contemplative;i=
 
 Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinewy.
 t=
 
 “The Lord help us!” he soliloquised in an undertone of peevish displeasure, while relieving me of my horse:
-n:joseph=Joseph;a:joseph=older;x:joseph=hat;s=joseph;e:joseph=annoyed
+n:joseph=Joseph;a:joseph=older;x:joseph=hat;s=joseph;e:joseph=annoyed;z:joseph=86,60,9.75
 
 looking, meantime, in my face so sourly that I charitably conjectured he must have need of divine aid to digest his dinner, and his pious ejaculation had no reference to my unexpected advent.
 s=
 
 Wuthering Heights is the name of Mr. Heathcliff’s dwelling. “Wuthering” being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.
-b=heights-wide-wide
+
 
 Pure, bracing ventilation they must have up there at all times, indeed: one may guess the power of the north wind blowing over the edge, by the excessive slant of a few stunted firs at the end of the house; and by a range of gaunt thorns all stretching their limbs one way, as if craving alms of the sun.
 
@@ -70,10 +79,10 @@ f:b:heights-wide=blur(3px)
 One step brought us into the family sitting-room, without any introductory lobby or passage: they call it here “the house” preeminently.
 b=heights-house
 
-It includes kitchen and parlour, generally; but I believe at Wuthering Heights the kitchen is forced to retreat altogether into another quarter:
+It includes kitchen and parlour, generally; but I believe at Wuthering Heights the kitchen is forced to retreat altogether into another quarter: at least I distinguished a chatter of tongues, and a clatter of culinary utensils, deep within;
 
 
-at least I distinguished a chatter of tongues, and a clatter of culinary utensils, deep within; and I observed no signs of roasting, boiling, or baking, about the huge fireplace; nor any glitter of copper saucepans and tin cullenders on the walls.
+and I observed no signs of roasting, boiling, or baking, about the huge fireplace; nor any glitter of copper saucepans and tin cullenders on the walls.
 
 
 One end, indeed, reflected splendidly both light and heat from ranks of immense pewter dishes, interspersed with silver jugs and tankards, towering row after row, on a vast oak dresser, to the very roof.
@@ -116,7 +125,7 @@ Let me hope my constitution is almost peculiar: my dear mother used to say I sho
 
 
 While enjoying a month of fine weather at the seacoast, I was thrown into the company of a most fascinating creature: a real goddess in my eyes, as long as she took no notice of me.
-b=memory
+b=memory;f:b:memory=blur(3px)
 
 I “never told my love” vocally; still, if looks have language, the merest idiot might have guessed I was over head and ears: she understood me at last, and looked a return﻿—the sweetest of all imaginable looks.
 
@@ -134,19 +143,19 @@ My caress provoked a long, guttural gnarl.
 
 
 “You’d better let the dog alone,” growled Mr. Heathcliff in unison,
-x:heathcliff=;s=heathcliff;e:heathcliff=annoyed;m=break,1
+x:heathcliff=;s=heathcliff;e:heathcliff=annoyed;m=break,1;e:heathcliff=suspicious;i=2
 
 checking fiercer demonstrations with a punch of his foot.
-s=
+s=;f=hit
 
 “She’s not accustomed to be spoiled﻿—not kept for a pet.”
-e:heathcliff=scowling
+e:heathcliff=scowling;s=heathcliff;e:heathcliff=annoyedlookdown;i=
 
 Then, striding to a side door, he shouted again,
 s=
 
 “Joseph!”
-s=heathcliff;e:heathcliff=scowlinglook
+s=heathcliff;e:heathcliff=scowlinglook;e:heathcliff=angrylook;i=;e:heathcliff=annoyedlook;i=
 
 Joseph mumbled indistinctly in the depths of the cellar, but gave no intimation of ascending; so his master dived down to him, leaving me vis-à-vis the ruffianly bitch and a pair of grim shaggy sheepdogs, who shared with her a jealous guardianship over all my movements.
 ;s=
@@ -154,7 +163,10 @@ Joseph mumbled indistinctly in the depths of the cellar, but gave no intimation 
 Not anxious to come in contact with their fangs, I sat still; but, imagining they would scarcely understand tacit insults, I unfortunately indulged in winking and making faces at the trio, and some turn of my physiognomy so irritated madam, that she suddenly broke into a fury and leapt on my knees.
 
 
-I flung her back, and hastened to interpose the table between us. This proceeding aroused the whole hive: half-a-dozen four-footed fiends, of various sizes and ages, issued from hidden dens to the common centre.
+I flung her back, and hastened to interpose the table between us.
+
+
+This proceeding aroused the whole hive: half-a-dozen four-footed fiends, of various sizes and ages, issued from hidden dens to the common centre.
 f:b:heights-house=blur(3px)
 
 I felt my heels and coat-laps peculiar subjects of assault; and parrying off the larger combatants as effectually as I could with the poker, I was constrained to demand, aloud, assistance from some of the household in reestablishing peace.
@@ -169,53 +181,47 @@ Happily, an inhabitant of the kitchen made more despatch: a lusty dame, with tuc
 and used that weapon, and her tongue, to such purpose, that the storm subsided magically, and she only remained, heaving like a sea after a high wind, when her master entered on the scene.
 f:b:heights-house=
 
-“What the devil is the matter?” he asked,
-f:b:heights-house=;s=heathcliff;m=break,1
-
-eyeing me in a manner that I could ill endure, after this inhospitable treatment.
-s=
+“What the devil is the matter?” he asked, eyeing me in a manner that I could ill endure, after this inhospitable treatment.
+f:b:heights-house=;s=heathcliff;e:heathcliff=scowling;i=
 
 “What the devil, indeed!” I muttered. “The herd of possessed swine could have had no worse spirits in them than those animals of yours, sir. You might as well leave a stranger with a brood of tigers!”
-x:lockwood=;s=lockwood;e:lockwood=annoyed
+x:lockwood=;s=lockwood;e:lockwood=annoyed;e:lockwood=serious;i=
 
 “They won’t meddle with persons who touch nothing,” he remarked,
-s=heathcliff;e:heathcliff=annoyed;m=break,1
+s=heathcliff;e:heathcliff=annoyed;m=break,1;e:heathcliff=scowlinglookdown;i=
 
 putting the bottle before me, and restoring the displaced table.
 s=
 
 “The dogs do right to be vigilant. Take a glass of wine?”
-s=heathcliff;e:heathcliff=serious
+s=heathcliff;e:heathcliff=serious;e:heathcliff=smirking;i=;e:heathcliff=smirkinglook;i=;e:heathcliff=serious;i=3;e:heathcliff=suspicious;i=2
 
 “No, thank you.”
-s=lockwood;e:lockwood=annoyed;i=2
+s=lockwood;e:lockwood=annoyed;i=2;e:lockwood=annoyedlookdown;i=
 
 “Not bitten, are you?”
 s=heathcliff;e:heathcliff=suspicious
 
 “If I had been, I would have set my signet on the biter.”
-s=lockwood;e:lockwood=haughty
+s=lockwood;e:lockwood=haughty;e:lockwood=annoyed;i=2
 
 Heathcliff’s countenance relaxed into a grin.
 s=
 
-“Come, come,” he said, “you are flurried, Mr. Lockwood. Here, take a little wine. Guests are so exceedingly rare in this house that I and my dogs, I am willing to own, hardly know how to receive them. Your health, sir?”
-s=heathcliff;e:heathcliff=smirking
+“Come, come,” he said, “you are flurried, Mr. Lockwood. Here, take a little wine.”
+s=heathcliff;e:heathcliff=smirking;e:heathcliff=smirkinglookdown;i=
+
+“Guests are so exceedingly rare in this house that I and my dogs, I am willing to own, hardly know how to receive them. Your health, sir?”
+;e:heathcliff=smirkinglook;i=
 
 I bowed and returned the pledge; beginning to perceive that it would be foolish to sit sulking for the misbehaviour of a pack of curs; besides, I felt loth to yield the fellow further amusement at my expense; since his humour took that turn.
 s=
 
 He﻿—probably swayed by prudential consideration of the folly of offending a good tenant﻿—relaxed a little in the laconic style of chipping off his pronouns and auxiliary verbs, and introduced what he supposed would be a subject of interest to me﻿—a discourse on the advantages and disadvantages of my present place of retirement.
+
+
+I found him very intelligent on the topics we touched; and before I went home, I was encouraged so far as to volunteer another visit tomorrow. He evidently wished no repetition of my intrusion. I shall go, notwithstanding. It is astonishing how sociable I feel myself compared with him.
 f:b:heights-house=blur(3px)
-
-I found him very intelligent on the topics we touched; and before I went home, I was encouraged so far as to volunteer another visit tomorrow.
-
-
-He evidently wished no repetition of my intrusion.
-
-
-I shall go, notwithstanding. It is astonishing how sociable I feel myself compared with him.
-
 
 ## II
 r=title
