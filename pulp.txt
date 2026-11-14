@@ -1277,19 +1277,19 @@ b=grange-library-winter;f:b:grange-library-winter=blur(3px)
 r=title
 
 What vain weathercocks we are!
-b=grange-parlour-night;f:b:grange-parlour-night=blur(3px);m=break,1
+b=grange-library-night;f:b:grange-library-night=blur(3px);m=break,1
 
 I, who had determined to hold myself independent of all social intercourse, and thanked my stars that, at length, I had lighted on a spot where it was next to impracticable﻿—I, weak wretch, after maintaining till dusk a struggle with low spirits and solitude, was finally compelled to strike my colours;
 
 
 and under pretence of gaining information concerning the necessities of my establishment, I desired Mrs. Dean, when she brought in supper, to sit down while I ate it; hoping sincerely she would prove a regular gossip, and either rouse me to animation or lull me to sleep by her talk.
-f:b:grange-parlour-night=
+f:b:grange-library-night=
 
 “You have lived here a considerable time,” I commenced; “did you not say sixteen years?”
-s=lockwood;e:lockwood=serious
+s=lockwood;e:lockwood=serious;e:lockwood=confused;i=2
 
 “Eighteen, sir: I came when the mistress was married, to wait on her; after she died, the master retained me for his housekeeper.”
-n:nelly=Mrs. Dean;a:nelly=mature;s=nelly;e:nelly=serious
+n:nelly=Mrs. Dean;a:nelly=mature;s=nelly;e:nelly=serious;z:nelly=84,55,10.25;e:nelly=contemplative;i=
 
 “Indeed.”
 s=lockwood;e:lockwood=contemplative
@@ -1301,19 +1301,19 @@ However, having studied for an interval, with a fist on either knee, and a cloud
 m=nospace,1;m=break,1
 
 “Ah, times are greatly changed since then!”
-s=nelly;i=2
+s=nelly;i=2;e:nelly=wary;i=;e:nelly=scowling;i=2
 
 “Yes,” I remarked, “you’ve seen a good many alterations, I suppose?”
-s=lockwood;e:lockwood=wary
+s=lockwood;e:lockwood=wary;e:lockwood=nervous;i=
 
 “I have: and troubles too,” she said.
-s=nelly;e:nelly=thinking
+s=nelly;e:nelly=thinking;e:nelly=unhappy;i=2;e:nelly=suspicious;i=
 
 “Oh, I’ll turn the talk on my landlord’s family!” I thought to myself. “A good subject to start! And that pretty girl-widow, I should like to know her history: whether she be a native of the country, or, as is more probable, an exotic that the surly *indigenae* will not recognise for kin.”
-s=;t=lockwood;e:lockwood=thinking
+s=;t=lockwood;e:lockwood=thinking;e:lockwood=contemplative;i=
 
 With this intention I asked Mrs. Dean why Heathcliff let Thrushcross Grange, and preferred living in a situation and residence so much inferior.
-
+t=
 
 “Is he not rich enough to keep the estate in good order?” I inquired.
 s=lockwood;t=;e:lockwood=contemplative
@@ -1322,28 +1322,28 @@ s=lockwood;t=;e:lockwood=contemplative
 s=nelly;e:nelly=serious
 
 “Yes, yes, he’s rich enough to live in a finer house than this: but he’s very near﻿—close-handed; and, if he had meant to flit to Thrushcross Grange, as soon as he heard of a good tenant he could not have borne to miss the chance of getting a few hundreds more.”
-
+;e:nelly=suspicious;i=2
 
 “It is strange people should be so greedy, when they are alone in the world!”
-e:nelly=scowling
+e:nelly=scowling;e:nelly=scowling;i=2
 
 “He had a son, it seems?”
-s=lockwood;e:lockwood=serious
+s=lockwood;e:lockwood=serious;e:lockwood=confused;i=2
 
 “Yes, he had one﻿—he is dead.”
-s=nelly
+s=nelly;e:nelly=contemplative;i=
 
 “And that young lady, Mrs. Heathcliff, is his widow?”
-s=lockwood
+s=lockwood;e:lockwood=suspicious;i=
 
 “Yes.”
-s=nelly
+s=nelly;e:nelly=upset;i=
 
 “Where did she come from originally?”
-s=lockwood
+s=lockwood;e:lockwood=nervous;i=
 
 “Why, sir, she is my late master’s daughter: Catherine Linton was her maiden name. I nursed her, poor thing! I did wish Mr. Heathcliff would remove here, and then we might have been together again.”
-s=nelly;e:nelly=unhappy
+s=nelly;e:nelly=unhappy;e:nelly=wary;i=
 
 “What! Catherine Linton?” I exclaimed, astonished.
 s=lockwood;e:lockwood=surprised
@@ -1352,64 +1352,61 @@ But a minute’s reflection convinced me it was not my ghostly Catherine.
 s=
 
 “Then,” I continued, “my predecessor’s name was Linton?”
-s=lockwood;e:lockwood=wary
+s=lockwood;e:lockwood=wary;e:lockwood=wary;i=2;e:lockwood=confused;i=2
 
 “It was.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=contemplative;i=
 
 “And who is that Earnshaw: Hareton Earnshaw, who lives with Mr. Heathcliff? Are they relations?”
 s=lockwood;e:lockwood=contemplative
 
 “No; he is the late Mrs. Linton’s nephew.”
-s=nelly
+s=nelly;e:nelly=suspicious;i=
 
 “The young lady’s cousin, then?”
-s=lockwood
+s=lockwood;e:lockwood=nervous;i=
 
 “Yes; and her husband was her cousin also: one on the mother’s, the other on the father’s side: Heathcliff married Mr. Linton’s sister.”
-s=nelly;e:nelly=contemplative
+s=nelly;e:nelly=contemplative;e:nelly=unhappy;i=2
 
 “I see the house at Wuthering Heights has ‘Earnshaw’ carved over the front door. Are they an old family?”
-s=lockwood
+s=lockwood;e:lockwood=suspicious;i=
 
 “Very old, sir; and Hareton is the last of them, as our Miss Cathy is of us﻿—I mean, of the Lintons.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=contemplative;i=;e:nelly=upset;i=
 
 “Have you been to Wuthering Heights? I beg pardon for asking; but I should like to hear how she is!”
-e:nelly=wary
+e:nelly=wary;e:nelly=angry;i=2
 
 “Mrs. Heathcliff? she looked very well, and very handsome; yet, I think, not very happy.”
-s=lockwood;e:lockwood=wary
+s=lockwood;e:lockwood=wary;e:lockwood=contemplative;i=
 
 “Oh dear, I don’t wonder!”
-s=nelly;e:nelly=upset
+s=nelly;e:nelly=upset;e:nelly=wary;i=
 
 “And how did you like the master?”
 e:nelly=suspicious
 
 “A rough fellow, rather, Mrs. Dean. Is not that his character?”
-s=lockwood
+s=lockwood;e:lockwood=contemplative;i=2;e:lockwood=nervous;i=
 
 “Rough as a saw-edge, and hard as whinstone! The less you meddle with him the better.”
 s=nelly;e:nelly=annoyed
 
 “He must have had some ups and downs in life to make him such a churl. Do you know anything of his history?”
-s=lockwood;e:lockwood=contemplative
+s=lockwood;e:lockwood=contemplative;e:lockwood=confused;i=2
 
 “It’s a cuckoo’s, sir﻿—I know all about it: except where he was born, and who were his parents, and how he got his money at first.”
-s=nelly;e:nelly=contemplative
+s=nelly;e:nelly=contemplative;e:nelly=scowling;i=
 
 “And Hareton has been cast out like an unfledged dunnock! The unfortunate lad is the only one in all this parish that does not guess how he has been cheated.”
-e:nelly=serious
+e:nelly=serious;e:nelly=angry;i=
 
 “Well, Mrs. Dean, it will be a charitable deed to tell me something of my neighbours: I feel I shall not rest if I go to bed; so be good enough to sit and chat an hour.”
-s=lockwood;e:lockwood=thinking
+s=lockwood;e:lockwood=thinking;e:lockwood=thinking;i=2
 
-“Oh, certainly, sir! I’ll just fetch a little sewing, and then I’ll sit as long as you please.”
-s=nelly;e:nelly=thinking
-
-“But you’ve caught cold: I saw you shivering, and you must have some gruel to drive it out.”
-e:nelly=serious
+“Oh, certainly, sir! I’ll just fetch a little sewing, and then I’ll sit as long as you please. But you’ve caught cold: I saw you shivering, and you must have some gruel to drive it out.”
+s=nelly;e:nelly=suspicious;i=;e:nelly=confused;i=
 
 The worthy woman bustled off, and I crouched nearer the fire; my head felt hot, and the rest of me chill: moreover, I was excited, almost to a pitch of foolishness, through my nerves and brain.
 s=
@@ -1421,7 +1418,7 @@ She returned presently, bringing a smoking basin and a basket of work; and, havi
 
 
 Before I came to live here, she commenced﻿—waiting no farther invitation to her story﻿—I was almost always at Wuthering Heights; because my mother had nursed Mr. Hindley Earnshaw, that was Hareton’s father, and I got used to playing with the children:
-f:b:grange-parlour-night=blur(3px)
+f:b:grange-library-night=blur(3px)
 
 I ran errands too, and helped to make hay, and hung about the farm ready for anything that anybody would set me to.
 
