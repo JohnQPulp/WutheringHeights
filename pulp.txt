@@ -1430,22 +1430,25 @@ and, after he had told Joseph what was to be done during the day, he turned to H
 
 
 “Now, my bonny man, I’m going to Liverpool today, what shall I bring you? You may choose what you like: only let it be little, for I shall walk there and back: sixty miles each way, that is a long spell!”
-n:mrearnshaw=Mr. Earnshaw;s=mrearnshaw;e:mrearnshaw=happy
+n:mrearnshaw=Mr. Earnshaw;s=mrearnshaw;e:mrearnshaw=happy;z:mrearnshaw=87,53,10
 
 Hindley named a fiddle, and then he asked Miss Cathy; she was hardly six years old, but she could ride any horse in the stable, and she chose a whip.
 s=
 
-He did not forget me; for he had a kind heart, though he was rather severe sometimes. He promised to bring me a pocketful of apples and pears, and then he kissed his children, said goodbye, and set off.
+He did not forget me; for he had a kind heart, though he was rather severe sometimes. He promised to bring me a pocketful of apples and pears,
+;m=break,1
 
-
-It seemed a long while to us all﻿—the three days of his absence﻿—and often did little Cathy ask when he would be home.<e>"Back in my day we walked 120 miles in three days — and spawned countless literary arguments while doing so — and we liked it!"</e>
+and then he kissed his children, said goodbye, and set off.
 f:b:heights-house=blur(3px)
+
+It seemed a long while to us all﻿—the three days of his absence﻿—and often did little Cathy ask when he would be home.<e>120 miles in three days: mistake or clue? (Emily takes another mystery to the grave.)</e>
+b=heights-wide-wide;f:b:heights-wide-wide=blur(3px)
 
 Mrs. Earnshaw expected him by suppertime on the third evening, and she put the meal off hour after hour; there were no signs of his coming, however, and at last the children got tired of running down to the gate to look.
 
 
 Then it grew dark; she would have had them to bed, but they begged sadly to be allowed to stay up;
-
+b=heights-house
 
 and, just about eleven o’clock, the door-latch was raised quietly, and in stepped the master.
 f:b:heights-house=
@@ -1454,22 +1457,22 @@ He threw himself into a chair, laughing and groaning, and bid them all stand off
 
 
 “And at the end of it to be flighted to death!” he said,
-s=mrearnshaw;e:mrearnshaw=happy;i=2;m=break,1
+s=mrearnshaw;e:mrearnshaw=happy;i=2;m=break,1;
 
 opening his greatcoat, which he held bundled up in his arms.
 s=
 
 “See here, wife! I was never so beaten with anything in my life: but you must e’en take it as a gift of God; though it’s as dark almost as if it came from the devil.”
-e:mrearnshaw=smirking
+e:mrearnshaw=smirking;s=mrearnshaw;e:mrearnshaw=happy;i=2;e:mrearnshaw=weary;i=2
 
 We crowded round, and over Miss Cathy’s head I had a peep at a dirty, ragged, black-haired child; big enough both to walk and talk: indeed, its face looked older than Catherine’s;
-s=
+s=;f:b:heights-house=blur(3px)
 
 yet when it was set on its feet, it only stared round, and repeated over and over again some gibberish that nobody could understand.
 
 
 I was frightened, and Mrs. Earnshaw was ready to fling it out of doors: she did fly up, asking how he could fashion to bring that gipsy brat into the house, when they had their own bairns to feed and fend for? What he meant to do with it, and whether he were mad?
-
+f:b:heights-house=blur(3px)
 
 The master tried to explain the matter; but he was really half dead with fatigue, and all that I could make out, amongst her scolding, was a tale of his seeing it starving, and houseless, and as good as dumb, in the streets of Liverpool, where he picked it up and inquired for its owner.
 
@@ -1490,13 +1493,16 @@ and Cathy, when she learned the master had lost her whip in attending on the str
 
 
 They entirely refused to have it in bed with them, or even in their room; and I had no more sense, so I put it on the landing of the stairs, hoping it might be gone on the morrow.
-f:b:heights-house=blur(3px)
+b=heights-stairs;f:b:heights-stairs=blur(3px)
 
-By chance, or else attracted by hearing his voice, it crept to Mr. Earnshaw’s door, and there he found it on quitting his chamber. Inquiries were made as to how it got there; I was obliged to confess, and in recompense for my cowardice and inhumanity was sent out of the house.
+By chance, or else attracted by hearing his voice, it crept to Mr. Earnshaw’s door, and there he found it on quitting his chamber.
 
+
+Inquiries were made as to how it got there; I was obliged to confess, and in recompense for my cowardice and inhumanity was sent out of the house.
+f:b:heights-stairs=blur(6px)
 
 This was Heathcliff’s first introduction to the family.
-
+b=heights-wide;f:b:heights-wide=blur(3px)
 
 On coming back a few days afterwards (for I did not consider my banishment perpetual), I found they had christened him “Heathcliff”: it was the name of a son who died in childhood, and it has served him ever since, both for Christian and surname.
 b=heights-wide;f:b:heights-wide=blur(3px)
@@ -1517,10 +1523,10 @@ So, from the very beginning, he bred bad feeling in the house;
 
 
 and at Mrs. Earnshaw’s death, which happened in less than two years after, the young master had learned to regard his father as an oppressor rather than a friend, and Heathcliff as a usurper of his parent’s affections and his privileges; and he grew bitter with brooding over these injuries.
-b=night;f:b:night=blur(3px)
+f:b:heights-wide=blur(6px)
 
 I sympathised a while; but when the children fell ill of the measles, and I had to tend them, and take on me the cares of a woman at once, I changed my idea.
-
+b=heights-hareton-night;f:b:heights-hareton-night=blur(3px)
 
 Heathcliff was dangerously sick; and while he lay at the worst he would have me constantly by his pillow: I suppose he felt I did a good deal for him, and he hadn’t wit to guess that I was compelled to do it.
 
@@ -1531,10 +1537,7 @@ However, I will say this, he was the quietest child that ever nurse watched over
 Cathy and her brother harassed me terribly: he was as uncomplaining as a lamb; though hardness, not gentleness, made him give little trouble.
 
 
-He got through, and the doctor affirmed it was in a great measure owing to me, and praised me for my care.
-b=heights-wide
-
-I was vain of his commendations, and softened towards the being by whose means I earned them, and thus Hindley lost his last ally:
+He got through, and the doctor affirmed it was in a great measure owing to me, and praised me for my care. I was vain of his commendations, and softened towards the being by whose means I earned them, and thus Hindley lost his last ally:
 
 
 still I couldn’t dote on Heathcliff, and I wondered often what my master saw to admire so much in the sullen boy; who never, to my recollection, repaid his indulgence by any sign of gratitude.
@@ -1544,52 +1547,46 @@ He was not insolent to his benefactor, he was simply insensible; though knowing 
 
 
 As an instance, I remember Mr. Earnshaw once bought a couple of colts at the parish fair, and gave the lads each one.
-b=heights-stable;f:b:heights-stable=blur(3px)
+b=heights-stable
 
-Heathcliff took the handsomest, but it soon fell lame,
-m=break,1
-
-and when he discovered it, he said to Hindley﻿—
+Heathcliff took the handsomest, but it soon fell lame, and when he discovered it, he said to Hindley﻿—
 f:b:heights-stable=
 
 “You must exchange horses with me: I don’t like mine; and if you won’t I shall tell your father of the three thrashings you’ve given me this week, and show him my arm, which is black to the shoulder.”
-n:heathcliff=Heathcliff;a:heathcliff=young;s=heathcliff;e:heathcliff=serious
+n:heathcliff=Heathcliff;a:heathcliff=young;s=heathcliff;e:heathcliff=serious;z:heathcliff-ayoung=90,53,17.5;e:heathcliff=serious;i=3;e:heathcliff=serious;i=2
 
 Hindley put out his tongue, and cuffed him over the ears.
 s=
 
-“You’d better do it at once,” he persisted,
-s=heathcliff;m=break,1;i=2
-
-escaping to the porch (they were in the stable):
-s=
+“You’d better do it at once,” he persisted, escaping to the porch (they were in the stable):
+s=heathcliff;m=break,1;i=2;e:heathcliff=serious;i=3
 
 “you will have to: and if I speak of these blows, you’ll get them again with interest.”
-s=heathcliff;i=3
+s=heathcliff;i=3;e:heathcliff=serious;i=
 
 “Off, dog!” cried Hindley,
-a:hindley=teen;s=hindley;e:hindley=angry;m=break,1
+a:hindley=teen;s=hindley;e:hindley=angry;m=break,1;e:hindley=scowling;i=
 
 threatening him with an iron weight used for weighing potatoes and hay.
 s=
 
 “Throw it,” he replied, standing still,
-s=heathcliff
+s=heathcliff;e:heathcliff=serious;i=2;e:heathcliff=serious;i=3
 
 “and then I’ll tell how you boasted that you would turn me out of doors as soon as he died, and see whether he will not turn you out directly.”
 
 
 Hindley threw it, hitting him on the breast, and down he fell, but staggered up immediately, breathless and white; and, had not I prevented it, he would have gone just so to the master, and got full revenge by letting his condition plead for him, intimating who had caused it.
-s=
+s=;f=hit
 
 “Take my colt, Gipsy, then!” said young Earnshaw.
-s=hindley;e:hindley=scowling
+s=hindley;e:hindley=scowling;z:hindley=86,55,11;e:hindley=scowling;i=2
 
 “And I pray that he may break your neck: take him, and be damned, you beggarly interloper! and wheedle my father out of all he has: only afterwards show him what you are, imp of Satan.﻿—”
-m=break,1;m=nospace,1
+m=break,1;m=nospace,1;e:hindley=angrylookdown;i=
 
 “And take that, I hope he’ll kick out your brains!”
-e:hindley=angrylookdown
+e:hindley=angrylookdown;e:hindley=scowling;i=;f=hit
 
 Heathcliff had gone to loose the beast, and shift it to his own stall; he was passing behind it, when Hindley finished his speech by knocking him under its feet, and without stopping to examine whether his hopes were fulfilled, ran away as fast as he could.
 s=
@@ -1600,11 +1597,8 @@ f:b:heights-stable=blur(3px)
 I persuaded him easily to let me lay the blame of his bruises on the horse: he minded little what tale was told since he had what he wanted.
 
 
-He complained so seldom, indeed, of such stirs as these, that I really thought him not vindictive:
-
-
-I was deceived completely, as you will hear.
-f:b:heights-stable=blur(5px)
+He complained so seldom, indeed, of such stirs as these, that I really thought him not vindictive: I was deceived completely, as you will hear.
+f:b:heights-stable=blur(6px)
 
 ## V
 r=title
