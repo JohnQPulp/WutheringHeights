@@ -635,7 +635,7 @@ I uttered an expression of disgust, and pushed past him into the yard, running a
 f:b:heights-house=blur(3px)
 
 It was so dark that I could not see the means of exit; and, as I wandered round, I heard another specimen of their civil behaviour amongst each other.
-b=heights-wide-night-snow;s=
+b=heights-wide-night-snowstorm;s=;f:b:heights-wide-night-snowstorm=blur(3px)
 
 At first the young man appeared about to befriend me.
 
@@ -658,47 +658,47 @@ s=hareton;e:hareton=annoyed
 “Then I hope his ghost will haunt you; and I hope Mr. Heathcliff will never get another tenant till the Grange is a ruin,” she answered, sharply.
 s=cathy;e:cathy=angry
 
-“Hearken, hearken, shoo’s cursing on ’em!” muttered Joseph,
-x:joseph=hat;s=joseph;e:joseph=scowling;m=break,1
-
-towards whom I had been steering.
-s=
+“Hearken, hearken, shoo’s cursing on ’em!” muttered Joseph, towards whom I had been steering.
+x:joseph=hat;s=joseph;e:joseph=scowling;m=;e:joseph=serious;i=;f:b:heights-wide-night-snowstorm=
 
 He sat within earshot, milking the cows by the light of a lantern, which I seized unceremoniously, and, calling out that I would send it back on the morrow, rushed to the nearest postern.
-s=
+s=;
 
 “Maister, maister, he’s staling t’ lanthern!” shouted the ancient, pursuing my retreat.
-s=joseph;e:joseph=angry
+s=joseph;e:joseph=angry;m=nospeaker;f:b:heights-wide-night-snowstorm=blur(3px)
 
 “Hey, Gnasher! Hey, dog! Hey Wolf, holld him, holld him!”
 
 
 On opening the little door, two hairy monsters flew at my throat, bearing me down, and extinguishing the light; while a mingled guffaw from Heathcliff and Hareton put the copestone on my rage and humiliation.
-f:b:heights-wide-night-snow=blur(3px);s=
+s=;b=heights-house
 
 Fortunately, the beasts seemed more bent on stretching their paws, and yawning, and flourishing their tails, than devouring me alive; but they would suffer no resurrection, and I was forced to lie till their malignant masters pleased to deliver me:
 
 
 then, hatless and trembling with wrath, I ordered the miscreants to let me out﻿—on their peril to keep me one minute longer﻿—with several incoherent threats of retaliation that, in their indefinite depth of virulency, smacked of King Lear.
-f:b:heights-wide-night-snow=
+f:b:heights-wide-night-snowstorm=
 
 The vehemence of my agitation brought on a copious bleeding at the nose, and still Heathcliff laughed, and still I scolded.
 
 
-I don’t know what would have concluded the scene, had there not been one person at hand rather more rational than myself, and more benevolent than my entertainer. This was Zillah, the stout housewife; who at length issued forth to inquire into the nature of the uproar.
+I don’t know what would have concluded the scene, had there not been one person at hand rather more rational than myself, and more benevolent than my entertainer.
 
+
+This was Zillah, the stout housewife; who at length issued forth to inquire into the nature of the uproar.
+f:b:heights-house=
 
 She thought that some of them had been laying violent hands on me; and, not daring to attack her master, she turned her vocal artillery against the younger scoundrel.
 
 
 “Well, Mr. Earnshaw,” she cried, “I wonder what you’ll have agait next? Are we going to murder folk on our very door-stones? I see this house will never do for me﻿—look at t’ poor lad, he’s fair choking!”
-f:b:heights-wide-night-snow=;n:zillah=Zillah;x:zillah=hat;s=zillah;e:zillah=scowling
+m=;n:zillah=Zillah;x:zillah=hat;s=zillah;e:zillah=scowling;e:zillah=serious;i=;z:zillah=85,53,10
 
 “Wisht, wisht; you mun’n’t go on so. Come in, and I’ll cure that: there now, hold ye still.”
-e:zillah=seriouslookdown
+e:zillah=seriouslookdown;e:zillah=confused;i=;e:zillah=confused;i=2;e:zillah=confused;i=
 
 With these words she suddenly splashed a pint of icy water down my neck,
-;s=;f:b:heights-wide-night-snow=blur(3px);m=break,1
+;s=;f:b:heights-house=blur(3px);m=break,1
 
 and pulled me into the kitchen.
 b=heights-kitchen-night
@@ -707,7 +707,7 @@ Mr. Heathcliff followed, his accidental merriment expiring quickly in his habit
 
 
 I was sick exceedingly, and dizzy, and faint; and thus compelled perforce to accept lodgings under his roof.
-
+f:b:heights-kitchen-night=blur(3px)
 
 He told Zillah to give me a glass of brandy, and then passed on to the inner room; while she condoled with me on my sorry predicament, and having obeyed his orders, whereby I was somewhat revived, ushered me to bed.
 f:b:heights-kitchen-night=blur(3px)
