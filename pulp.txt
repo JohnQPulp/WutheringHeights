@@ -296,7 +296,7 @@ I stared﻿—she stared also: at any rate, she kept her eyes on me in a cool, r
 
 
 “Sit down,” said the young man, gruffly.
-n:hareton=?;a:hareton=adult2;x:hareton=;s=hareton;e:hareton=serious;x:hareton=coatless;z:hareton=85,54,10
+n:hareton=?;a:hareton=adult2;x:hareton=;s=hareton;e:hareton=serious;x:hareton=coatless;z:hareton=84,54,10
 
 “He’ll be in soon.”
 
@@ -4621,7 +4621,7 @@ s=hareton;e:hareton=happy
 “And the curate does not teach you to read and write, then?” I pursued.
 s=nelly;e:nelly=unhappy;i=2
 
-“No, I was told the curate should have his —﻿—﻿— teeth dashed down his —﻿—﻿— throat, if he stepped over the threshold﻿—Heathcliff had promised that!”
+“No, I was told the curate should have his —﻿—﻿— teeth dashed down his —﻿—﻿— throat, if he stepped over the threshold﻿—Heathcliff had promised that!”<e>"bloody", most likely, oddly enough, being considered a harsher swear than the elsewhere-uncensored "damn".</e>
 s=hareton;e:hareton=scowling;e:hareton=scowlinglookdown;i=
 
 I put the orange in his hand, and bade him tell his father that a woman called Nelly Dean was waiting to speak with him, by the garden gate.
@@ -7607,7 +7607,7 @@ and lives in his own house as a servant, deprived of the advantage of wages: qui
 r=title
 
 The twelve years, continued Mrs. Dean, following that dismal period were the happiest of my life: my greatest troubles in their passage rose from our little lady’s trifling illnesses, which she had to experience in common with all children, rich and poor.
-b=grange-park;f:b:grange-park=blur(3px)
+b=grange-wide;f:b:grange-wide=blur(6px)
 
 For the rest, after the first six months, she grew like a larch, and could walk and talk too, in her own way, before the heath blossomed a second time over Mrs. Linton’s dust.
 
@@ -7625,13 +7625,13 @@ However, it must be acknowledged, she had faults to foil her gifts. A propensity
 
 
 If a servant chanced to vex her, it was always﻿—“I shall tell papa!” And if he reproved her, even by a look, you would have thought it a heartbreaking business: I don’t believe he ever did speak a harsh word to her.
-m=dialogue,1;n:cathy=“Cathy” (Catherine) Linton;a:cathy=child;x:cathy=hat;
+m=dialogue,1;n:cathy=“Cathy” Catherine Linton;a:cathy=child;x:cathy=hat;
 
 He took her education entirely on himself, and made it an amusement. Fortunately, curiosity and a quick intellect made her an apt scholar: she learned rapidly and eagerly, and did honour to his teaching.
 s=
 
 Till she reached the age of thirteen she had not once been beyond the range of the park by herself. Mr. Linton would take her with him a mile or so outside, on rare occasions; but he trusted her to no one else.
-
+b=grange-park;f:b:grange-park=blur(3px)
 
 Gimmerton was an unsubstantial name in her ears; the chapel, the only building she had approached or entered, except her own home.
 
@@ -7640,19 +7640,16 @@ Wuthering Heights and Mr. Heathcliff did not exist for her: she was a perfect r
 
 
 Sometimes, indeed, while surveying the country from her nursery window, she would observe﻿—
-b=grange-catherine-window
+b=grange-catherine-window;f:b:grange-catherine-window=blur(3px)
 
-“Ellen, how long will it be before I can walk to the top of those hills?”
-s=cathy;e:cathy=contemplative
-
-“I wonder what lies on the other side﻿—is it the sea?”
-e:cathy=curious
+“Ellen, how long will it be before I can walk to the top of those hills? I wonder what lies on the other side﻿—is it the sea?”
+m=dialogue,2
 
 “No, Miss Cathy,” I would answer; “it is hills again, just like these.”
-a:nelly=mature;x:nelly=;s=nelly;e:nelly=contemplative
+
 
 “And what are those golden rocks like when you stand under them?” she once asked.
-s=cathy;f=fade;e:cathy=confused
+s=cathy;e:cathy=contemplative;x:cathy=;e:cathy=curious;z:cathy-achild=78,53,8;e:cathy=confused;i=2;e:cathy=confused;i=;;f:b:grange-catherine-window=;e:cathy=curious;i=
 
 The abrupt descent of Penistone Crags particularly attracted her notice; especially when the setting sun shone on it and the topmost heights, and the whole extent of landscape besides lay in shadow.
 s=
@@ -7661,28 +7658,22 @@ I explained that they were bare masses of stone, with hardly enough earth in the
 
 
 “And why are they bright so long after it is evening here?” she pursued.
-s=cathy;e:cathy=curious;i=2
+s=cathy;e:cathy=curious;i=2;e:cathy=confused;i=
 
 “Because they are a great deal higher up than we are,” replied I; “you could not climb them, they are too high and steep.”
-s=nelly;e:nelly=
+s=nelly;a:nelly=mature;x:nelly=;s=nelly;e:nelly=contemplative;;e:nelly=curious;i=;e:nelly=happy;i=;e:nelly=unhappy;i=2
 
 “In winter the frost is always there before it comes to us; and deep into summer I have found snow under that black hollow on the northeast side!”
+;e:nelly=smirking;i=2
 
-
-“Oh, you have been on them!” she cried gleefully.
-s=cathy;e:cathy=excited
-
-“Then I can go, too, when I am a woman. Has papa been, Ellen?”
-e:cathy=curious
+“Oh, you have been on them!” she cried gleefully. “Then I can go, too, when I am a woman. Has papa been, Ellen?”
+s=cathy;e:cathy=excited;
 
 “Papa would tell you, Miss,” I answered, hastily, “that they are not worth the trouble of visiting. The moors, where you ramble with him, are much nicer; and Thrushcross Park is the finest place in the world.”
-s=nelly;e:nelly=nervous
+s=nelly;e:nelly=nervous;e:nelly=confused;i=
 
-“But I know the park, and I don’t know those,” she murmured to herself.
-s=cathy;e:cathy=contemplative
-
-“And I should delight to look round me from the brow of that tallest point: my little pony Minny shall take me some time.”
-e:cathy=thinking
+“But I know the park, and I don’t know those,” she murmured to herself. “And I should delight to look round me from the brow of that tallest point: my little pony Minny shall take me some time.”
+s=cathy;e:cathy=contemplative;e:cathy=confused;i=
 
 One of the maids mentioning the Fairy Cave, quite turned her head with a desire to fulfil this project: she teased Mr. Linton about it; and he promised she should have the journey when she got older.
 s=;f:b:grange-catherine-window=blur(3px)
@@ -7706,13 +7697,10 @@ Her hope was that Linton might be left with him, as he had been with her: his fa
 
 
 My master hesitated not a moment in complying with her request: reluctant as he was to leave home at ordinary calls, he flew to answer this; commending Catherine to my peculiar vigilance, in his absence, with reiterated orders that she must not wander out of the park, even under my escort: he did not calculate on her going unaccompanied.
-
-
-He was away three weeks.
 b=grange-wide;f:b:grange-wide=blur(3px)
 
-The first day or two my charge sat in a corner of the library, too sad for either reading or playing: in that quiet state she caused me little trouble;
-
+He was away three weeks. The first day or two my charge sat in a corner of the library, too sad for either reading or playing: in that quiet state she caused me little trouble;
+b=grange-wide;f:b:grange-wide=blur(3px)
 
 but it was succeeded by an interval of impatient, fretful weariness; and being too busy, and too old then, to run up and down amusing her, I hit on a method by which she might entertain herself.
 
@@ -7727,10 +7715,10 @@ I did not fear her breaking bounds; because the gates were generally locked, and
 
 
 Unluckily, my confidence proved misplaced.
-
+;f:b:grange-wide=blur(6px)
 
 Catherine came to me, one morning, at eight o’clock, and said she was that day an Arabian merchant, going to cross the Desert with his caravan; and I must give her plenty of provision for herself and beasts: a horse, and three camels, personated by a large hound and a couple of pointers.
-
+b=grange-parlour;f:b:grange-parlour=blur(3px)
 
 I got together good store of dainties, and slung them in a basket on one side of the saddle; and she sprang up as gay as a fairy, sheltered by her wide-brimmed hat and gauze veil from the July sun, and trotted off with a merry laugh, mocking my cautious counsel to avoid galloping, and come back early.
 
@@ -7739,13 +7727,13 @@ The naughty thing never made her appearance at tea.
 
 
 One traveller, the hound, being an old dog and fond of its ease, returned; but neither Cathy, nor the pony, nor the two pointers were visible in any direction: I despatched emissaries down this path, and that path, and at last went wandering in search of her myself.
-
+b=grange-gate-autumn;f:b:grange-gate-autumn=blur(3px)
 
 There was a labourer working at a fence round a plantation, on the borders of the grounds. I inquired of him if he had seen our young lady.
-f:b:grange-wide=
+f:b:grange-gate-autumn=
 
 “I saw her at morn,” he replied: “she would have me to cut her a hazel switch, and then she leapt her Galloway over the hedge yonder, where it is lowest, and galloped out of sight.”
-n:gardener=?;x:gardener=hat;s=gardener;e:gardener=contemplative
+n:gardener=?;x:gardener=hat;s=gardener;e:gardener=contemplative;z:gardener=81,54,10
 
 You may guess how I felt at hearing this news. It struck me directly she must have started for Penistone Crags.
 s=
@@ -7754,49 +7742,49 @@ s=
 s=nelly;e:nelly=fearful;m=break,1;x:nelly=hat
 
 pushing through a gap which the man was repairing, and making straight to the high road.
-s=;f:b:grange-wide=blur(3px)
+s=;f:b:grange-gate-autumn=blur(3px)
 
 I walked as if for a wager, mile after mile, till a turn brought me in view of the Heights; but no Catherine could I detect, far or near.
-s=;b=heights-wide-wide
+s=;b=heights-wide-wide;f:b:heights-wide-wide=blur(3px)
 
 The Crags lie about a mile and a half beyond Mr. Heathcliff’s place, and that is four from the Grange, so I began to fear night would fall ere I could reach them.
 
 
 “And what if she should have slipped in clambering among them,” I reflected, “and been killed, or broken some of her bones?”
-t=nelly;e:nelly=nervous
+m=dialogue,1
 
 My suspense was truly painful; and, at first, it gave me delightful relief to observe, in hurrying by the farmhouse, Charlie, the fiercest of the pointers, lying under a window, with swelled head and bleeding ear.
-t=;f:b:heights-wide-wide=blur(3px)
+t=;f:b:heights-wide=blur(3px);b=heights-wide
 
 I opened the wicket and ran to the door, knocking vehemently for admittance.
 b=heights-wide
 
 A woman whom I knew, and who formerly lived at Gimmerton, answered: she had been servant there since the death of Mr. Earnshaw.
-
+f:b:heights-wide=
 
 “Ah,” said she, “you are come a-seeking your little mistress! Don’t be frightened. She’s here safe: but I’m glad it isn’t the master.”
-b=heights-wide;n:maid2=?;x:maid2=;s=maid2;e:maid2=contemplative
+b=heights-wide;n:maid2=?;x:maid2=;s=maid2;e:maid2=contemplative;z:maid2=86,53,10.75;e:maid2=suspicious;i=
 
 “He is not at home then, is he?” I panted, quite breathless with quick walking and alarm.
-s=nelly;e:nelly=nervous
+s=nelly;e:nelly=nervous;e:nelly=nervous;i=2
 
 “No, no,” she replied: “both he and Joseph are off, and I think they won’t return this hour or more. Step in and rest you a bit.”
-s=maid2;e:maid2=thinking
+s=maid2;e:maid2=thinking;e:maid2=contemplative;i=2
 
 I entered, and beheld my stray lamb seated on the hearth, rocking herself in a little chair that had been her mother’s when a child.
 b=heights-house;s=;f=fade
 
-Her hat was hung against the wall, and she seemed perfectly at home, laughing and chattering, in the best spirits imaginable, to Hareton﻿—now a great, strong lad of eighteen﻿—who stared at her with considerable curiosity and astonishment: comprehending precious little of the fluent succession of remarks and questions which her tongue never ceased pouring forth.
+Her hat was hung against the wall, and she seemed perfectly at home, laughing and chattering, in the best spirits imaginable, to Hareton﻿—now a great, strong lad of eighteen﻿—
+m=break,1;m=nospace,1
+
+who stared at her with considerable curiosity and astonishment: comprehending precious little of the fluent succession of remarks and questions which her tongue never ceased pouring forth.
 
 
-“Very well, Miss!” I exclaimed,
-s=nelly;e:nelly=annoyed;m=break,1
-
-concealing my joy under an angry countenance.
-s=
+“Very well, Miss!” I exclaimed, concealing my joy under an angry countenance.
+s=nelly;e:nelly=annoyed;;e:nelly=thinking;i=
 
 “This is your last ride, till papa comes back. I’ll not trust you over the threshold again, you naughty, naughty girl!”
-s=nelly;i=2
+s=nelly;i=2;e:nelly=scowling;i=2;e:nelly=suspicious;i=;e:nelly=unhappy;i=2;e:nelly=confused;i=
 
 “Aha, Ellen!” she cried, gaily,
 x:cathy=;s=cathy;e:cathy=excited;m=break,1
@@ -7808,109 +7796,97 @@ s=
 s=cathy;e:cathy=happy
 
 “Put that hat on, and home at once,” said I. “I’m dreadfully grieved at you, Miss Cathy: you’ve done extremely wrong!”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=unhappy;i=
 
 “It’s no use pouting and crying: that won’t repay the trouble I’ve had, scouring the country after you. To think how Mr. Linton charged me to keep you in; and you stealing off so! It shows you are a cunning little fox, and nobody will put faith in you any more.”
+;e:nelly=annoyed;i=2
 
-
-“What have I done?” sobbed she, instantly checked.
-s=cathy;e:cathy=upset
-
-“Papa charged me nothing: he’ll not scold me, Ellen﻿—he’s never cross, like you!”
-
+“What have I done?” sobbed she, instantly checked. “Papa charged me nothing: he’ll not scold me, Ellen﻿—he’s never cross, like you!”
+s=cathy;e:cathy=upset;e:cathy=upset;i=
 
 “Come, come!” I repeated. “I’ll tie the riband. Now, let us have no petulance.”
-s=nelly;e:nelly=seriouslookdown
+s=nelly;e:nelly=seriouslookdown;e:nelly=thinking;i=
 
 “Oh, for shame! You thirteen years old, and such a baby!”
-e:nelly=seriouslook
+e:nelly=seriouslook;e:nelly=scowling;i=2;e:nelly=suspicious;i=
 
 This exclamation was caused by her pushing the hat from her head, and retreating to the chimney out of my reach.
 s=
 
 “Nay,” said the servant, “don’t be hard on the bonny lass, Mrs. Dean. We made her stop: she’d fain have ridden forwards, afeard you should be uneasy. Hareton offered to go with her, and I thought he should: it’s a wild road over the hills.”
-x:maid2=;s=maid2;e:maid2=contemplative;i=2
+x:maid2=;s=maid2;e:maid2=contemplative;i=2;e:maid2=serious;i=
 
 Hareton, during the discussion, stood with his hands in his pockets, too awkward to speak; though he looked as if he did not relish my intrusion.
 s=
 
 “How long am I to wait?” I continued, disregarding the woman’s interference.
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=thinking;i=
 
 “It will be dark in ten minutes. Where is the pony, Miss Cathy? And where is Phoenix? I shall leave you, unless you be quick; so please yourself.”
+;e:nelly=serious;i=2
 
-
-“The pony is in the yard,” she replied, “and Phoenix is shut in there. He’s bitten﻿—and so is Charlie.”
-s=cathy;e:cathy=unhappy
-
-“I was going to tell you all about it; but you are in a bad temper, and don’t deserve to hear.”
-e:cathy=scowling
+“The pony is in the yard,” she replied, “and Phoenix is shut in there. He’s bitten﻿—and so is Charlie. I was going to tell you all about it; but you are in a bad temper, and don’t deserve to hear.”
+s=cathy;e:cathy=unhappy;e:cathy=upset;i=
 
 I picked up her hat, and approached to reinstate it; but perceiving that the people of the house took her part, she commenced capering round the room; and on my giving chase, ran like a mouse over and under and behind the furniture, rendering it ridiculous for me to pursue.
-s=
+s=;f:b:heights-house=blur(3px)
 
-Hareton and the woman laughed, and she joined them, and waxed more impertinent still; till I cried, in great irritation﻿—
-m=nospace,1;m=break,1
+Hareton and the woman laughed, and she joined them, and waxed more impertinent still;
+
+
+till I cried, in great irritation﻿—
+m=nospace,1;m=break,1;f:b:heights-house=
 
 “Well, Miss Cathy, if you were aware whose house this is you’d be glad enough to get out.”
-s=nelly;e:nelly=scowling
+s=nelly;e:nelly=scowling;f:b:heights-house=
 
 “It’s *your* father’s, isn’t it?” said she, turning to Hareton.
-s=cathy;e:cathy=curious
+s=cathy;e:cathy=curious;e:cathy=confused;i=2;e:cathy=confused;i=
 
-“Nay,” he replied,
-a:hareton=adult;s=hareton;e:hareton=nervouslookdown;m=break,1
-
-looking down, and blushing bashfully.
-s=
+“Nay,” he replied, looking down, and blushing bashfully.
+a:hareton=adult;s=hareton;e:hareton=nervouslookdown
 
 He could not stand a steady gaze from her eyes, though they were just his own.
 s=
 
 “Whose then﻿—your master’s?” she asked.
-s=cathy;e:cathy=confused
+s=cathy;e:cathy=confused;e:cathy=confused;i=2
 
 He coloured deeper, with a different feeling, muttered an oath, and turned away.
 s=
 
-“Who is his master?” continued the tiresome girl, appealing to me.
-s=cathy;e:cathy=confused;i=2
-
-“He talked about ‘our house,’ and ‘our folk.’ I thought he had been the owner’s son. And he never said Miss: he should have done, shouldn’t he, if he’s a servant?”
-e:cathy=thinking
+“Who is his master?” continued the tiresome girl, appealing to me. “He talked about ‘our house,’ and ‘our folk.’ I thought he had been the owner’s son. And he never said Miss: he should have done, shouldn’t he, if he’s a servant?”<e>♫In the middle of our moor♫</e>
+s=cathy;e:cathy=confused;i=2;e:cathy=scowling;i=;e:cathy=confused;i=;e:cathy=scowling;i=
 
 Hareton grew black as a thundercloud at this childish speech.
-s=
+s=;f:b:heights-house=blur(3px)
 
 I silently shook my questioner, and at last succeeded in equipping her for departure.
 
 
 “Now, get my horse,” she said,
-s=cathy;e:cathy=;x:cathy=hat;m=break,1
+s=cathy;e:cathy=;x:cathy=hat;m=break,1;f:b:heights-house=;e:cathy=thinking;i=;e:cathy=;i=2
 
 addressing her unknown kinsman as she would one of the stable-boys at the Grange.
 s=
 
-“And you may come with me. I want to see where the goblin-hunter rises in the marsh, and to hear about the *fairishes*, as you call them:”
-s=cathy;e:cathy=;i=2
-
-“but make haste! What’s the matter? Get my horse, I say.”
-e:cathy=serious
+“And you may come with me. I want to see where the goblin-hunter rises in the marsh, and to hear about the *fairishes*, as you call them: but make haste! What’s the matter? Get my horse, I say.”
+s=cathy;e:cathy=;i=2;e:cathy=serious;i=
 
 “I’ll see thee damned before I be *thy* servant!” growled the lad.
-s=hareton;e:hareton=scowling
+s=hareton;e:hareton=scowling;e:hareton=angry;i=
 
 “You’ll see me *what*!” asked Catherine in surprise.
 s=cathy;e:cathy=surprised
 
 “Damned﻿—thou saucy witch!” he replied.
-s=hareton;e:hareton=angry
+s=hareton;e:hareton=angry;e:hareton=scowling;i=
 
 “There, Miss Cathy! you see you have got into pretty company,” I interposed. “Nice words to be used to a young lady! Pray don’t begin to dispute with him.”
-s=nelly;e:nelly=annoyed
+s=nelly;e:nelly=annoyed;e:nelly=suspicious;i=
 
 “Come, let us seek for Minny ourselves, and begone.”
-e:nelly=serious
+e:nelly=serious;e:nelly=thinking;i=
 
 “But, Ellen,” cried she, staring fixed in astonishment,
 s=cathy;e:cathy=surprisedunhappy
