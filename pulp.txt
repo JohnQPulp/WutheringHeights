@@ -8023,14 +8023,14 @@ b=grange-park;f:b:grange-park=blur(3px)
 Catherine ran wild with joy at the idea of welcoming her father back; and indulged most sanguine anticipations of the innumerable excellencies of her “real” cousin.
 
 
-The evening of their expected arrival came. Since early morning she had been busy ordering her own small affairs;
+The evening of their expected arrival came.
 f:b:grange-park=
 
-and now attired in her new black frock﻿—poor thing! her aunt’s death impressed her with no definite sorrow﻿—she obliged me, by constant worrying, to walk with her down through the grounds to meet them.
+Since early morning she had been busy ordering her own small affairs; and now attired in her new black frock﻿—poor thing! her aunt’s death impressed her with no definite sorrow﻿—she obliged me, by constant worrying, to walk with her down through the grounds to meet them.
 
 
 “Linton is just six months younger than I am,” she chattered,
-x:cathy=mourning,hat;s=cathy;e:cathy=happy;m=break,1
+x:cathy=mourning,hat;s=cathy;e:cathy=happy;m=break,1;e:cathy=excitedlook;i=
 
 as we strolled leisurely over the swells and hollows of mossy turf, under shadow of the trees.
 s=
@@ -8042,16 +8042,16 @@ s=cathy;e:cathy=happy
 e:cathy=excitedlook
 
 She ran, and returned and ran again, many times before my sober footsteps reached the gate, and then she seated herself on the grassy bank beside the path, and tried to wait patiently; but that was impossible: she couldn’t be still a minute.
-s=
+s=;f:b:grange-park=blur(3px)
 
 “How long they are!” she exclaimed. “Ah, I see, some dust on the road﻿—they are coming! No! When will they be here? May we not go a little way﻿—half a mile, Ellen, only just half a mile? Do say yes: to that clump of birches at the turn!”
-s=cathy;e:cathy=confusedlook
+s=cathy;e:cathy=confusedlook;f:b:grange-park=;e:cathy=confused;i=2
 
 I refused staunchly.
-s=
+s=;f:b:grange-park=blur(3px)
 
 At length her suspense was ended: the travelling carriage rolled in sight. Miss Cathy shrieked and stretched out her arms as soon as she caught her father’s face looking from the window.
-s=
+s=;b=grange-wide;f:b:grange-wide=blur(3px)
 
 He descended, nearly as eager as herself; and a considerable interval elapsed ere they had a thought to spare for any but themselves.
 
@@ -8069,19 +8069,19 @@ Cathy would fain have taken one glance, but her father told her to come, and the
 
 
 “Now, darling,” said Mr. Linton,
-x:edgar=hat;s=edgar;e:edgar=seriouslookdown;m=break,1
+x:edgar=hat;s=edgar;e:edgar=seriouslookdown;m=break,1;f:b:grange-wide=;e:edgar=unhappy;i=
 
 addressing his daughter, as they halted at the bottom of the front steps:
 s=
 
 “your cousin is not so strong or so merry as you are, and he has lost his mother, remember, a very short time since; therefore, don’t expect him to play and run about with you directly.”
-s=edgar;e:edgar=unhappy
+s=edgar;e:edgar=serious
 
 “And don’t harass him much by talking: let him be quiet this evening, at least, will you?”
-e:edgar=serious
+e:edgar=serious;e:edgar=sadsmile;i=
 
 “Yes, yes, papa,” answered Catherine: “but I do want to see him; and he hasn’t once looked out.”
-s=cathy;e:cathy=confused;i=2
+s=cathy;e:cathy=confused;i=2;e:cathy=confusedlook;i=
 
 The carriage stopped; and the sleeper being roused, was lifted to the ground by his uncle.
 s=
@@ -8093,40 +8093,43 @@ putting their little hands together.
 s=
 
 “She’s fond of you already; and mind you don’t grieve her by crying tonight. Try to be cheerful now; the travelling is at an end, and you have nothing to do but rest and amuse yourself as you please.”
-s=edgar;e:edgar=sadsmile
+s=edgar;e:edgar=sadsmile;e:edgar=unhappy;i=
 
 “Let me go to bed, then,” answered the boy,
-n:linton=Linton Heathcliff;a:linton=child;x:linton=;s=linton;e:linton=wary;m=break,1
+n:linton=Linton Heathcliff;a:linton=child;x:linton=;s=linton;e:linton=wary;m=break,1;z:linton-achild=80,52,8.5;e:linton=fearful;i=;e:linton=upset;i=
 
 shrinking from Catherine’s salute; and he put his fingers to remove incipient tears.
 s=
 
 “Come, come, there’s a good child,” I whispered, leading him in.
-x:nelly=hat;s=nelly;e:nelly=thinking
+x:nelly=hat;s=nelly;e:nelly=thinking;e:nelly=seriouslookdown;i=
 
 “You’ll make her weep too﻿—see how sorry she is for you!”
-
+;e:nelly=serious;i=2
 
 I do not know whether it was sorrow for him, but his cousin put on as sad a countenance as himself, and returned to her father.
-s=;f:b:grange-park=blur(3px)
+s=;f:b:grange-wide=blur(3px)
 
 All three entered, and mounted to the library, where tea was laid ready.
-b=grange-library;s=
+b=grange-library-doubled;s=;f:b:grange-library-doubled=blur(3px)
 
 I proceeded to remove Linton’s cap and mantle, and placed him on a chair by the table; but he was no sooner seated than he began to cry afresh.
 
 
 My master inquired what was the matter.
-
+;f:b:grange-library-doubled=
 
 “I can’t sit on a chair,” sobbed the boy.
-x:linton=;s=linton;e:linton=upset
+x:linton=;s=linton;e:linton=upset;e:linton=upset;i=
 
 “Go to the sofa, then, and Ellen shall bring you some tea,” answered his uncle patiently.
-x:edgar=;s=edgar;e:edgar=contemplative
+x:edgar=;s=edgar;e:edgar=contemplative;e:edgar=contemplative;i=2
 
-He had been greatly tried, during the journey, I felt convinced, by his fretful ailing charge. Linton slowly trailed himself off, and lay down.
+He had been greatly tried, during the journey, I felt convinced, by his fretful ailing charge.
 s=
+
+Linton slowly trailed himself off, and lay down.
+;f:b:grange-library-doubled=blur(3px)
 
 Cathy carried a footstool and her cup to his side. At first she sat silent; but that could not last: she had resolved to make a pet of her little cousin, as she would have him to be; and she commenced stroking his curls, and kissing his cheek, and offering him tea in her saucer, like a baby.
 
@@ -8135,34 +8138,31 @@ This pleased him, for he was not much better: he dried his eyes, and lightened i
 
 
 “Oh, he’ll do very well,” said the master to me, after watching them a minute.
-s=edgar;e:edgar=contemplative;i=2
+s=edgar;e:edgar=contemplative;i=2;f:b:grange-library-doubled=;e:edgar=confused;i=
 
 “Very well, if we can keep him, Ellen. The company of a child of his own age will instil new spirit into him soon, and by wishing for strength he’ll gain it.”
-e:edgar=serious
+e:edgar=serious;e:edgar=annoyed;i=
 
 “Ay, if we can keep him!” I mused to myself;
-x:nelly=;s=nelly;e:nelly=nervous
+x:nelly=;s=nelly;e:nelly=nervous;e:nelly=upset;i=
 
-and sore misgivings came over me that there was slight hope of that.
-s=;f:b:grange-library=blur(3px)
-
-And then, I thought, how ever will that weakling live at Wuthering Heights? Between his father and Hareton, what playmates and instructors they’ll be.
-t=
+and sore misgivings came over me that there was slight hope of that. And then, I thought, how ever will that weakling live at Wuthering Heights? Between his father and Hareton, what playmates and instructors they’ll be.
+s=;f:b:grange-library-doubled=blur(3px)
 
 Our doubts were presently decided﻿—even earlier than I expected.
-b=grange-hall-night;f:b:grange-hall-night=blur(3px)
+b=grange-hall-night;f:b:grange-hall-night=blur(3px);f=fade
 
 I had just taken the children upstairs, after tea was finished, and seen Linton asleep﻿—he would not suffer me to leave him till that was the case﻿—I had come down, and was standing by the table in the hall, lighting a bedroom candle for Mr. Edgar,
 m=break,1
 
 when a maid stepped out of the kitchen and informed me that Mr. Heathcliff’s servant Joseph was at the door, and wished to speak with the master.
-;f:b:grange-hall-night=
+
 
 “I shall ask him what he wants first,” I said, in considerable trepidation.
-s=nelly;e:nelly=suspicious
+s=nelly;e:nelly=suspicious;e:nelly=suspicious;i=2;f:b:grange-hall-night=
 
 “A very unlikely hour to be troubling people, and the instant they have returned from a long journey. I don’t think the master can see him.”
-e:nelly=unhappy
+e:nelly=unhappy;e:nelly=wary;i=
 
 Joseph had advanced through the kitchen as I uttered these words, and now presented himself in the hall.
 s=
@@ -8170,68 +8170,59 @@ s=
 He was donned in his Sunday garments, with his most sanctimonious and sourest face, and, holding his hat in one hand, and his stick in the other, he proceeded to clean his shoes on the mat.
 
 
-“Good evening, Joseph,” I said, coldly.
-s=nelly;e:nelly=serious
-
-“What business brings you here tonight?”
-
+“Good evening, Joseph,” I said, coldly. “What business brings you here tonight?”
+s=nelly;e:nelly=serious;e:nelly=serious;i=2
 
 “It’s Maister Linton I mun spake to,” he answered, waving me disdainfully aside.
-a:joseph=older;s=joseph;e:joseph=annoyed
+a:joseph=older;s=joseph;e:joseph=annoyed;e:joseph=serious;i=
 
-“Mr. Linton is going to bed; unless you have something particular to say, I’m sure he won’t hear it now,” I continued.
-s=nelly
-
-“You had better sit down in there, and entrust your message to me.”
-
+“Mr. Linton is going to bed; unless you have something particular to say, I’m sure he won’t hear it now,” I continued. “You had better sit down in there, and entrust your message to me.”
+s=nelly;e:nelly=angry;i=
 
 “Which is his rahm?” pursued the fellow, surveying the range of closed doors.
-s=joseph;e:joseph=suspiciouslook
+s=joseph;e:joseph=suspiciouslook;e:joseph=angry;i=2
 
-I perceived he was bent on refusing my mediation, so very reluctantly I went up to the library, and announced the unseasonable visitor, advising that he should be dismissed till next day.
-f:b:grange-hall-night=blur(3px);s=
+I perceived he was bent on refusing my mediation,
+s=;f:b:grange-hall-night=blur(3px);m=break,1
+
+so very reluctantly I went up to the library, and announced the unseasonable visitor, advising that he should be dismissed till next day.
+;s=;b=grange-library-night-doubled;f:b:grange-library-night-doubled=blur(3px)
 
 Mr. Linton had no time to empower me to do so, for Joseph mounted close at my heels, and, pushing into the apartment, planted himself at the far side of the table, with his two fists clapped on the head of his stick, and began in an elevated tone, as if anticipating opposition﻿—
-b=grange-library-night
+f:b:grange-library-night-doubled=
 
 “Hathecliff has sent me for his lad, and I munn’t goa back ’bout him.”
-s=joseph;e:joseph=serious
+s=joseph;e:joseph=serious;e:joseph=annoyed;i=
 
-Edgar Linton was silent a minute; an expression of exceeding sorrow overcast his features:
-s=
-
-he would have pitied the child on his own account; but, recalling Isabella’s hopes and fears, and anxious wishes for her son, and her commendations of him to his care, he grieved bitterly at the prospect of yielding him up, and searched in his heart how it might be avoided.
-
+Edgar Linton was silent a minute; an expression of exceeding sorrow overcast his features: he would have pitied the child on his own account; but, recalling Isabella’s hopes and fears, and anxious wishes for her son, and her commendations of him to his care, he grieved bitterly at the prospect of yielding him up, and searched in his heart how it might be avoided.
+;f:b:grange-library-night-doubled=blur(3px);s=
 
 No plan offered itself: the very exhibition of any desire to keep him would have rendered the claimant more peremptory: there was nothing left but to resign him.
 
 
 However, he was not going to rouse him from his sleep.
-
+;f:b:grange-library-night-doubled=
 
 “Tell Mr. Heathcliff,” he answered calmly, “that his son shall come to Wuthering Heights tomorrow. He is in bed, and too tired to go the distance now.”
-s=edgar;e:edgar=serious
+s=edgar;e:edgar=serious;f:b:grange-library-night-doubled=;e:edgar=annoyed;i=
 
 “You may also tell him that the mother of Linton desired him to remain under my guardianship; and, at present, his health is very precarious.”
-
+;e:edgar=serious;i=
 
 “Noa!” said Joseph,
-s=joseph;e:joseph=angry;m=break,1
+s=joseph;e:joseph=angry;m=break,1;e:joseph=annoyed;i=
 
 giving a thud with his prop on the floor, and assuming an authoritative air.
-s=
+s=;f=hit
 
 “Noa! that means naught. Hathecliff maks noa ’count o’ t’ mother, nor ye norther; but he’ll hev his lad; und I mun tak’ him﻿—soa now ye knaw!”
-s=joseph;i=2
+s=joseph;i=2;e:joseph=angry;i=
 
-“You shall not tonight!” answered Linton decisively.
-s=edgar;e:edgar=angry
-
-“Walk downstairs at once, and repeat to your master what I have said. Ellen, show him down. Go﻿—”
-e:edgar=annoyed
+“You shall not tonight!” answered Linton decisively. “Walk downstairs at once, and repeat to your master what I have said. Ellen, show him down. Go﻿—”
+s=edgar;e:edgar=angry;e:edgar=serious;i=2
 
 And, aiding the indignant elder with a lift by the arm, he rid the room of him and closed the door.
-s=
+s=;f:b:grange-library-night-doubled=blur(3px)
 
 “Varrah weell!” shouted Joseph, as he slowly drew off.
 s=joseph;m=nospeaker,2
