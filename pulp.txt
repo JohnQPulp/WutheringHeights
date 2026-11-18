@@ -9488,109 +9488,88 @@ The rainy night had ushered in a misty morning﻿—half frost, half drizzle﻿�
 b=heights-wide-wide;;f:b:heights-wide-wide=blur(3px)
 
 We entered the farmhouse by the kitchen way, to ascertain whether Mr. Heathcliff were really absent: because I put slight faith in his own affirmation.
-b=heights-kitchen
+b=heights-kitchen;f:b:heights-kitchen=blur(3px)
 
 Joseph seemed sitting in a sort of elysium alone, beside a roaring fire; a quart of ale on the table near him, bristling with large pieces of toasted oatcake; and his black, short pipe in his mouth.
 b=heights-kitchen
 
-Catherine ran to the hearth to warm herself. I asked if the master was in?
+Catherine ran to the hearth to warm herself. I asked if the master was in? My question remained so long unanswered, that I thought the old man had grown deaf, and repeated it louder.
 
 
-My question remained so long unanswered, that I thought the old man had grown deaf, and repeated it louder.
+“Na﻿—ay!” he snarled, or rather screamed through his nose. “Na﻿—ay! yah muh goa back whear yah coom frough.”
+s=joseph;e:joseph=scowling;x:joseph=pipe;f:b:heights-kitchen=
 
-
-“Na﻿—ay!” he snarled, or rather screamed through his nose.
-s=joseph;e:joseph=scowling;x:joseph=pipe
-
-“Na﻿—ay! yah muh goa back whear yah coom frough.”
-
-
-“Joseph!” cried a peevish voice, simultaneously with me, from the inner room.
-x:linton=sick;e:linton=annoyed;m=dialogue,2
-
-“How often am I to call you? There are only a few red ashes now. Joseph! come this moment.”
-
+“Joseph!” cried a peevish voice, simultaneously with me, from the inner room. “How often am I to call you? There are only a few red ashes now. Joseph! come this moment.”
+x:linton=sick;e:linton=annoyed;m=dialogue,1;s=
 
 Vigorous puffs, and a resolute stare into the grate, declared he had no ear for this appeal. The housekeeper and Hareton were invisible; one gone on an errand, and the other at his work, probably.
-s=
+s=;f:b:heights-kitchen=blur(3px)
 
 We knew Linton’s tones, and entered.
 b=heights-house
 
-“Oh, I hope you’ll die in a garret, starved to death!” said the boy,
-b=heights-house;s=linton;e:linton=scowling;m=break,1
-
-mistaking our approach for that of his negligent attendant.
-s=
+“Oh, I hope you’ll die in a garret, starved to death!” said the boy, mistaking our approach for that of his negligent attendant.
+b=heights-house;s=linton;e:linton=scowling;e:linton=angry;i=2
 
 He stopped on observing his error: his cousin flew to him.
 s=
 
-“Is that you, Miss Linton?” he said,
-s=linton;e:linton=confusedlook;m=break,1
-
-raising his head from the arm of the great chair, in which he reclined.
-s=
+“Is that you, Miss Linton?” he said, raising his head from the arm of the great chair, in which he reclined.
+s=linton;e:linton=confusedlook;
 
 “No﻿—don’t kiss me: it takes my breath. Dear me! Papa said you would call,” continued he,
-e:linton=confused;m=break,1
+e:linton=confused;m=break,1;e:linton=unhappy;i=2;s=linton;m=break,1
 
 after recovering a little from Catherine’s embrace; while she stood by looking very contrite.
 s=
 
 “Will you shut the door, if you please? you left it open; and those﻿—those *detestable* creatures won’t bring coals to the fire. It’s so cold!”
-s=linton;e:linton=unhappy
+s=linton;e:linton=unhappy;e:linton=upset;i=
 
 I stirred up the cinders, and fetched a scuttleful myself.
-s=
+s=;f:b:heights-house=blur(3px)
 
 The invalid complained of being covered with ashes; but he had a tiresome cough, and looked feverish and ill, so I did not rebuke his temper.
 
 
 “Well, Linton,” murmured Catherine, when his corrugated brow relaxed,
-s=cathy;e:cathy=wary
+s=cathy;e:cathy=wary;f:b:heights-house=
 
 “are you glad to see me? Can I do you any good?”
-e:cathy=sadsmile;i=2
+e:cathy=sadsmile;i=2;e:cathy=sadsmile;i=
 
-“Why didn’t you come before?” he asked. “You should have come, instead of writing. It tired me dreadfully writing those long letters. I’d far rather have talked to you. Now, I can neither bear to talk, nor anything else.”
-s=linton;e:linton=unhappy;i=2
+“Why didn’t you come before?” he asked. “You should have come, instead of writing.”
+s=linton;e:linton=unhappy;i=2;e:linton=scowling;i=;z:linton-ateen-xsick=86,54,10.75
+
+“It tired me dreadfully writing those long letters. I’d far rather have talked to you. Now, I can neither bear to talk, nor anything else.”
+;e:linton=upset;i=2
 
 “I wonder where Zillah is! Will you” (looking at me) “step into the kitchen and see?”
-e:linton=unhappylook
+e:linton=unhappylook;e:linton=scowling;i=2
 
 I had received no thanks for my other service; and being unwilling to run to and fro at his behest, I replied﻿—
 s=;m=nospace,1;m=break,1
 
 “Nobody is out there but Joseph.”
-s=nelly;e:nelly=annoyed;x:nelly=hat
+s=nelly;e:nelly=annoyed;x:nelly=hat;e:nelly=thinking;i=
 
-“I want to drink,” he exclaimed fretfully, turning away.
-s=linton;e:linton=upset
+“I want to drink,” he exclaimed fretfully, turning away. “Zillah is constantly gadding off to Gimmerton since papa went: it’s miserable! And I’m obliged to come down here﻿—they resolved never to hear me upstairs.”
+s=linton;e:linton=upset;e:linton=upset;i=2
 
-“Zillah is constantly gadding off to Gimmerton since papa went: it’s miserable! And I’m obliged to come down here﻿—they resolved never to hear me upstairs.”
+“Is your father attentive to you, Master Heathcliff?” I asked, perceiving Catherine to be checked in her friendly advances.
+s=nelly;;e:nelly=suspicious;e:nelly=contemplative;i=2
 
-
-“Is your father attentive to you, Master Heathcliff?” I asked,
-s=nelly;m=break,1;e:nelly=suspicious
-
-perceiving Catherine to be checked in her friendly advances.
-s=
-
-“Attentive? He makes them a little more attentive at least,” he cried.
-s=linton;e:linton=annoyed
-
-“The wretches! Do you know, Miss Linton, that brute Hareton laughs at me! I hate him! indeed, I hate them all: they are odious beings.”
-e:linton=angry
+“Attentive? He makes them a little more attentive at least,” he cried. “The wretches! Do you know, Miss Linton, that brute Hareton laughs at me! I hate him! indeed, I hate them all: they are odious beings.”
+s=linton;e:linton=annoyed;e:linton=scowling;i=
 
 Cathy began searching for some water; she lighted on a pitcher in the dresser, filled a tumbler, and brought it.
-s=
+s=;f:b:heights-house=blur(3px)
 
 He bid her add a spoonful of wine from a bottle on the table; and having swallowed a small portion, appeared more tranquil, and said she was very kind.
 
 
 “And are you glad to see me?” asked she,
-s=cathy;e:cathy=sadsmile;m=break,1
+s=cathy;e:cathy=sadsmile;m=break,1;f:b:heights-house=
 
 reiterating her former question and pleased to detect the faint dawn of a smile.
 s=
@@ -9599,88 +9578,88 @@ s=
 s=linton;e:linton=sadsmile
 
 “But I have been vexed, because you wouldn’t come. And papa swore it was owing to me: he called me a pitiful, shuffling, worthless thing; and said you despised me; and if he had been in my place, he would be more the master of the Grange than your father by this time.”
-e:linton=unhappy
+e:linton=unhappy;e:linton=upset;i=2
 
-“But you don’t despise me, do you, Miss﻿—?”
+“But you don’t despise me, do you, Miss﻿—?”<e>…<book>Secret Garden|Lennox</book>?</e>
 e:linton=nervous
 
 “I wish you would say Catherine, or Cathy,” interrupted my young lady. “Despise you? No! Next to papa and Ellen, I love you better than anybody living.”
-s=cathy;e:cathy=nervous
+s=cathy;e:cathy=nervous;e:cathy=upset;i=
 
 “I don’t love Mr. Heathcliff, though; and I dare not come when he returns: will he stay away many days?”
-e:cathy=unhappy
+e:cathy=unhappy;e:cathy=seriouslook;i=
 
 “Not many,” answered Linton; “but he goes on to the moors frequently, since the shooting season commenced; and you might spend an hour or two with me in his absence.”
-s=linton;e:linton=contemplative
+s=linton;e:linton=contemplative;e:linton=upset;i=2
 
 “Do say you will. I think I should not be peevish with you: you’d not provoke me, and you’d always be ready to help me, wouldn’t you?”
-e:linton=serious
+e:linton=serious;e:linton=upset;i=
 
 “Yes,” said Catherine, stroking his long soft hair:
-s=cathy;e:cathy=happylookdown
+s=cathy;e:cathy=happylookdown;e:cathy=unhappylookdown;i=2
 
 “if I could only get papa’s consent, I’d spend half my time with you. Pretty Linton! I wish you were my brother.”
-e:cathy=thinking
+e:cathy=thinking;e:cathy=sadsmile;i=2
 
-“And then you would like me as well as your father?” observed he, more cheerfully.
-s=linton;e:linton=curious
-
-“But papa says you would love me better than him and all the world, if you were my wife; so I’d rather you were that.”
-e:linton=contemplative;i=2
+“And then you would like me as well as your father?” observed he, more cheerfully. “But papa says you would love me better than him and all the world, if you were my wife; so I’d rather you were that.”
+s=linton;e:linton=curious;e:linton=confusedlook;i=
 
 “No, I should never love anybody better than papa,” she returned gravely. “And people hate their wives, sometimes; but not their sisters and brothers: and if you were the latter, you would live with us, and papa would be as fond of you as he is of me.”
-s=cathy;e:cathy=serious
+s=cathy;e:cathy=serious;e:cathy=serious;i=
 
 Linton denied that people ever hated their wives; but Cathy affirmed they did, and, in her wisdom, instanced his own father’s aversion to her aunt.
-s=
+s=;f:b:heights-house=blur(3px)
 
 I endeavoured to stop her thoughtless tongue. I couldn’t succeed till everything she knew was out.
 
 
 Master Heathcliff, much irritated, asserted her relation was false.
-
+;f:b:heights-house=
 
 “Papa told me; and papa does not tell falsehoods,” she answered pertly.
-s=cathy;e:cathy=annoyed
+s=cathy;e:cathy=annoyed;f:b:heights-house=
 
 “*My* papa scorns yours!” cried Linton. “He calls him a sneaking fool.”
-s=linton;e:linton=scowling
+s=linton;e:linton=scowling;e:linton=serious;i=
 
 “Yours is a wicked man,” retorted Catherine; “and you are very naughty to dare to repeat what he says. He must be wicked to have made Aunt Isabella leave him as she did.”
-s=cathy;i=2
+s=cathy;i=2;e:cathy=annoyedupset;i=
 
 “She didn’t leave him,” said the boy; “you shan’t contradict me.”
-s=linton;e:linton=annoyed
+s=linton;e:linton=annoyed;e:linton=scowling;i=;e:linton=angry;i=2
 
 “She did,” cried my young lady.
-s=cathy;e:cathy=serious
+s=cathy;e:cathy=serious;e:cathy=angryupset;i=
 
 “Well, I’ll tell you something!” said Linton. “Your mother hated your father: now then.”
 s=linton;e:linton=scowling
 
 “Oh!” exclaimed Catherine, too enraged to continue.
-s=cathy;e:cathy=angry
+s=cathy;e:cathy=angry;e:cathy=angry;i=;e:cathy=annoyed;i=
 
 “And she loved mine,” added he.
-s=linton;e:linton=serious
+s=linton;e:linton=serious;e:linton=angry;i=2
 
 “You little liar! I hate you now!” she panted, and her face grew red with passion.
-s=cathy;i=2
+s=cathy;i=2;e:cathy=angry;i=
 
 “She did! she did!” sang Linton,
-s=linton;m=break,1;e:linton=smirkingheadback
+s=linton;m=break,1;e:linton=smirkingheadback;e:linton=annoyed;i=
 
 sinking into the recess of his chair, and leaning back his head to enjoy the agitation of the other disputant, who stood behind.
 s=
 
 “Hush, Master Heathcliff!” I said; “that’s your father’s tale, too, I suppose.”
-s=nelly;e:nelly=suspicious
+s=nelly;e:nelly=suspicious;e:nelly=annoyed;i=2
 
-“It isn’t: you hold your tongue!” he answered. “She did, she did, Catherine! she did, she did!”
-s=linton;e:linton=serious
+“It isn’t: you hold your tongue!” he answered.
+s=linton;e:linton=serious;e:linton=angry;i=2
+
+“She did, she did, Catherine! she did, she did!”
+;e:linton=angry;i=;e:linton=serious;i=
 
 Cathy, beside herself, gave the chair a violent push, and caused him to fall against one arm.
-s=
+s=;f=hit
 
 He was immediately seized by a suffocating cough that soon ended his triumph. It lasted so long that it frightened even me.
 f:b:heights-house=blur(3px)
@@ -9695,70 +9674,70 @@ Catherine quelled her lamentations also, took a seat opposite, and looked solemn
 
 
 “How do you feel now, Master Heathcliff?” I inquired, after waiting ten minutes.
-f:b:heights-house=;s=nelly;e:nelly=annoyed
+f:b:heights-house=;s=nelly;e:nelly=annoyed;x:nelly=;e:nelly=angry;i=
 
-“I wish *she* felt as I do,” he replied: “spiteful, cruel thing! Hareton never touches me: he never struck me in his life. And I was better today: and there﻿—”
-s=linton;e:linton=upset
+“I wish *she* felt as I do,” he replied: “spiteful, cruel thing! Hareton never touches me: he never struck me in his life.”
+s=linton;e:linton=upset;e:linton=scowling;i=
+
+“And I was better today: and there﻿—”
+;e:linton=weary;i=
 
 his voice died in a whimper.
 s=
 
-“*I* didn’t strike you!” muttered Cathy,
-s=cathy;e:cathy=upset;m=break,1
-
-chewing her lip to prevent another burst of emotion.
-s=
+“*I* didn’t strike you!” muttered Cathy, chewing her lip to prevent another burst of emotion.
+s=cathy;e:cathy=upset;;e:cathy=scowling;i=
 
 He sighed and moaned like one under great suffering, and kept it up for a quarter of an hour; on purpose to distress his cousin apparently, for whenever he caught a stifled sob from her he put renewed pain and pathos into the inflections of his voice.
 s=;f:b:heights-house=blur(3px)
 
 “I’m sorry I hurt you, Linton,” she said at length, racked beyond endurance.
-s=cathy;f:b:heights-house=;e:cathy=unhappy
+s=cathy;f:b:heights-house=;e:cathy=unhappy;e:cathy=angryupset;i=
 
 “But I couldn’t have been hurt by that little push, and I had no idea that you could, either: you’re not much, are you, Linton? Don’t let me go home thinking I’ve done you harm.”
-
+;e:cathy=unhappylookdown;i=2
 
 “Answer! speak to me.”
 e:cathy=upset
 
-“I can’t speak to you,” he murmured; “you’ve hurt me so that I shall lie awake all night choking with this cough. If you had it you’d know what it was; but *you’ll* be comfortably asleep while I’m in agony, and nobody near me.”
-s=linton;e:linton=unhappy
+“I can’t speak to you,” he murmured; “you’ve hurt me so that I shall lie awake all night choking with this cough.”
+s=linton;e:linton=unhappy;e:linton=upset;i=2
 
-“I wonder how you would like to pass those fearful nights!”
+“If you had it you’d know what it was; but *you’ll* be comfortably asleep while I’m in agony, and nobody near me. I wonder how you would like to pass those fearful nights!”
 e:linton=scowling
 
 And he began to wail aloud, for very pity of himself.
 s=
 
-“Since you are in the habit of passing dreadful nights,” I said, “it won’t be Miss who spoils your ease: you’d be the same had she never come. However, she shall not disturb you again; and perhaps you’ll get quieter when we leave you.”
-s=nelly;e:nelly=annoyed;i=2
+“Since you are in the habit of passing dreadful nights,” I said, “it won’t be Miss who spoils your ease: you’d be the same had she never come.”
+s=nelly;e:nelly=annoyed;i=2;e:nelly=angry;i=
+
+“However, she shall not disturb you again; and perhaps you’ll get quieter when we leave you.”
+;e:nelly=suspicious;i=
 
 “Must I go?” asked Catherine dolefully, bending over him.
-s=cathy;e:cathy=unhappylookdown
+s=cathy;e:cathy=unhappylookdown;e:cathy=unhappylookdown;i=2
 
 “Do you want me to go, Linton?”
-
+;e:cathy=unhappy;i=
 
 “You can’t alter what you’ve done,” he replied pettishly, shrinking from her,
-s=linton;e:linton=annoyed
+s=linton;e:linton=annoyed;e:linton=scowling;i=
 
 “unless you alter it for the worse by teasing me into a fever.”
-
+;e:linton=upset;i=2
 
 “Well, then, I must go?” she repeated.
-s=cathy;e:cathy=unhappy
+s=cathy;e:cathy=unhappy;e:cathy=upset;i=
 
 “Let me alone, at least,” said he; “I can’t bear your talking.”
-s=linton;e:linton=unhappy
+s=linton;e:linton=unhappy;e:linton=angry;i=2
 
 She lingered, and resisted my persuasions to departure a tiresome while; but as he neither looked up nor spoke, she finally made a movement to the door, and I followed.
-s=;f:b:heights-house=blur(3px)
+s=;x:nelly=hat
 
-We were recalled by a scream.
-f:b:heights-house=
-
-Linton had slid from his seat on to the hearthstone, and lay writhing in the mere perverseness of an indulged plague of a child, determined to be as grievous and harassing as it can.
-
+We were recalled by a scream. Linton had slid from his seat on to the hearthstone, and lay writhing in the mere perverseness of an indulged plague of a child, determined to be as grievous and harassing as it can.
+f:b:heights-house=;f:b:heights-house=blur(3px)
 
 I thoroughly gauged his disposition from his behaviour, and saw at once it would be folly to attempt humouring him.
 
@@ -9767,136 +9746,130 @@ Not so my companion: she ran back in terror, knelt down, and cried, and soothed,
 
 
 “I shall lift him on to the settle,” I said, “and he may roll about as he pleases: we can’t stop to watch him. I hope you are satisfied, Miss Cathy, that you are not the person to benefit him; and that his condition of health is not occasioned by attachment to you.”
-s=nelly;e:nelly=annoyed
+s=nelly;e:nelly=annoyed;f:b:heights-house=;e:nelly=annoyed;i=2
 
 “Now, then, there he is! Come away: as soon as he knows there is nobody by to care for his nonsense, he’ll be glad to lie still.”
-e:nelly=annoyedlookdown
+e:nelly=annoyedlookdown;e:nelly=suspicious;i=
 
-She placed a cushion under his head, and offered him some water; he rejected the latter, and tossed uneasily on the former, as if it were a stone or a block of wood.
+She placed a cushion under his head, and offered him some water; he rejected the latter, and tossed uneasily on the former, as if it were a stone or a block of wood. She tried to put it more comfortably.
 s=
 
-She tried to put it more comfortably.
-
-
 “I can’t do with that,” he said; “it’s not high enough.”
-s=linton;e:linton=unhappy
+s=linton;e:linton=unhappy;e:linton=upset;i=2
 
 Catherine brought another to lay above it.
 s=
 
 “That’s too high,” murmured the provoking thing.
-s=linton;e:linton=annoyed
+s=linton;e:linton=annoyed;e:linton=scowling;i=2
 
 “How must I arrange it, then?” she asked despairingly.
-s=cathy;e:cathy=unhappylookdown
+s=cathy;e:cathy=unhappylookdown;e:cathy=angryupset;i=
 
 He twined himself up to her, as she half knelt by the settle, and converted her shoulder into a support.
 s=
 
 “No, that won’t do,” I said. “You’ll be content with the cushion, Master Heathcliff. Miss has wasted too much time on you already: we cannot remain five minutes longer.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=scowling;i=
 
 “Yes, yes, we can!” replied Cathy. “He’s good and patient now. He’s beginning to think I shall have far greater misery than he will tonight, if I believe he is the worse for my visit: and then I dare not come again.”
-s=cathy;e:cathy=serious
+s=cathy;e:cathy=serious;e:cathy=seriouslook;i=
 
 “Tell the truth about it, Linton; for I mustn’t come, if I have hurt you.”
-e:cathy=unhappylookdown
+e:cathy=unhappylookdown;e:cathy=unhappylookdown;i=2
 
 “You must come, to cure me,” he answered. “You ought to come, because you have hurt me: you know you have extremely! I was not as ill when you entered as I am at present﻿—was I?”
-s=linton;e:linton=upset
+s=linton;e:linton=upset;e:linton=upset;i=2
 
 “But you’ve made yourself ill by crying and being in a passion.”
-s=nelly;e:nelly=serious;i=2
+s=nelly;e:nelly=serious;i=2;e:nelly=thinking;i=
 
 “I didn’t do it all,” said his cousin. “However, we’ll be friends now. And you want me: you would wish to see me sometimes, really?”
-s=cathy;e:cathy=wary
+s=cathy;e:cathy=wary;e:cathy=sadsmile;i=2;e:cathy=unhappylookdown;i=2
 
 “I told you I did,” he replied impatiently. “Sit on the settle and let me lean on your knee. That’s as mamma used to do, whole afternoons together.”
-s=linton;e:linton=annoyed
+s=linton;e:linton=annoyed;e:linton=annoyed;i=2
 
 “Sit quite still and don’t talk: but you may sing a song, if you can sing; or you may say a nice long interesting ballad﻿—one of those you promised to teach me; or a story. I’d rather have a ballad, though: begin.”
-e:linton=thinking
+e:linton=thinking;e:linton=upset;i=2
 
-Catherine repeated the longest she could remember.
+Catherine repeated the longest she could remember. The employment pleased both mightily.
 s=;f:b:heights-house=blur(3px)
 
-The employment pleased both mightily. Linton would have another, and after that another, notwithstanding my strenuous objections; and so they went on until the clock struck twelve, and we heard Hareton in the court, returning for his dinner.
+Linton would have another, and after that another, notwithstanding my strenuous objections; and so they went on until the clock struck twelve, and we heard Hareton in the court, returning for his dinner.
 
 
 “And tomorrow, Catherine, will you be here tomorrow?” asked young Heathcliff, holding her frock as she rose reluctantly.
 s=linton;e:linton=nervous;f:b:heights-house=
 
 “No,” I answered, “nor next day neither.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=thinking;i=
 
 She, however, gave a different response evidently, for his forehead cleared as she stooped and whispered in his ear.
-s=
+s=;f:b:heights-house=blur(3px)
 
 “You won’t go tomorrow, recollect, Miss!” I commenced, when we were out of the house.
-b=heights-wide-wide;x:nelly=hat;s=nelly;f=fade;e:nelly=scowling
+b=heights-wide-wide;x:nelly=hat;s=nelly;f=fade;e:nelly=scowling;f:b:heights-wide-wide=
 
 “You are not dreaming of it, are you?”
-
+;e:nelly=suspicious;i=
 
 She smiled.
 s=
 
 “Oh, I’ll take good care,” I continued: “I’ll have that lock mended, and you can escape by no way else.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=thinking;i=
 
 “I can get over the wall,” she said laughing. “The Grange is not a prison, Ellen, and you are not my gaoler.”
-x:cathy=hat;s=cathy;e:cathy=happy
+x:cathy=hat;s=cathy;e:cathy=happy;e:cathy=happybemused;i=
 
 “And besides, I’m almost seventeen: I’m a woman. And I’m certain Linton would recover quickly if he had me to look after him. I’m older than he is, you know, and wiser: less childish, am I not? And he’ll soon do as I direct him, with some slight coaxing.”
-e:cathy=thinking
+e:cathy=thinking;e:cathy=unhappy;i=2
 
 “He’s a pretty little darling when he’s good. I’d make such a pet of him, if he were mine. We should never quarrel, should we, after we were used to each other? Don’t you like him, Ellen?”
-e:cathy=curious
+e:cathy=curious;e:cathy=thinking;i=
 
 “Like him!” I exclaimed. “The worst-tempered bit of a sickly slip that ever struggled into its teens. Happily, as Mr. Heathcliff conjectured, he’ll not win twenty. I doubt whether he’ll see spring, indeed.”
-s=nelly;e:nelly=annoyed
+s=nelly;e:nelly=annoyed;e:nelly=annoyed;i=2
 
 “And small loss to his family whenever he drops off. And lucky it is for us that his father took him: the kinder he was treated, the more tedious and selfish he’d be. I’m glad you have no chance of having him for a husband, Miss Catherine.”
-
+;e:nelly=suspicious;i=
 
 My companion waxed serious at hearing this speech. To speak of his death so regardlessly wounded her feelings.
-s=
+s=;f:b:heights-wide-wide=blur(3px)
 
-“He’s younger than I,” she answered, after a protracted pause of meditation,
-s=cathy;e:cathy=contemplative
-
-“and he ought to live the longest: he will﻿—he must live as long as I do.”
-
+“He’s younger than I,” she answered, after a protracted pause of meditation, “and he ought to live the longest: he will﻿—he must live as long as I do.”
+s=cathy;e:cathy=contemplative;;f:b:heights-wide-wide=;e:cathy=unhappylookdown;i=
 
 “He’s as strong now as when he first came into the north; I’m positive of that. It’s only a cold that ails him, the same as papa has. You say papa will get better, and why shouldn’t he?”
 e:cathy=serious
 
 “Well, well,” I cried, “after all, we needn’t trouble ourselves; for listen, Miss﻿—and mind, I’ll keep my word﻿—if you attempt going to Wuthering Heights again, with or without me, I shall inform Mr. Linton, and, unless he allow it, the intimacy with your cousin must not be revived.”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=thinking;i=;e:nelly=scowling;i=2
 
 “It has been revived,” muttered Cathy, sulkily.
-s=cathy;e:cathy=unhappy
+s=cathy;e:cathy=unhappy;e:cathy=upset;i=
 
 “Must not be continued, then,” I said.
-s=nelly;i=2
+s=nelly;i=2;e:nelly=thinking;i=
 
 “We’ll see,” was her reply,
-s=cathy;e:cathy=annoyed;m=break,1
+s=cathy;e:cathy=annoyed;m=break,1;e:cathy=scowling;i=2
 
 and she set off at a gallop, leaving me to toil in the rear.
 s=;f:b:heights-wide-wide=blur(3px)
 
 We both reached home before our dinnertime; my master supposed we had been wandering through the park, and therefore he demanded no explanation of our absence.
-b=grange-parlour;f=fade;s=;f:b:grange-parlour=blur(3px)
+b=grange-wide;;s=;f:b:grange-wide=blur(3px)
 
 As soon as I entered I hastened to change my soaked shoes and stockings; but sitting such awhile at the Heights had done the mischief.
 
 
 On the succeeding morning I was laid up, and during three weeks I remained incapacitated for attending to my duties: a calamity never experienced prior to that period, and never, I am thankful to say, since.
-b=grange-nelly-bedroom-night;f:b:grange-nelly-bedroom-night=blur(3px)
+;f:b:grange-wide=blur(6px)
 
 My little mistress behaved like an angel in coming to wait on me, and cheer my solitude; the confinement brought me exceedingly low. It is wearisome, to a stirring active body: but few have slighter reasons for complaint than I had.
-
+b=grange-nelly-bedroom-night;f:b:grange-nelly-bedroom-night=blur(6px)
 
 The moment Catherine left Mr. Linton’s room she appeared at my bedside. Her day was divided between us; no amusement usurped a minute: she neglected her meals, her studies, and her play; and she was the fondest nurse that ever watched.
 
@@ -9904,14 +9877,11 @@ The moment Catherine left Mr. Linton’s room she appeared at my bedside. Her d
 She must have had a warm heart, when she loved her father so, to give so much to me.
 
 
-I said her days were divided between us; but the master retired early, and I generally needed nothing after six o’clock, thus the evening was her own.
-
-
-Poor thing! I never considered what she did with herself after tea.
+I said her days were divided between us; but the master retired early, and I generally needed nothing after six o’clock, thus the evening was her own. Poor thing! I never considered what she did with herself after tea.
 
 
 And though frequently, when she looked in to bid me good night, I remarked a fresh colour in her cheeks and a pinkness over her slender fingers, instead of fancying the hue borrowed from a cold ride across the moors, I laid it to the charge of a hot fire in the library.
-
+;f:b:grange-nelly-bedroom-night=blur(10px)
 
 ## XXIV
 r=title
