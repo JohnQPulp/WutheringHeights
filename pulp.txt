@@ -11216,46 +11216,40 @@ Five nights and four days I remained, altogether, seeing nobody but Hareton once
 r=title
 
 On the fifth morning, or rather afternoon, a different step approached﻿—lighter and shorter; and, this time, the person entered the room.
-b=heights-zillah-bedroom;
+b=heights-zillah-bedroom;f:b:heights-zillah-bedroom=blur(3px)
 
 It was Zillah; donned in her scarlet shawl, with a black silk bonnet on her head, and a willow-basket swung to her arm.
+;f:b:heights-zillah-bedroom=
 
-
-“Eh, dear! Mrs. Dean!” she exclaimed.
-x:zillah=hat;s=zillah;e:zillah=surprised
-
-“Well! there is a talk about you at Gimmerton. I never thought but you were sunk in the Blackhorse marsh, and missy with you, till master told me you’d been found, and he’d lodged you here!”
-e:zillah=confused
+“Eh, dear! Mrs. Dean!” she exclaimed. “Well! there is a talk about you at Gimmerton. I never thought but you were sunk in the Blackhorse marsh, and missy with you, till master told me you’d been found, and he’d lodged you here!”
+x:zillah=hat;s=zillah;e:zillah=surprised;e:zillah=confused;i=
 
 “What! and you must have got on an island, sure? And how long were you in the hole? Did master save you, Mrs. Dean? But you’re not so thin﻿—you’ve not been so poorly, have you?”
 
 
 “Your master is a true scoundrel!” I replied. “But he shall answer for it. He needn’t have raised that tale: it shall all be laid bare!”
-s=nelly;e:nelly=angry
+s=nelly;e:nelly=angry;e:nelly=scowling;i=
 
-“What do you mean?” asked Zillah. “It’s not his tale: they tell that in the village﻿—about your being lost in the marsh; and I calls to Earnshaw, when I come in﻿—”
-s=zillah;e:zillah=serious;m=break,1;m=nospace,1
+“What do you mean?” asked Zillah. “It’s not his tale: they tell that in the village﻿—about your being lost in the marsh;”
+s=zillah;e:zillah=serious;;e:zillah=confused;i=
+
+“and I calls to Earnshaw, when I come in﻿—”
+m=break,1;m=nospace,1;e:zillah=thinking;i=2;e:zillah=unhappy;i=;e:zillah=thinking;i=2
 
 “‘Eh, they’s queer things, Mr. Hareton, happened since I went off. It’s a sad pity of that likely young lass, and cant Nelly Dean.’”
-g=heights-house;s=zillah;e:zillah=unhappy
+g=heights-house;s=zillah;e:zillah=unhappy;e:zillah=annoyed;i=2
 
-“He stared. I thought he had not heard aught, so I told him the rumour.”
-s=
+“He stared. I thought he had not heard aught, so I told him the rumour. The master listened, and he just smiled to himself, and said,”
+m=break,1;s=
 
-“The master listened, and he just smiled to himself, and said,”
-m=break,1
-
-“‘If they have been in the marsh, they are out now, Zillah.’”
+“‘If they have been in the marsh, they are out now, Zillah. Nelly Dean is lodged, at this minute, in your room. You can tell her to flit, when you go up; here is the key.’”
 s=heathcliff;e:heathcliff=smirking
 
-“‘Nelly Dean is lodged, at this minute, in your room. You can tell her to flit, when you go up; here is the key. The bog-water got into her head, and she would have run home quite flighty; but I fixed her till she came round to her senses.’”
-e:heathcliff=serious
-
-“‘You can bid her go to the Grange at once, if she be able, and carry a message from me, that her young lady will follow in time to attend the squire’s funeral.’”
-e:heathcliff=smirking;i=2
+“‘The bog-water got into her head, and she would have run home quite flighty; but I fixed her till she came round to her senses. You can bid her go to the Grange at once, if she be able, and carry a message from me, that her young lady will follow in time to attend the squire’s funeral.’”
+e:heathcliff=serious;e:heathcliff=smirkinglook;i=
 
 “Mr. Edgar is not dead?” I gasped. “Oh! Zillah, Zillah!”
-g=;s=nelly;e:nelly=confused
+g=;s=nelly;e:nelly=confused;e:nelly=nervous;i=;e:nelly=wary;i=
 
 “No, no; sit you down, my good mistress,” she replied; “you’re right sickly yet. He’s not dead; Doctor Kenneth thinks he may last another day. I met him on the road and asked.”
 s=zillah;e:zillah=serious
@@ -11264,16 +11258,16 @@ Instead of sitting down, I snatched my outdoor things, and hastened below, for t
 s=;f:b:heights-zillah-bedroom=blur(3px)
 
 On entering the house, I looked about for someone to give information of Catherine. The place was filled with sunshine, and the door stood wide open; but nobody seemed at hand.
-b=heights-house;s=
+b=heights-house;s=;f:b:heights-house=blur(3px)
 
 As I hesitated whether to go off at once, or return and seek my mistress, a slight cough drew my attention to the hearth.
-
+f:b:heights-house=
 
 Linton lay on the settle, sole tenant, sucking a stick of sugar-candy, and pursuing my movements with apathetic eyes.
 
 
 “Where is Miss Catherine?” I demanded sternly,
-s=nelly;e:nelly=scowling;m=break,1
+s=nelly;e:nelly=scowling;m=break,1;e:nelly=angry;i=2
 
 supposing I could frighten him into giving intelligence, by catching him thus, alone.
 s=
@@ -11282,94 +11276,97 @@ He sucked on like an innocent.
 s=
 
 “Is she gone?” I said.
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=annoyed;i=
 
 “No,” he replied; “she’s upstairs: she’s not to go; we won’t let her.”
-x:linton=sick;s=linton;e:linton=contemplative
+x:linton=sick;s=linton;e:linton=contemplative;e:linton=thinking;i=
 
 “You won’t let her, little idiot!” I exclaimed. “Direct me to her room immediately, or I’ll make you sing out sharply.”
-s=nelly;e:nelly=angry
+s=nelly;e:nelly=angry;e:nelly=scowling;i=
 
 “Papa would make you sing out, if you attempted to get there,” he answered. “He says I’m not to be soft with Catherine: she’s my wife, and it’s shameful that she should wish to leave me.”
-s=linton;e:linton=annoyed
+s=linton;e:linton=annoyed;e:linton=annoyed;i=2
 
 “He says she hates me and wants me to die, that she may have my money; but she shan’t have it: and she shan’t go home! She never shall!﻿—she may cry, and be sick as much as she pleases!”
-e:linton=scowling
+e:linton=scowling;e:linton=angry;i=
 
 He resumed his former occupation, closing his lids, as if he meant to drop asleep.
 s=
 
 “Master Heathcliff,” I resumed, “have you forgotten all Catherine’s kindness to you last winter, when you affirmed you loved her, and when she brought you books and sung you songs, and came many a time through wind and snow to see you?”
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=annoyed;i=
 
 “She wept to miss one evening, because you would be disappointed; and you felt then that she was a hundred times too good to you: and now you believe the lies your father tells, though you know he detests you both. And you join him against her. That’s fine gratitude, is it not?”
-
+;e:nelly=angry;i=;e:nelly=angry;i=2
 
 The corner of Linton’s mouth fell, and he took the sugar-candy from his lips.
 s=
 
 “Did she come to Wuthering Heights because she hated you?” I continued. “Think for yourself! As to your money, she does not even know that you will have any.”
-s=nelly;e:nelly=scowling
+s=nelly;e:nelly=scowling;e:nelly=serious;i=
 
 “And you say she’s sick; and yet you leave her alone, up there in a strange house! You who have felt what it is to be so neglected! You could pity your own sufferings; and she pitied them, too; but you won’t pity hers!”
-e:nelly=angry;i=2
+e:nelly=angry;i=2;e:nelly=angry;i=
 
 “I shed tears, Master Heathcliff, you see﻿—an elderly woman, and a servant merely﻿—and you, after pretending such affection, and having reason to worship her almost, store every tear you have for yourself, and lie there quite at ease. Ah! you’re a heartless, selfish boy!”
-i=
+i=;e:nelly=wary;i=
 
 “I can’t stay with her,” he answered crossly. “I’ll not stay by myself. She cries so I can’t bear it. And she won’t give over, though I say I’ll call my father.”
-s=linton;e:linton=scowling
+s=linton;e:linton=scowling;e:linton=scowling;i=
 
 “I did call him once, and he threatened to strangle her if she was not quiet; but she began again the instant he left the room, moaning and grieving all night long, though I screamed for vexation that I couldn’t sleep.”
-e:linton=upset
+e:linton=upset;e:linton=upset;i=2
 
 “Is Mr. Heathcliff out?” I inquired,
-s=nelly;m=break,1;e:nelly=scowling
+s=nelly;m=break,1;e:nelly=scowling;e:nelly=angry;i=2
 
 perceiving that the wretched creature had no power to sympathize with his cousin’s mental tortures.
 s=
 
-“He’s in the court,” he replied, “talking to Doctor Kenneth; who says uncle is dying, truly, at last. I’m glad, for I shall be master of the Grange after him.”
-s=linton;e:linton=contemplative
+“He’s in the court,” he replied, “talking to Doctor Kenneth; who says uncle is dying, truly, at last. I’m glad, for I shall be master of the Grange after him. Catherine always spoke of it as her house. It isn’t hers! It’s mine: papa says everything she has is mine.”
+s=linton;e:linton=contemplative;e:linton=scowling;i=2
 
-“Catherine always spoke of it as her house. It isn’t hers! It’s mine: papa says everything she has is mine. All her nice books are mine; she offered to give me them, and her pretty birds, and her pony Minny, if I would get the key of our room, and let her out; but I told her she had nothing to give, they were all, all mine.”
-e:linton=scowling
+“All her nice books are mine; she offered to give me them, and her pretty birds, and her pony Minny, if I would get the key of our room, and let her out; but I told her she had nothing to give, they were all, all mine.”
+e:linton=scowling;e:linton=angry;i=2
 
 “And then she cried, and took a little picture from her neck, and said I should have that; two pictures in a gold case, on one side her mother, and on the other uncle, when they were young. That was yesterday﻿—I said they were mine, too; and tried to get them from her.”
-
+;e:linton=scowling;i=
 
 “The spiteful thing wouldn’t let me: she pushed me off, and hurt me. I shrieked out﻿—that frightens her﻿—she heard papa coming, and she broke the hinges and divided the case, and gave me her mother’s portrait; the other she attempted to hide: but papa asked what was the matter, and I explained it.”
-e:linton=upset;i=2
+e:linton=upset;i=2;e:linton=weary;i=
 
 “He took the one I had away, and ordered her to resign hers to me; she refused, and he﻿—he struck her down, and wrenched it off the chain, and crushed it with his foot.”
-e:linton=unhappy
+e:linton=unhappy;e:linton=annoyed;i=2
 
 “And were you pleased to see her struck?” I asked:
-s=nelly;e:nelly=serious
+s=nelly;e:nelly=serious;e:nelly=annoyed;i=
 
 having my designs in encouraging his talk.
 s=
 
 “I winked,” he answered: “I wink to see my father strike a dog or a horse, he does it so hard. Yet I was glad at first﻿—she deserved punishing for pushing me:”
-s=linton;e:linton=contemplative
+s=linton;e:linton=contemplative;e:linton=unhappy;i=2
 
-“but when papa was gone, she made me come to the window and showed me her cheek cut on the inside, against her teeth, and her mouth filling with blood; and then she gathered up the bits of the picture, and went and sat down with her face to the wall, and she has never spoken to me since: and I sometimes think she can’t speak for pain.”
-e:linton=weary
+“but when papa was gone, she made me come to the window and showed me her cheek cut on the inside, against her teeth, and her mouth filling with blood; and then she gathered up the bits of the picture, and went and sat down with her face to the wall, and she has never spoken to me since:”
+e:linton=weary;e:linton=annoyed;i=2
 
-“I don’t like to think so; but she’s a naughty thing for crying continually; and she looks so pale and wild, I’m afraid of her.”
-
+“and I sometimes think she can’t speak for pain. I don’t like to think so; but she’s a naughty thing for crying continually; and she looks so pale and wild, I’m afraid of her.”
+;e:linton=upset;i=
 
 “And you can get the key if you choose?” I said.
 s=nelly;e:nelly=serious;i=2
 
 “Yes, when I am upstairs,” he answered; “but I can’t walk upstairs now.”
-s=linton;e:linton=unhappy
+s=linton;e:linton=unhappy;e:linton=annoyed;i=2
 
 “In what apartment is it?” I asked.
-s=nelly;e:nelly=suspicious
+s=nelly;e:nelly=suspicious;e:nelly=annoyed;i=
 
-“Oh,” he cried, “I shan’t tell *you* where it is. It is our secret. Nobody, neither Hareton nor Zillah, is to know. There! you’ve tired me﻿—go away, go away!”
-s=linton;e:linton=annoyed
+“Oh,” he cried, “I shan’t tell *you* where it is. It is our secret. Nobody, neither Hareton nor Zillah, is to know.”
+s=linton;e:linton=annoyed;e:linton=scowling;i=
+
+“There! you’ve tired me﻿—go away, go away!”
+;e:linton=upset;i=2
 
 And he turned his face on to his arm, and shut his eyes again.
 s=
@@ -11377,11 +11374,11 @@ s=
 I considered it best to depart without seeing Mr. Heathcliff, and bring a rescue for my young lady from the Grange.
 f:b:heights-house=blur(3px)
 
-On reaching it, the astonishment of my fellow-servants to see me, and their joy also, was intense; and when they heard that their little mistress was safe, two or three were about to hurry up and shout the news at Mr. Edgar’s door: but I bespoke the announcement of it myself.
-b=grange-catherine;f:b:grange-catherine=blur(3px)
+On reaching it, the astonishment of my fellow-servants to see me, and their joy also, was intense; and when they heard that their little mistress was safe, two or three were about to hurry up and shout the news at Mr. Edgar’s door:
+b=grange-wide;f:b:grange-wide=blur(3px)
 
-How changed I found him, even in those few days! He lay an image of sadness and resignation awaiting his death.
-f:b:grange-catherine=
+but I bespoke the announcement of it myself. How changed I found him, even in those few days! He lay an image of sadness and resignation awaiting his death.
+b=grange-catherine;f:b:grange-catherine=blur(3px)
 
 Very young he looked: though his actual age was thirty-nine, one would have called him ten years younger, at least.
 
@@ -11390,10 +11387,10 @@ He thought of Catherine; for he murmured her name.
 
 
 I touched his hand, and spoke.
-
+;f:b:grange-catherine=
 
 “Catherine is coming, dear master!” I whispered; “she is alive and well; and will be here, I hope, tonight.”
-s=nelly;e:nelly=unhappy
+s=nelly;e:nelly=unhappy;e:nelly=upset;i=
 
 I trembled at the first effects of this intelligence: he half rose up, looked eagerly round the apartment, and then sank back in a swoon.
 s=
@@ -11414,7 +11411,7 @@ Having received his orders, I despatched a man to fetch the attorney, and four m
 
 
 Both parties were delayed very late. The single servant returned first.
-b=heights-house;f:b:heights-house=blur(3px)
+b=grange-wide-night;f:b:grange-wide-night=blur(3px)
 
 He said Mr. Green, the lawyer, was out when he arrived at his house, and he had to wait two hours for his re-entrance; and then Mr. Green told him he had a little business in the village that must be done; but he would be at Thrushcross Grange before morning.
 
@@ -11426,37 +11423,40 @@ I scolded the stupid fellows well for listening to that tale, which I would not 
 
 
 Her father *shall* see her, I vowed, and vowed again, if that devil be killed on his own doorstones in trying to prevent it!
+;f:b:grange-wide-night=blur(6px)
 
+Happily, I was spared the journey and the trouble. I had gone downstairs at three o’clock to fetch a jug of water; and was passing through the hall with it in my hand,
+b=grange-kitchen-night;f:b:grange-kitchen-night=blur(3px);m=break,1
 
-Happily, I was spared the journey and the trouble.
-b=grange-kitchen-night;f:b:grange-kitchen-night=blur(3px)
-
-I had gone downstairs at three o’clock to fetch a jug of water; and was passing through the hall with it in my hand, when a sharp knock at the front door made me jump.
+when a sharp knock at the front door made me jump.
 ;f:b:grange-kitchen-night=
 
 “Oh! it is Green,” I said, recollecting myself﻿—“only Green,”
-s=nelly;e:nelly=nervous;m=break,1
+s=nelly;e:nelly=nervous;m=break,1;e:nelly=fearful;i=;e:nelly=confused;i=
 
 and I went on, intending to send somebody else to open it; but the knock was repeated: not loud, and still importunately.
-s=
+s=;f:b:grange-kitchen-night=blur(3px)
 
 I put the jug on the banister and hastened to admit him myself.
-s=
+s=;f:b:grange-kitchen-night=blur(3px)
 
 The harvest moon shone clear outside. It was not the attorney.
-
+b=grange-garden-dusk;f:b:grange-garden-dusk=blur(3px)
 
 My own sweet little mistress sprang on my neck sobbing,
-
+;f:b:grange-garden-dusk=
 
 “Ellen, Ellen! Is papa alive?”
-;s=cathy;e:cathy=upset;n:cathy=“Cathy” (Catherine) Heathcliff
+;s=cathy;e:cathy=upset;n:cathy=“Cathy” (Catherine) Heathcliff;e:cathy=upsetupset;i=
 
 “Yes,” I cried: “yes, my angel, he is, God be thanked, you are safe with us again!”
 s=nelly;e:nelly=sadsmile
 
-She wanted to run, breathless as she was, upstairs to Mr. Linton’s room; but I compelled her to sit down on a chair, and made her drink, and washed her pale face, chafing it into a faint colour with my apron.
-s=
+She wanted to run, breathless as she was, upstairs to Mr. Linton’s room;
+s=;f:b:grange-garden-dusk=blur(3px)
+
+but I compelled her to sit down on a chair, and made her drink, and washed her pale face, chafing it into a faint colour with my apron.
+b=grange-kitchen-night
 
 Then I said I must go first, and tell of her arrival; imploring her to say, she should be happy with young Heathcliff. She stared, but soon comprehending why I counselled her to utter the falsehood, she assured me she would not complain.
 f:b:grange-kitchen-night=blur(3px)
@@ -11464,32 +11464,23 @@ f:b:grange-kitchen-night=blur(3px)
 I couldn’t abide to be present at their meeting. I stood outside the chamber-door a quarter of an hour, and hardly ventured near the bed, then.
 b=grange-catherine;f:b:grange-catherine=blur(3px)
 
-All was composed, however: Catherine’s despair was as silent as her father’s joy.
-
-
-She supported him calmly, in appearance; and he fixed on her features his raised eyes that seemed dilating with ecstasy.
+All was composed, however: Catherine’s despair was as silent as her father’s joy. She supported him calmly, in appearance; and he fixed on her features his raised eyes that seemed dilating with ecstasy.
 
 
 He died blissfully, Mr. Lockwood: he died so.
+;f:b:grange-catherine=blur(6px)
 
-
-Kissing her cheek, he murmured﻿—
-;f:b:grange-catherine=;m=break,1;m=nospace,1
-
-“I am going to her; and you, darling child, shall come to us!”
-x:edgar=sick;s=edgar;e:edgar=sadsmile
-
-and never stirred or spoke again; but continued that rapt, radiant gaze, till his pulse imperceptibly stopped and his soul departed.
-s=;f:b:grange-catherine=blur(3px)
+Kissing her cheek, he murmured﻿—“I am going to her; and you, darling child, shall come to us!” and never stirred or spoke again; but continued that rapt, radiant gaze, till his pulse imperceptibly stopped and his soul departed.
+m=dialogue,1
 
 None could have noticed the exact minute of his death, it was so entirely without a struggle.
-b=night;f:b:night=blur(3px)
+
 
 Whether Catherine had spent her tears, or whether the grief were too weighty to let them flow, she sat there dry-eyed till the sun rose: she sat till noon, and would still have remained brooding over that deathbed, but I insisted on her coming away and taking some repose.
 
 
 It was well I succeeded in removing her, for at dinnertime appeared the lawyer, having called at Wuthering Heights to get his instructions how to behave.
-b=grange-parlour;f:b:grange-parlour=blur(3px)
+b=grange-library-doubled;f:b:grange-library-doubled=blur(3px)
 
 He had sold himself to Mr. Heathcliff: that was the cause of his delay in obeying my master’s summons. Fortunately, no thought of worldly affairs crossed the latter’s mind, to disturb him, after his daughter’s arrival.
 
@@ -11501,10 +11492,10 @@ He would have carried his delegated authority to the point of insisting that Edg
 
 
 The funeral was hurried over; Catherine, Mrs. Linton Heathcliff now, was suffered to stay at the Grange till her father’s corpse had quitted it.
-b=night;f:b:night=blur(3px)
+f:b:grange-library-doubled=blur(6px)
 
 She told me that her anguish had at last spurred Linton to incur the risk of liberating her. She heard the men I sent disputing at the door, and she gathered the sense of Heathcliff’s answer. It drove her desperate.
-
+b=heights-wide-wide-night;f:b:heights-wide-wide-night=blur(6px)
 
 Linton, who had been conveyed up to the little parlour soon after I left, was terrified into fetching the key before his father re-ascended.
 
@@ -11512,11 +11503,14 @@ Linton, who had been conveyed up to the little parlour soon after I left, was te
 He had the cunning to unlock and re-lock the door, without shutting it; and when he should have gone to bed, he begged to sleep with Hareton, and his petition was granted for once.
 
 
-Catherine stole out before break of day. She dared not try the doors lest the dogs should raise an alarm; she visited the empty chambers and examined their windows; and, luckily, lighting on her mother’s, she got easily out of its lattice, and on to the ground, by means of the fir-tree close by.
+Catherine stole out before break of day. She dared not try the doors lest the dogs should raise an alarm; she visited the empty chambers and examined their windows;
 
+
+and, luckily, lighting on her mother’s, she got easily out of its lattice, and on to the ground, by means of the fir-tree close by.
+b=heights-catherine-bed-night-candleless;f:b:heights-catherine-bed-night-candleless=blur(6px)
 
 Her accomplice suffered for his share in the escape, notwithstanding his timid contrivances.
-
+;f:b:heights-catherine-bed-night-candleless=blur(10px)
 
 ## XXIX
 r=title
