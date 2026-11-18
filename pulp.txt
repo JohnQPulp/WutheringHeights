@@ -308,7 +308,7 @@ s=
 s=lockwood;e:lockwood=curious;e:lockwood=confused;i=2
 
 “They are not mine,” said the amiable hostess, more repellingly than Heathcliff himself could have replied.
-n:cathy=Mrs. Heathcliff;a:cathy=teen;x:cathy=mourning;s=cathy;e:cathy=annoyed;z:cathy=82,54,9.5;e:cathy=annoyed;i=2
+n:cathy=Mrs. Heathcliff;a:cathy=teen;x:cathy=mourning;s=cathy;e:cathy=annoyed;z:cathy=81,54,9.25;e:cathy=annoyed;i=2
 
 “Ah, your favourites are among these?” I continued, turning to an obscure cushion full of something like cats.
 s=lockwood;e:lockwood=contemplativelook;e:lockwood=contemplative;i=
@@ -9092,16 +9092,19 @@ She also got a trick of coming down early in the morning and lingering about the
 
 
 One day, as she inspected this drawer, I observed that the playthings and trinkets which recently formed its contents were transmuted into bits of folded paper.
-b=grange-library;f:b:grange-library=blur(3px)
+b=grange-library-doubled;f:b:grange-library-doubled=blur(3px)
 
-My curiosity and suspicions were roused; I determined to take a peep at her mysterious treasures; so, at night, as soon as she and my master were safe upstairs, I searched, and readily found among my house keys one that would fit the lock.
+My curiosity and suspicions were roused; I determined to take a peep at her mysterious treasures;
 
+
+so, at night, as soon as she and my master were safe upstairs, I searched, and readily found among my house keys one that would fit the lock.
+b=grange-library-night-doubled;f:b:grange-library-night-doubled=blur(3px)
 
 Having opened, I emptied the whole contents into my apron, and took them with me to examine at leisure in my own chamber.
-b=grange-nelly-bedroom-night;f:b:grange-nelly-bedroom-night=blur(3px)
+;f:b:grange-library-night-doubled=blur(6px)
 
 Though I could not but suspect, I was still surprised to discover that they were a mass of correspondence﻿—daily almost, it must have been﻿—from Linton Heathcliff: answers to documents forwarded by her.
-
+;f:b:grange-library-night-doubled=blur(6px)
 
 The earlier dated were embarrassed and short; gradually, however, they expanded into copious love-letters, foolish, as the age of the writer rendered natural, yet with touches here and there which I thought were borrowed from a more experienced source.
 
@@ -9113,22 +9116,19 @@ Whether they satisfied Cathy I don’t know; but they appeared very worthless tr
 
 
 Following her habit, my young lady descended early, and visited the kitchen: I watched her go to the door, on the arrival of a certain little boy; and, while the dairymaid filled his can, she tucked something into his jacket pocket, and plucked something out.
-b=grange-kitchen;f:b:grange-kitchen=blur(3px)
+b=grange-garden-dusk;f:b:grange-garden-dusk=blur(3px)
 
-I went round by the garden, and laid wait for the messenger; who fought valorously to defend his trust, and we spilt the milk between us;
-b=grange-park;f:b:grange-park=blur(3px)
-
-but I succeeded in abstracting the epistle; and, threatening serious consequences if he did not look sharp home, I remained under the wall and perused Miss Cathy’s affectionate composition.
+I went round by the garden, and laid wait for the messenger; who fought valorously to defend his trust, and we spilt the milk between us; but I succeeded in abstracting the epistle;
 
 
-It was more simple and more eloquent than her cousin’s: very pretty and very silly.
+and, threatening serious consequences if he did not look sharp home, I remained under the wall and perused Miss Cathy’s affectionate composition. It was more simple and more eloquent than her cousin’s: very pretty and very silly.
 
 
 I shook my head, and went meditating into the house.
 
 
 The day being wet, she could not divert herself with rambling about the park; so, at the conclusion of her morning studies, she resorted to the solace of the drawer.
-b=grange-library;f:b:grange-library=blur(3px)
+b=grange-library-doubled;f:b:grange-library-doubled=blur(3px)
 
 Her father sat reading at the table; and I, on purpose, had sought a bit of work in some unripped fringes of the window-curtain, keeping my eye steadily fixed on her proceedings.
 
@@ -9137,112 +9137,103 @@ Never did any bird flying back to a plundered nest, which it had left brimful of
 m=dialogue,1
 
 Mr. Linton looked up.
-s=;f:b:grange-library=
+s=;f:b:grange-library-doubled=
 
 “What is the matter, love? Have you hurt yourself?” he said.
-s=edgar;e:edgar=confused
+s=edgar;e:edgar=confused;e:edgar=confused;i=
 
 His tone and look assured her *he* had not been the discoverer of the hoard.
 s=
 
-“No, papa!” she gasped. “Ellen! Ellen! come upstairs﻿—I’m sick!”
-s=cathy;e:cathy=upset
+“No, papa!” she gasped.
+s=cathy;e:cathy=upset;e:cathy=annoyed;i=;e:cathy=upset;i=
 
-I obeyed her summons, and accompanied her out.
-s=;f:b:grange-library=blur(3px)
+“Ellen! Ellen! come upstairs﻿—I’m sick!”
+;e:cathy=annoyedupset;i=
 
-“Oh, Ellen! you have got them,” she commenced immediately,
-s=cathy;e:cathy=upset;f=fade;i=2;b=grange-cathy-bedroom;m=break,1
+I obeyed her summons,
+s=;f:b:grange-library-doubled=blur(3px);m=break,1
 
-dropping on her knees, when we were enclosed alone.
-s=
+and accompanied her out.
+b=grange-cathy-bedroom;f:b:grange-cathy-bedroom=blur(3px)
+
+“Oh, Ellen! you have got them,” she commenced immediately, dropping on her knees, when we were enclosed alone.
+s=cathy;e:cathy=upset;;i=2;;;f:b:grange-cathy-bedroom=;e:cathy=annoyed;i=
 
 “Oh, give them to me, and I’ll never, never do so again! Don’t tell papa. You have not told papa, Ellen? say you have not? I’ve been exceedingly naughty, but I won’t do it any more!”
-s=cathy;i=3
+s=cathy;i=3;e:cathy=angryupset;i=
 
 With a grave severity in my manner I bade her stand up.
 s=
 
 “So,” I exclaimed, “Miss Catherine, you are tolerably far on, it seems: you may well be ashamed of them! A fine bundle of trash you study in your leisure hours, to be sure: why, it’s good enough to be printed!”
-s=nelly;e:nelly=seriouslookdown
+s=nelly;e:nelly=seriouslookdown;e:nelly=angry;i=
 
 “And what do you suppose the master will think when I display it before him? I haven’t shown it yet, but you needn’t imagine I shall keep your ridiculous secrets. For shame! and you must have led the way in writing such absurdities: he would not have thought of beginning, I’m certain.”
-e:nelly=scowling
+e:nelly=scowling;e:nelly=annoyed;i=
 
-“I didn’t! I didn’t!” sobbed Cathy, fit to break her heart.
-s=cathy
-
-“I didn’t once think of loving him till﻿—”
-
+“I didn’t! I didn’t!” sobbed Cathy, fit to break her heart. “I didn’t once think of loving him till﻿—”
+s=cathy;e:cathy=upset;i=
 
 “*Loving!*” cried I, as scornfully as I could utter the word.
-s=nelly;e:nelly=scowling;i=2
+s=nelly;e:nelly=scowling;i=2;e:nelly=scowling;i=
 
 “*Loving!* Did anybody ever hear the like! I might just as well talk of loving the miller who comes once a year to buy our corn. Pretty loving, indeed! and both times together you have seen Linton hardly four hours in your life!”
-e:nelly=serious
+e:nelly=serious;e:nelly=angry;i=
 
-“Now here is the babyish trash. I’m going with it to the library; and we’ll see what your father says to such *loving*.”
-
+“Now here is the babyish trash. I’m going with it to the library; and we’ll see what your father says to such *loving*.”<e>"worthless trash", "fine bundle of trash", "babyish trash", "trash lmao" —Nelly</e>
+;e:nelly=unhappy;i=2;e:nelly=scowling;i=2
 
 She sprang at her precious epistles, but I held them above my head; and then she poured out further frantic entreaties that I would burn them﻿—do anything rather than show them.
-s=
+s=;f:b:grange-cathy-bedroom=blur(3px)
 
-And being really fully as much inclined to laugh as scold﻿—for I esteemed it all girlish vanity﻿—I at length relented in a measure, and asked﻿—
+And being really fully as much inclined to laugh as scold﻿—for I esteemed it all girlish vanity﻿—
 m=nospace,1;m=break,1
 
+I at length relented in a measure, and asked﻿—
+m=nospace,1;m=break,1;f:b:grange-cathy-bedroom=
+
 “If I consent to burn them, will you promise faithfully neither to send nor receive a letter again, nor a book (for I perceive you have sent him books), nor locks of hair, nor rings, nor playthings?”
-s=nelly;e:nelly=suspicious
+s=nelly;e:nelly=suspicious;e:nelly=suspicious;i=
 
 “We don’t send playthings,” cried Catherine, her pride overcoming her shame.
-s=cathy;e:cathy=annoyedupset
+s=cathy;e:cathy=annoyedupset;e:cathy=annoyed;i=
 
 “Nor anything at all, then, my lady?” I said. “Unless you will, here I go.”
 s=nelly;e:nelly=serious;i=2
 
-“I promise, Ellen!” she cried, catching my dress.
-s=cathy;e:cathy=upset
-
-“Oh, put them in the fire, do, do!”
-
+“I promise, Ellen!” she cried, catching my dress. “Oh, put them in the fire, do, do!”
+s=cathy;e:cathy=upset;e:cathy=angryupset;i=
 
 But when I proceeded to open a place with the poker the sacrifice was too painful to be borne. She earnestly supplicated that I would spare her one or two.
 s=
 
 “One or two, Ellen, to keep for Linton’s sake!”
-s=cathy;i=3
+s=cathy;i=3;f:b:grange-cathy-bedroom=;e:cathy=upset;i=
 
 I unknotted the handkerchief, and commenced dropping them in from an angle, and the flame curled up the chimney.
 s=
 
 “I will have one, you cruel wretch!” she screamed,
-s=cathy;e:cathy=angryupset;m=break,1
+s=cathy;e:cathy=angryupset;m=break,1;e:cathy=angry;i=
 
 darting her hand into the fire, and drawing forth some half-consumed fragments, at the expense of her fingers.
-s=
+s=;f:b:grange-cathy-bedroom=blur(3px)
 
 “Very well﻿—and I will have some to exhibit to papa!” I answered,
-s=nelly;m=break,1;e:nelly=scowlinglookdown
+s=nelly;m=break,1;e:nelly=scowlinglookdown;f:b:grange-cathy-bedroom=;e:nelly=angry;i=;e:nelly=suspicious;i=
 
 shaking back the rest into the bundle, and turning anew to the door.
 s=
 
-She emptied her blackened pieces into the flames, and motioned me to finish the immolation.
-s=;
+She emptied her blackened pieces into the flames, and motioned me to finish the immolation. It was done; I stirred up the ashes, and interred them under a shovelful of coals; and she mutely, and with a sense of intense injury, retired to her private apartment.
+s=;f:b:grange-cathy-bedroom=blur(3px)
 
-It was done; I stirred up the ashes, and interred them under a shovelful of coals; and she mutely, and with a sense of intense injury, retired to her private apartment.
-f:b:grange-cathy-bedroom=blur(3px)
+I descended to tell my master that the young lady’s qualm of sickness was almost gone, but I judged it best for her to lie down a while. She wouldn’t dine; but she reappeared at tea, pale, and red about the eyes, and marvellously subdued in outward aspect.
+b=grange-library-doubled;f:b:grange-library-doubled=blur(3px)
 
-I descended to tell my master that the young lady’s qualm of sickness was almost gone, but I judged it best for her to lie down a while.
-b=grange-library;f:b:grange-library=blur(3px)
-
-She wouldn’t dine; but she reappeared at tea, pale, and red about the eyes, and marvellously subdued in outward aspect.
-
-
-Next morning I answered the letter by a slip of paper, inscribed, “Master Heathcliff is requested to send no more notes to Miss Linton, as she will not receive them.”
-
-
-And, henceforth, the little boy came with vacant pockets.
-
+Next morning I answered the letter by a slip of paper, inscribed, “Master Heathcliff is requested to send no more notes to Miss Linton, as she will not receive them.” And, henceforth, the little boy came with vacant pockets.
+f:b:grange-library-doubled=blur(6px)
 
 ## XXII
 r=title
