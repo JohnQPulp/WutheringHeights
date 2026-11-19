@@ -12185,25 +12185,25 @@ s=;m=nospace,1;m=break,1
 s=lockwood;e:lockwood=contemplative
 
 “Oh!” she replied, “I don’t wish to limit his acquirements: still, he has no right to appropriate what is mine, and make it ridiculous to me with his vile mistakes and mispronunciations!”
-s=cathy;e:cathy=annoyed
+s=cathy;e:cathy=annoyed;e:cathy=scowling;i=
 
 “Those books, both prose and verse, are consecrated to me by other associations; and I hate to have them debased and profaned in his mouth! Besides, of all, he has selected my favourite pieces that I love the most to repeat, as if out of deliberate malice.”
 
 
 Hareton’s chest heaved in silence a minute: he laboured under a severe sense of mortification and wrath, which it was no easy task to suppress.
-s=
+s=;f:b:heights-house-entrance=blur(3px)
 
-I rose, and, from a gentlemanly idea of relieving his embarrassment, took up my station in the doorway, surveying the external prospect as I stood.
+I rose, and, from a gentlemanly idea of relieving his embarrassment, took up my station in the doorway, surveying the external prospect as I stood. He followed my example, and left the room;
 
 
-He followed my example, and left the room; but presently reappeared, bearing half a dozen volumes in his hands, which he threw into Catherine’s lap, exclaiming﻿—
-m=nospace,1;m=break,1
+but presently reappeared, bearing half a dozen volumes in his hands, which he threw into Catherine’s lap, exclaiming﻿—
+m=nospace,1;m=break,1;f:b:heights-house-entrance=
 
 “Take them! I never want to hear, or read, or think of them again!”
-s=hareton;e:hareton=angry
+s=hareton;e:hareton=angry;e:hareton=scowling;i=;e:hareton=angry;i=
 
 “I won’t have them now,” she answered. “I shall connect them with you, and hate them.”
-s=cathy;e:cathy=scowling;i=2
+s=cathy;e:cathy=scowling;i=2;e:cathy=angry;i=;e:cathy=annoyed;i=2
 
 She opened one that had obviously been often turned over, and read a portion in the drawling tone of a beginner; then laughed, and threw it from her.
 s=
@@ -12239,19 +12239,16 @@ sucking her damaged lip, and watching the conflagration with indignant eyes.
 s=
 
 “You’d *better* hold your tongue, now,” he answered fiercely.
-s=hareton;e:hareton=angry;i=2
+s=hareton;e:hareton=angry;i=2;e:hareton=angry;i=
 
-And his agitation precluded further speech;
-s=
-
-he advanced hastily to the entrance, where I made way for him to pass.
-b=heights-house-entrance;f:b:heights-house-entrance=
+And his agitation precluded further speech; he advanced hastily to the entrance, where I made way for him to pass.
+s=;f:b:heights-house=blur(3px)
 
 But ere he had crossed the door-stones, Mr. Heathcliff, coming up the causeway, encountered him, and laying hold of his shoulder asked﻿—
-s=;m=nospace,1;m=break,1
+s=;m=nospace,1;m=break,1;b=heights-house-entrance;f:b:heights-house-entrance=
 
 “What’s to do now, my lad?”
-s=heathcliff;e:heathcliff=annoyed;x:heathcliff=hat
+s=heathcliff;e:heathcliff=annoyed;x:heathcliff=hat;e:heathcliff=serious;i=3
 
 “Naught, naught,” he said,
 s=hareton;e:hareton=unhappy;m=break,1
@@ -12263,79 +12260,79 @@ Heathcliff gazed after him, and sighed.
 s=
 
 “It will be odd if I thwart myself,” he muttered, unconscious that I was behind him.
-s=heathcliff;e:heathcliff=contemplative
+s=heathcliff;e:heathcliff=contemplative;e:heathcliff=suspicious;i=;e:heathcliff=serious;i=;e:heathcliff=scowling;i=2
 
 “But when I look for his father in his face, I find *her* every day more! How the devil is he so like? I can hardly bear to see him.”
-e:heathcliff=confused
+e:heathcliff=confused;e:heathcliff=scowling;i=2;e:heathcliff=confused;i=;e:heathcliff=suspicious;i=
 
-He bent his eyes to the ground, and walked moodily in.
+He bent his eyes to the ground, and walked moodily in. There was a restless, anxious expression in his countenance I had never remarked there before; and he looked sparer in person.
 s=
-
-There was a restless, anxious expression in his countenance I had never remarked there before; and he looked sparer in person.
-
 
 His daughter-in-law, on perceiving him through the window, immediately escaped to the kitchen, so that I remained alone.
 
 
 “I’m glad to see you out of doors again, Mr. Lockwood,” he said, in reply to my greeting;
-s=heathcliff;e:heathcliff=serious
+s=heathcliff;e:heathcliff=serious;x:heathcliff=;e:heathcliff=annoyed;i=2
 
 “from selfish motives partly: I don’t think I could readily supply your loss in this desolation. I’ve wondered more than once what brought you here.”
-
+;e:heathcliff=smirkinglookdown;i=;e:heathcliff=weary;i=
 
 “An idle whim, I fear, sir,” was my answer; “or else an idle whim is going to spirit me away.”
-s=lockwood;e:lockwood=contemplative
+s=lockwood;e:lockwood=contemplative;e:lockwood=nervous;i=
 
 “I shall set out for London next week; and I must give you warning that I feel no disposition to retain Thrushcross Grange beyond the twelve months I agreed to rent it. I believe I shall not live there any more.”
-e:lockwood=unhappy
+e:lockwood=unhappy;e:lockwood=annoyedlookdown;i=
 
 “Oh, indeed; you’re tired of being banished from the world, are you?” he said.
-s=heathcliff;e:heathcliff=smirking
+s=heathcliff;e:heathcliff=smirking;e:heathcliff=smirkinglookdown;i=
 
 “But if you be coming to plead off paying for a place you won’t occupy, your journey is useless: I never relent in exacting my due from anyone.”
-e:heathcliff=scowling
+e:heathcliff=scowling;e:heathcliff=annoyedlook;i=
 
 “I’m coming to plead off nothing about it,” I exclaimed, considerably irritated.
-s=lockwood;e:lockwood=annoyed
+s=lockwood;e:lockwood=annoyed;e:lockwood=serious;i=
 
 “Should you wish it, I’ll settle with you now,”
-;m=break,1;e:lockwood=annoyedlookdown
+;m=break,1;e:lockwood=annoyedlookdown;e:lockwood=scowling;i=
 
 and I drew my notebook from my pocket.
 s=
 
 “No, no,” he replied, coolly; “you’ll leave sufficient behind to cover your debts, if you fail to return: I’m not in such a hurry.”
-s=heathcliff;e:heathcliff=serious
+s=heathcliff;e:heathcliff=serious;e:heathcliff=suspicious;i=
 
 “Sit down and take your dinner with us; a guest that is safe from repeating his visit can generally be made welcome.”
-e:heathcliff=smirking;i=2
+e:heathcliff=smirking;i=2;e:heathcliff=contemplativehappy;i=
 
 “Catherine! bring the things in: where are you?”
-e:heathcliff=scowlinglook
+e:heathcliff=scowlinglook;e:heathcliff=annoyedlook;i=
 
 Catherine reappeared, bearing a tray of knives and forks.
 s=
 
 “You may get your dinner with Joseph,” muttered Heathcliff aside, “and remain in the kitchen till he is gone.”
-s=heathcliff;e:heathcliff=annoyedlook
+s=heathcliff;e:heathcliff=annoyedlook;e:heathcliff=serious;i=;e:heathcliff=suspicious;i=2
 
-She obeyed his directions very punctually: perhaps she had no temptation to transgress. Living among clowns and misanthropists, she probably cannot appreciate a better class of people when she meets them.
+She obeyed his directions very punctually: perhaps she had no temptation to transgress. Living among clowns and misanthropists, she probably cannot appreciate a better class of people when she meets them.<e>The fifth (and sadly final) "clown" of the book.</e>
 s=
 
 With Mr. Heathcliff, grim and saturnine, on the one hand, and Hareton, absolutely dumb, on the other, I made a somewhat cheerless meal, and bade adieu early.
-f:b:heights-house=blur(3px)
+f:b:heights-house-entrance=blur(3px)
 
-I would have departed by the back way, to get a last glimpse of Catherine and annoy old Joseph; but Hareton received orders to lead up my horse, and my host himself escorted me to the door, so I could not fulfil my wish.
+I would have departed by the back way, to get a last glimpse of Catherine and annoy old Joseph;
 
+
+but Hareton received orders to lead up my horse, and my host himself escorted me to the door, so I could not fulfil my wish.
+b=heights-wide-wide;f:b:heights-wide-wide=blur(3px)
 
 “How dreary life gets over in that house!” I reflected, while riding down the road.
-x:lockwood=hat;s=lockwood;e:lockwood=unhappy;f=fade;b=heights-wide-wide
+x:lockwood=hat;s=lockwood;e:lockwood=thinking;f:b:heights-wide-wide=
 
 “What a realisation of something more romantic than a fairy tale it would have been for Mrs. Linton Heathcliff, had she and I struck up an attachment, as her good nurse desired, and migrated together into the stirring atmosphere of the town!”
-
+;e:lockwood=unhappy;i=
 
 ## XXXII
-r=title
+r=title;f=fade
 
 1802.﻿—This September I was invited to devastate the moors of a friend in the north, and on my journey to his abode, I unexpectedly came within fifteen miles of Gimmerton.
 b=roadside-inn;
