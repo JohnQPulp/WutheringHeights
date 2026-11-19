@@ -2803,7 +2803,7 @@ s=;f:b:heights-house=blur(3px)
 Doubtless Catherine marked the difference between her friends, as one came in and the other went out. The contrast resembled what you see in exchanging a bleak, hilly, coal country for a beautiful fertile valley; and his voice and greeting were as opposite as his aspect.
 
 
-He had a sweet, low manner of speaking, and pronounced his words as you do: that’s less gruff than we talk here, and softer.<e>Common Nelly Lockwood-insulting W.</e>
+He had a sweet, low manner of speaking, and pronounced his words as you do: that’s less gruff than we talk here, and softer.<e>Common Nelly (Lockwood-insulting) W.</e>
 
 
 “I’m not come too soon, am I?” he said, casting a look at me:
@@ -3040,7 +3040,7 @@ f:b:heights-stairs=
 A miser who has parted with a lucky lottery ticket for five shillings, and finds next day he has lost in the bargain five thousand pounds, could not show a blanker countenance than he did on beholding the figure of Mr. Earnshaw above.
 
 
-It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.<e>Sources disagree on whether the text uses "intense" or "intensest" here — choose your preferred degree-of-comparison form.</e>
+It expressed, plainer than words could do, the intensest anguish at having made himself the instrument of thwarting his own revenge.<e>Sources disagree on whether the text uses "intense" or "intensest" here — choose your preferred degree-of-comparison.</e>
 
 
 Had it been dark, I daresay he would have tried to remedy the mistake by smashing Hareton’s skull on the steps; but, we witnessed his salvation; and I was presently below with my precious charge pressed to my heart.
@@ -4648,7 +4648,7 @@ He then stepped across the pavement to her, and said something: she seemed embar
 She averted her face: he apparently put some question which she had no mind to answer. There was another rapid glance at the house, and supposing himself unseen, the scoundrel had the impudence to embrace her.
 
 
-“Judas! Traitor!” I ejaculated.<e>This book out-"ejaculates" even <book>A Study in Scarlet|Conan Doyle</book>, which is reflected in the 2026 movie — a rare bit of accuracy on its part. (Otherwise being <i>Wuthering Heights</i>-as-told-by-<book>The Signature of All Things|Elizabeth Gilbert</book>.)</e>
+“Judas! Traitor!” I ejaculated.<e>This book out-"ejaculates" even <book>A Study in Scarlet|Conan Doyle</book> — a rare bit of consistency with the 2026 movie. (<book>The Signature of All Things|Elizabeth Gilbert</book>-inspired, perhaps.)</e>
 x:nelly=;s=nelly;e:nelly=angry;e:nelly=angrylook;i=;e:nelly=angrylook;i=2
 
 “You are a hypocrite, too, are you? A deliberate deceiver.”
@@ -5878,7 +5878,7 @@ s=
 “I shall have my supper in another room,” I said. “Have you no place you call a parlour?”
 s=isabella;e:isabella=unhappy;f:b:heights-kitchen-dirty-night=;e:isabella=nervous;i=
 
-“*Parlour!*” he echoed, sneeringly, “*parlour!* Nay, we’ve noa *parlours*.”<e><a href='https://www.youtube.com/watch?v=JhbJnlIvfyc'>"Well ooh la-de-da, Mr. Frenchman!"</a></e>
+“*Parlour!*” he echoed, sneeringly, “*parlour!* Nay, we’ve noa *parlours*.”<e>"Well ooh la-de-da, Mr. Frenchman!"</e>
 s=joseph;e:joseph=smirking;e:joseph=serious;i=2;e:joseph=scowling;i=2
 
 “If yah dunnut loike wer company, there’s maister’s; un’ if yah dunnut loike maister, there’s us.”
@@ -12043,7 +12043,7 @@ and I can see no remedy, at present, unless she could marry again; and that sche
 —
 
 
-Thus ended Mrs. Dean’s story.<e>Adieu to frame narrative and spleen.</e>
+Thus ended Mrs. Dean’s story.<e>Adieu to frame narrative <s>and</s> spleen.</e>
 b=grange-guest;f:b:grange-guest=blur(3px)
 
 Notwithstanding the doctor’s prophecy, I am rapidly recovering strength; and though it be only the second week in January, I propose getting out on horseback in a day or two, and riding over to Wuthering Heights, to inform my landlord that I shall spend the next six months in London;
