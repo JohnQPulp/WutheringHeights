@@ -12043,20 +12043,20 @@ and I can see no remedy, at present, unless she could marry again; and that sche
 —
 
 
-Thus ended Mrs. Dean’s story.
+Thus ended Mrs. Dean’s story.<e>Adieu to frame narrative and spleen.</e>
 b=grange-guest;f:b:grange-guest=blur(3px)
 
 Notwithstanding the doctor’s prophecy, I am rapidly recovering strength; and though it be only the second week in January, I propose getting out on horseback in a day or two, and riding over to Wuthering Heights, to inform my landlord that I shall spend the next six months in London;
 
 
 and, if he likes, he may look out for another tenant to take the place after October. I would not pass another winter here for much.
-
+;f:b:grange-guest=blur(6px)
 
 ## XXXI
 r=title
 
 Yesterday was bright, calm, and frosty. I went to the Heights as I proposed: my housekeeper entreated me to bear a little note from her to her young lady, and I did not refuse, for the worthy woman was not conscious of anything odd in her request.
-b=heights-wide;
+b=heights-wide-snow;f:b:heights-wide-snow=blur(3px)
 
 The front door stood open, but the jealous gate was fastened, as at my last visit; I knocked and invoked Earnshaw from among the garden-beds; he unchained it, and I entered. The fellow is as handsome a rustic as need be seen.
 
@@ -12076,47 +12076,47 @@ b=heights-house
 She hardly raised her eyes to notice me, and continued her employment with the same disregard to common forms of politeness as before; never returning my bow and good morning by the slightest acknowledgment.
 
 
-“She does not seem so amiable,” I thought, “as Mrs. Dean would persuade me to believe. She’s a beauty, it is true; but not an angel.”<e>Contrary to popular speculation, Lockwood is not an unreliable narrator. He is, however, retarded.</e>
+“She does not seem so amiable,” I thought, “as Mrs. Dean would persuade me to believe. She’s a beauty, it is true; but not an angel.”<e>??????????????????????????????????????? (Lockwood lmao)</e>
 t=lockwood;e:lockwood=contemplative
 
 Earnshaw surlily bid her remove her things to the kitchen.
 t=
 
-“Remove them yourself,” she said,
-x:cathy=mourning;s=cathy;e:cathy=annoyed;m=break,1
-
-pushing them from her as soon as she had done;
-s=
+“Remove them yourself,” she said, pushing them from her as soon as she had done;
+x:cathy=mourning;s=cathy;e:cathy=annoyed;;f:b:heights-house=;e:cathy=scowling;i=
 
 and retiring to a stool by the window, where she began to carve figures of birds and beasts out of the turnip-parings in her lap.
-b=heights-house-entrance
+;s=;f:b:heights-house=blur(3px)
 
-I approached her, pretending to desire a view of the garden; and, as I fancied, adroitly dropped Mrs. Dean’s note on to her knee, unnoticed by Hareton﻿—but she asked aloud,
+I approached her, pretending to desire a view of the garden;
+b=heights-house-entrance;f:b:heights-house-entrance=blur(3px)
 
+and, as I fancied, adroitly dropped Mrs. Dean’s note on to her knee, unnoticed by Hareton﻿—but she asked aloud,
+b=heights-house-entrance;f:b:heights-house-entrance=
 
 “What is that?”
-s=cathy;e:cathy=suspicious
+s=cathy;e:cathy=suspicious;e:cathy=annoyedlook;i=
 
 And chucked it off.
 s=
 
 “A letter from your old acquaintance, the housekeeper at the Grange,” I answered;
-s=lockwood;e:lockwood=annoyed
+s=lockwood;e:lockwood=annoyed;e:lockwood=annoyedlookdown;i=
 
 annoyed at her exposing my kind deed, and fearful lest it should be imagined a missive of my own.
 s=
 
 She would gladly have gathered it up at this information, but Hareton beat her; he seized and put it in his waistcoat, saying Mr. Heathcliff should look at it first.
+;f:b:heights-house-entrance=blur(3px)
+
+Thereat, Catherine silently turned her face from us, and, very stealthily, drew out her pocket-handkerchief and applied it to her eyes; and her cousin, after struggling awhile to keep down his softer feelings, pulled out the letter and flung it on the floor beside her, as ungraciously as he could.
 
 
-Thereat, Catherine silently turned her face from us, and, very stealthily, drew out her pocket-handkerchief and applied it to her eyes;
+Catherine caught and perused it eagerly; then she put a few questions to me concerning the inmates, rational and irrational, of her former home;
 
 
-and her cousin, after struggling awhile to keep down his softer feelings, pulled out the letter and flung it on the floor beside her, as ungraciously as he could.
-
-
-Catherine caught and perused it eagerly; then she put a few questions to me concerning the inmates, rational and irrational, of her former home; and gazing towards the hills, murmured in soliloquy:
-
+and gazing towards the hills, murmured in soliloquy:
+;f:b:heights-house-entrance=
 
 “I should like to be riding Minny down there! I should like to be climbing up there! Oh! I’m tired﻿—I’m *stalled*, Hareton!”
 s=cathy;e:cathy=upsetlook
@@ -12124,68 +12124,56 @@ s=cathy;e:cathy=upsetlook
 And she leant her pretty head back against the sill, with half a yawn and half a sigh, and lapsed into an aspect of abstracted sadness: neither caring nor knowing whether we remarked her.
 s=
 
-“Mrs. Heathcliff,” I said, after sitting some time mute,
-s=lockwood;e:lockwood=contemplative
-
-“you are not aware that I am an acquaintance of yours? so intimate that I think it strange you won’t come and speak to me.”
-
+“Mrs. Heathcliff,” I said, after sitting some time mute, “you are not aware that I am an acquaintance of yours? so intimate that I think it strange you won’t come and speak to me.”
+s=lockwood;e:lockwood=contemplative;e:lockwood=confused;i=2;e:lockwood=warysmile;i=
 
 “My housekeeper never wearies of talking about and praising you; and she’ll be greatly disappointed if I return with no news of or from you, except that you received her letter and said nothing!”
-e:lockwood=serious
+e:lockwood=confused;i=2
 
 She appeared to wonder at this speech, and asked﻿—
 s=
 
 “Does Ellen like you?”
-s=cathy;e:cathy=confused
+s=cathy;e:cathy=confused;e:cathy=unhappy;i=
 
 “Yes, very well,” I replied, hesitatingly.
 s=lockwood;e:lockwood=nervous
 
 “You must tell her,” she continued, “that I would answer her letter, but I have no materials for writing: not even a book from which I might tear a leaf.”
-s=cathy;e:cathy=unhappy
+s=cathy;e:cathy=unhappy;e:cathy=unhappy;i=2;e:cathy=upsetlook;i=
 
 “No books!” I exclaimed. “How do you contrive to live here without them? if I may take the liberty to inquire.”
-s=lockwood;e:lockwood=confused
+s=lockwood;e:lockwood=confused;e:lockwood=confused;i=2
 
 “Though provided with a large library, I’m frequently very dull at the Grange; take my books away, and I should be desperate!”
-e:lockwood=unhappy
+e:lockwood=unhappy;e:lockwood=warysmile;i=
 
 “I was always reading, when I had them,” said Catherine; “and Mr. Heathcliff never reads; so he took it into his head to destroy my books. I have not had a glimpse of one for weeks.”
-s=cathy;e:cathy=thinking
+s=cathy;e:cathy=thinking;e:cathy=unhappy;i=2;e:cathy=unhappy;i=
 
-“Only once, I searched through Joseph’s store of theology, to his great irritation;”
+“Only once, I searched through Joseph’s store of theology, to his great irritation; and once, Hareton, I came upon a secret stock in your room﻿—some Latin and Greek, and some tales and poetry: all old friends.”
 e:cathy=scowling
 
-“and once, Hareton, I came upon a secret stock in your room﻿—some Latin and Greek, and some tales and poetry: all old friends. I brought the last here﻿—and you gathered them, as a magpie gathers silver spoons, for the mere love of stealing!”
-e:cathy=annoyedlook
+“I brought the last here﻿—and you gathered them, as a magpie gathers silver spoons, for the mere love of stealing! They are of no use to you; or else you concealed them in the bad spirit that, as you cannot enjoy them, nobody else shall.”
+e:cathy=annoyedlook;e:cathy=angry;i=
 
-“They are of no use to you; or else you concealed them in the bad spirit that, as you cannot enjoy them, nobody else shall. Perhaps *your* envy counselled Mr. Heathcliff to rob me of my treasures?”
-e:cathy=scowling
-
-“But I’ve most of them written on my brain and printed in my heart, and you cannot deprive me of those!”
-e:cathy=upset
+“Perhaps *your* envy counselled Mr. Heathcliff to rob me of my treasures? But I’ve most of them written on my brain and printed in my heart, and you cannot deprive me of those!”
+e:cathy=scowling;e:cathy=scowling;i=2
 
 Earnshaw blushed crimson when his cousin made this revelation of his private literary accumulations, and stammered an indignant denial of her accusations.
 s=
 
 “Mr. Hareton is desirous of increasing his amount of knowledge,” I said, coming to his rescue.
-s=lockwood;e:lockwood=wary
+s=lockwood;e:lockwood=wary;e:lockwood=confused;i=2
 
 “He is not *envious*, but *emulous* of your attainments. He’ll be a clever scholar in a few years.”
 e:lockwood=happy
 
-“And he wants me to sink into a dunce, meantime,” answered Catherine.
-s=cathy;e:cathy=annoyed
+“And he wants me to sink into a dunce, meantime,” answered Catherine. “Yes, I hear him trying to spell and read to himself, and pretty blunders he makes!”
+s=cathy;e:cathy=annoyed;e:cathy=serious;i=;e:cathy=scowling;i=2
 
-“Yes, I hear him trying to spell and read to himself, and pretty blunders he makes!”
-e:cathy=smirking
-
-“I wish you would repeat Chevy Chase as you did yesterday: it was extremely funny.”<e>The indisputably greatest line in all of literature.</e>
-
-
-“I heard you; and I heard you turning over the dictionary to seek out the hard words, and then cursing because you couldn’t read their explanations!”
-e:cathy=scowling
+“I wish you would repeat Chevy Chase as you did yesterday: it was extremely funny. I heard you; and I heard you turning over the dictionary to seek out the hard words, and then cursing because you couldn’t read their explanations!”<e>"Two Garfield books and the novelization of the movie <i>Caddyshack</i>."</e>
+;e:cathy=smirking;i=
 
 The young man evidently thought it too bad that he should be laughed at for his ignorance, and then laughed at for trying to remove it.
 s=
