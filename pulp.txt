@@ -11447,7 +11447,7 @@ My own sweet little mistress sprang on my neck sobbing,
 ;f:b:grange-garden-dusk=
 
 “Ellen, Ellen! Is papa alive?”
-;s=cathy;e:cathy=upset;n:cathy=“Cathy” (Catherine) Heathcliff;e:cathy=upsetupset;i=
+;s=cathy;e:cathy=upset;n:cathy=“Cathy” Catherine Heathcliff;e:cathy=upsetupset;i=
 
 “Yes,” I cried: “yes, my angel, he is, God be thanked, you are safe with us again!”
 s=nelly;e:nelly=sadsmile
