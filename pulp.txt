@@ -12323,10 +12323,10 @@ I would have departed by the back way, to get a last glimpse of Catherine and an
 
 
 but Hareton received orders to lead up my horse, and my host himself escorted me to the door, so I could not fulfil my wish.
-b=heights-wide-wide;f:b:heights-wide-wide=blur(3px)
+b=heights-wide-wide-snow;f:b:heights-wide-wide-snow=blur(3px)
 
 “How dreary life gets over in that house!” I reflected, while riding down the road.
-x:lockwood=hat;s=lockwood;e:lockwood=thinking;f:b:heights-wide-wide=
+x:lockwood=hat;s=lockwood;e:lockwood=thinking;f:b:heights-wide-wide-snow=
 
 “What a realisation of something more romantic than a fairy tale it would have been for Mrs. Linton Heathcliff, had she and I struck up an attachment, as her good nurse desired, and migrated together into the stirring atmosphere of the town!”
 ;e:lockwood=unhappy;i=
