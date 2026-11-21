@@ -125,7 +125,7 @@ Let me hope my constitution is almost peculiar: my dear mother used to say I sho
 
 
 While enjoying a month of fine weather at the seacoast, I was thrown into the company of a most fascinating creature: a real goddess in my eyes, as long as she took no notice of me.
-b=memory;f:b:memory=blur(3px)
+b=memory-2;f:b:memory-2=blur(3px)
 
 I “never told my love” vocally; still, if looks have language, the merest idiot might have guessed I was over head and ears: she understood me at last, and looked a return﻿—the sweetest of all imaginable looks.
 
@@ -818,7 +818,7 @@ s=joseph;e:joseph=angry;m=nospeaker,2
 s=;m=break,1
 
 “hurled both into the back-kitchen; where, Joseph asseverated, ‘owd Nick’ would fetch us as sure as we were living: and, so comforted, we each sought a separate nook to await his advent.”
-b=heights-kitchen;f:b:heights-kitchen=blur(3px);m=dialogue,1
+b=heights-kitchen-closed;f:b:heights-kitchen-closed=blur(3px);m=dialogue,1
 
 “I reached this book, and a pot of ink from a shelf, and pushed the house-door ajar to give me light, and I have got the time on with writing for twenty minutes;”
 
@@ -7385,7 +7385,7 @@ and descended to the carriage, accompanied by Fanny, who yelped wild with joy at
 f:b:grange-library-snow-doubled=blur(6px)
 
 She was driven away, never to revisit this neighbourhood: but a regular correspondence was established between her and my master when things were more settled.
-b=memory;f:b:memory=blur(3px)
+b=memory-2;f:b:memory-2=blur(3px)
 
 I believe her new abode was in the south, near London; there she had a son born a few months subsequent to her escape. He was christened Linton, and, from the first, she reported him to be an ailing, peevish creature.
 
@@ -7403,7 +7403,7 @@ m=dialogue,3
 
 
 “But I’ll have it,” he said, “when I want it. They may reckon on that!”
-f:b:memory=blur(6px)
+f:b:memory-2=blur(6px)
 
 Fortunately its mother died before the time arrived; some thirteen years after the decease of Catherine, when Linton was twelve, or a little more.
 
@@ -7685,7 +7685,7 @@ The road thither wound close by Wuthering Heights. Edgar had not the heart to pa
 s=;m=dialogue,1;a:edgar=mature
 
 I said Mrs. Heathcliff lived above a dozen years after quitting her husband. Her family were of a delicate constitution: she and Edgar both lacked the ruddy health that you will generally meet in these parts.
-b=memory;f:b:memory=blur(3px)
+b=memory-2;f:b:memory-2=blur(3px)
 
 What her last illness was, I am not certain: I conjecture, they died of the same thing, a kind of fever, slow at its commencement, but incurable, and rapidly consuming life towards the close.
 
@@ -11948,7 +11948,7 @@ g=heights-house;f:b:heights-house=
 
 
 “‘I’ve been starved a month and more,’ she answered, resting on the word as scornful as she could.”<e>Re:"starve", refer to <book>Irene Iddesleigh</book>.</e>
-s=cathy;e:cathy=scowling;x:cathy=mourning;;e:cathy=annoyed;i=2
+s=cathy;e:cathy=scowling;x:cathy=mourning;;e:cathy=annoyed;i=2;f=hit
 
 “And she got a chair for herself, and placed it at a distance from both of us.”
 s=
